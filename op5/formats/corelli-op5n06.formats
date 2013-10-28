@@ -1,0 +1,48 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = scform
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+& 
+Comments: 
+VJ-1    = vertically justify proportionally to 2800 
+VJ-2    = vertically justify proportionally to 2800; with x2 space between systems
+VJ-3    = vertically justify proportionally to 2800; use only inter-system space
+VJ-4(#,#,etc. ) = vertically justify to 2800; use only space below designated lines in system
+VJ-5(#,#,etc. ) = vertically justify to 2800; use only space below designated lines on page
+  For VJ-4 and VJ-5, if a system or line is designated with a plus sign, it means "add space"
+  below this line.  The amount of space (in 10ths of interline distance) is given in
+  square parentheses.  
+VEX-# = vertically expand by adding specified distance (10ths of interline) between all lines
+MTX(#[x],#[x],etc.)   = move text lines for these line numbers, amount in square parentheses
+                          is expressed in 10ths of interline distance.  A positive number
+                          moves the text line down.  
+MFG(#[x],#[x],etc.)   = move figured harmony for these line numbers, amount in square
+                          parentheses is expressed in 10ths of interline distance.  A
+                          positive number moves the text line down.  
+
+
+
+& 
+source lib = f:/corelli/komarek/violin/op5n06/outputs/score/pages 
+destin lib = f:/corelli/komarek/violin/op5n06/editions/temp10/score 
+blank page = X 46 575 120 This page is blank 
+page id header = X 37 1200C 2950 
+page id format = Arcangelo Corelli     Violin Sonata Op. 5, No. 6 - ~page     (c) 2010 by CCARH
+Z MPG-global 
+Z 1 Arcangelo Corelli
+Z 2 Violin Sonata Op. 5, No. 6 
+Z 3 
+Z 4 Full Score 
+Z 5 300 dots/inch 
+Z 6 14 dots per staff line 
+Z 7 
+
+Page    Source          Instructions 
+------------------------------------------------------------------- 
+001     01/01           VJ-6(0,26,84,109,167,193,251,276,334,360) 
+002     02/01           VJ-6(0,9,28,36,56,64,83,91,110,119,137,146) 
+003     03/01           VJ-6(0,4,12,16,24,28,36,41,58,61,70,74) 
+004     03/02           VJ-6(0,12,41,54,82,94,123,135,164,176,205,217) 
+005     05/01           VJ-6(0,-2,-6,-8,-11,-14,-21,-23,-26,-29,-32,-34,-38,-40)
+006     05/02           VJ-6(0,-4,-11,-14,-21,-25,-32,-36,-43,-46,-54,-57,-64,-68,-75,-79)
+/eof
+//

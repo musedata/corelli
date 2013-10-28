@@ -1,0 +1,169 @@
+
+
+
+06/02/10 E. Correia
+WK#:6,7       MV#:4
+Augener/Chrysander 1888-1891
+Concerto VII
+IV
+Violino 2 concerto grosso
+0 19
+Group memberships: score
+score: part 5 of 7
+$  K:2   Q:4   T:1/1  C:4  D:Andante largo
+rest   8        h
+rest   4        q
+rest   2        e
+A#4    2        e #   u
+measure 2
+B4     4        q     d
+rest   4        q
+rest   4        q
+rest   2        e
+G#4    2        e #   u
+measure 3
+A4     4        q     u
+rest   4        q
+rest   4        q
+rest   2        e
+E#4    2        e #   u
+measure 4
+F#4    4        q     u
+D5     4        q     d
+E#4    2        e #   u
+F#4    4        q     u
+E#4    2        e     u
+measure 5
+F#4    4        q     u
+rest   4        q
+rest   4        q
+rest   2        e
+E#5    2        e #   d
+measure 6
+F#5    4        q     d
+rest   4        q
+rest   4        q
+rest   2        e
+G#4    2        e #   u
+measure 7
+A4     4        q     u
+rest   4        q
+rest   4        q
+rest   2        e
+A#4    2        e #   u
+measure 8
+B4     4        q     d
+rest   4        q
+rest   4        q
+rest   2        e
+C#5    2        e     d
+measure 9
+D5     4        q     d
+rest   2        e
+E5     2        e     d
+D5     4        q     d
+rest   2        e
+C#5    2        e     d
+measure 10
+B4     4        q     d
+rest   2        e
+A4     2        e     u
+G4     4        q     u
+rest   2        e
+F#4    2        e     u
+measure 11
+E4     4        q     u
+rest   2        e
+C#5    2        e     d
+F#5    4        q     d
+rest   2        e
+C#5    2        e     d         p
+P    C33:Y64
+measure 12
+D5     4        q     d
+rest   2        e
+B5     2        e     d         f
+P    C33:Y60
+C#5    2        e     d
+D5     4        q     d
+C#5    2        e     d
+measure 13
+D5     4        q     d
+rest   4        q
+rest   4        q
+rest   2        e
+A#4    2        e #   u
+measure 14
+B4     4        q     d
+rest   4        q
+rest   4        q
+rest   2        e
+E#5    2        e #   d
+measure 15
+F#5    4        q     d
+rest   4        q
+rest   4        q
+rest   2        e
+B4     1        s     u  [[    (
+F#4    1        s     u  ]]    )
+measure 16
+G4     4        q     u
+rest   2        e
+C5     2        e n   d
+D#4    2        e #   u
+E4     4        q     u
+D#4    2        e     u
+measure 17
+E4     4        q     u
+rest   4        q
+rest   4        q
+rest   2        e
+B5     1        s     d  [[    (
+F#5    1        s     d  ]]    )
+measure 18
+G5     2        e     d
+F#5    4        q     d
+E5     1        s     d  [[
+D5     1        s     d  ]]
+C#5    4        q     d
+rest   2        e
+A#4    2        e #   u
+measure 19
+B4     4        q     d
+rest   2        e
+A#4    2        e #   u         p
+P    C33:Y57
+B4     4        q     d
+rest   2        e
+G5     2        e     d
+measure 20
+A#4    2        e #   u
+B4     4        q     d
+A#4    2        e     u
+B4     2        e     u  [
+G4     1        s     u  =[    (
+E4     1        s     u  ]]    )
+F#4    2        e     u  [
+B3     2        e     u  ]
+measure 21
+rest   1        s
+B4     1        s     u  [[    (p
+P    C33:Y58
+G4     1        s     u  ==
+E4     1        s     u  ]]    )
+F#4    2        e     u  [
+B3     2        e     u  ]
+rest   2        e
+G4     1        s     u  [[    (
+E4     1        s     u  ]]    )
+F#4    2        e     u  [
+F#4    2        e     u  ]      f
+P    C33:Y63
+measure 22
+B3     4        q     u
+A#3    4        q #   u
+B3     8        h     u
+measure 23
+A#3   16        w #   u
+mheavy2
+/END

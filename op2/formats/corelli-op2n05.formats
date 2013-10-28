@@ -1,0 +1,90 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 01
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes
+Chamber Sonatas, Op. 2:  Sonata V, 1. Preludio 
+[{..}.]
+155 170 300 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 02
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+2115 
+No tacit instructions
+Justify = yes
+Chamber Sonatas, Op. 2:  Sonata V, 2. Allemanda 
+[{..}.]
+155 170 250 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 03
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes
+Chamber Sonatas, Op. 2:  Sonata V, 3. Sarabanda 
+[{..}.]
+155 170 300 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 04
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes
+Chamber Sonatas, Op. 2:  Sonata V, 4. Tempo di Gavotta 
+[{..}.]
+150 165 240 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = scform
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+& 
+Comments: 
+VJ-1    = vertically justify proportionally to 2800 
+VJ-2    = vertically justify proportionally to 2800; with x2 space between systems
+VJ-3    = vertically justify proportionally to 2800; use only inter-system space
+VJ-4(#,#,etc. ) = vertically justify to 2800; use only space below designated lines in system
+VJ-5(#,#,etc. ) = vertically justify to 2800; use only space below designated lines on page
+  For VJ-4 and VJ-5, if a system or line is designated with a plus sign, it means "add space"
+  below this line.  The amount of space (in 10ths of interline distance) is given in
+  square parentheses.  
+VEX-# = vertically expand by adding specified distance (10ths of interline) between all lines
+MTX(#[x],#[x],etc.)   = move text lines for these line numbers, amount in square parentheses
+                          is expressed in 10ths of interline distance.  A positive number
+                          moves the text line down.  
+MFG(#[x],#[x],etc.)   = move figured harmony for these line numbers, amount in square
+                          parentheses is expressed in 10ths of interline distance.  A
+                          positive number moves the text line down.  
+
+
+
+& 
+source lib = f:/corelli/chry/trio/op2n05/outputs/score/pages 
+destin lib = f:/corelli/chry/trio/op2n05/editions/temp10/score 
+blank page = X 46 575 120 This page is blank 
+page id header = X 37 1200C 2950 
+page id format = Arcangelo Corelli     Chamber Sonata Op. 2, No. 5 - ~page     (c) 2010 by CCARH
+Z MPG-global 
+Z 1 Arcangelo Corelli
+Z 2 Chamber Sonata Op. 2, No. 5 
+Z 3 
+Z 4 Full Score 
+Z 5 300 dots/inch 
+Z 6 14 dots per staff line 
+Z 7 
+
+Page    Source          Instructions 
+------------------------------------------------------------------- 
+001     02/01           VJ-6(0,4,7,16,19,23,31,35,39,53,56,60) 
+002     02/02           VJ-6(0,-5,-11,-11,-15,-21,-21,-25,-31,-31,-35,-41,-41,-46,-51)
+003     03/01           VJ-6(0,0,0,0,0,0) 
+004     04/01           VJ-6(0,-6,-12,-12,-17,-24,-24,-29,-35,-35,-40,-46,-46,-51,-58)
+/eof
+//

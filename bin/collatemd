@@ -1,0 +1,83 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
+# Creation Date: Sun Dec 24 14:08:31 PST 2000
+# Last Modified: Fri Dec 31 22:01:43 PST 2010
+# Filename:      collatemd2
+# Syntax:        perl 5
+#
+# Description:   Concatentates all stage[12] files listed on the commandline
+#                as arguments to this program into a single file.
+#                with /eof markers separating the original individual files,
+#                and the string "//" as the last line indicating no more
+#                data.
+#                The names of the original files are placed on a line such as
+#                    FILENAME = 01
+#                In a multi-line comment before the first header records
+#                of the file.  Multi-line comments start with a line
+#                starting with an ampersand (&) and end at the first line
+#                after that which starts with an ampersand.
+#
+
+use strict;
+
+die "Usage $0 stage1 or stage2 file(s)\n" if @ARGV == 0;
+
+my @files = sort @ARGV;
+foreach my $file (@files) {
+   next if (!-r $file);    # Added Tue Dec 21 11:29:52 PST 2010
+                           # to prevent dummy files such as s[0-9]*
+   printheader($file);
+   printcontents($file);
+}
+print "//\r\n";
+
+exit(0);
+
+
+##########################################################################
+
+
+
+#################################
+##
+## printheader --  Print a multi-line comment file at the start of the
+##     originally separate part file which gives the name of the original
+##     file (so the multi-file packaging process can be reversed).
+##
+
+sub printheader {
+   my ($file) = @_;
+   $file =~ s/.*\///;
+   print <<"EOT";
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&\r
+FILENAME = $file\r
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&\r
+EOT
+}
+
+
+
+#################################
+##
+## printcontents -- print the given file's contents, adding /eof if 
+##     necessary to the end of the file contents (if it is not there
+##     already).
+##
+
+sub printcontents {
+   my ($file) = @_;
+   open (FILE, "$file") || die "Cannot open $file for reading";
+   my @contents = <FILE>;
+   close FILE;
+   my $line;
+   foreach $line (@contents) {
+      print $line;
+   } 
+   if ($line !~ /^\/eof/) {  # print /eof line if not found in the data
+      print "/eof\r\n";
+   }
+}
+
+
+

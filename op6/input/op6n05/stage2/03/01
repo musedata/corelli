@@ -1,0 +1,341 @@
+
+
+
+05/05/10 E. Correia
+WK#:6,5       MV#:3
+Augener/Chrysander 1888-1891
+Concerto V
+III
+Violino 1 concertino
+5 15
+Group memberships: score
+score: part 1 of 7
+$  K:-1   Q:2   T:0/0  C:4  D:Allegro
+*               D +     Soli
+P   C25:f31  C17:Y-15
+F5     8        w     d
+G5     8        w     d
+measure 2
+F5     4        h     d
+Bf5    8        w     d
+A5     4-       h     d        -
+measure 3
+A5     4        h     d
+G5     4        h     d
+F5     4        h     d
+Bf5    4-       h     d        -
+measure 4
+Bf5    4        h     d
+A5     4        h     d
+Bf5    8        w     d
+measure 5
+A5     4        h     d
+*               D +     Tutti
+P   C25:f31  C17:Y-20
+F5     4        h     d
+Ef5    8        w f   d
+measure 6
+D5     8        w     d
+C5     8        w     d
+measure 7
+rest   4        h
+Bf4    8        w     d
+A4     4        h     u
+measure 8
+D5     8        w     d
+C5     4        h     d
+F5     4-       h     d        -
+measure 9
+F5     4        h     d
+E5     4        h     d
+A5     8        w     d
+measure 10
+G5     8        w     d
+F5     8        w     d
+measure 11
+E5     8        w     d
+D5     6        h.    d
+D4     2        q     u
+measure 12
+E4     2        q     u
+C4     2        q     u
+F4     8        w     u
+E4     4        h     u
+measure 13
+F4     4        h     u
+F5     8        w     d
+Ef5    4-       h f   d        -
+measure 14
+Ef5    4        h     d
+D5     4        h     d
+G4     4        h     u
+C5     4        h     d
+measure 15
+F4     4        h     u
+Bf4    8        w     d
+A4     4-       h     u        -
+measure 16
+A4     4        h     u
+G4     8        w     u
+F4     4-       h     u        -
+measure 17
+F4     4        h     u
+Ef4    8        w f   u
+D4     4        h     u
+measure 18
+C4     6        h.    u
+F4     2        q     u
+D4     8        w     u
+measure 19
+rest   4        h
+F5     4        h     d
+D5     4        h     d
+Bf4    4        h     d
+measure 20
+rest   4        h
+F5     4        h     d
+D5     4        h     d
+C5     4        h     d
+measure 21
+Bf4    8        w     d
+A4     8        w     u
+measure 22
+F5     2        q     d
+Ef5    2        q f   d
+D5     2        q     d
+C5     2        q     d
+Bf4    4        h     d
+Ef5    4-       h     d        -
+measure 23
+Ef5    4        h     d
+D5     4        h     d
+C5     4        h     d
+F5     4-       h     d        -
+measure 24
+F5     4        h     d
+Ef5    8        w f   d
+D5     4        h     d
+measure 25
+C5     4        h     d
+C5     8        w     d
+Bf4    4-       h     d        -
+measure 26
+Bf4    4        h     d
+A4     8        w     u
+G4     4-       h     u        -
+measure 27
+G4     4        h     u
+F#4    4        h #   u
+G4     4        h     u
+G5     4-       h     d        -
+measure 28
+G5     4        h     d
+F5     8        w     d
+Ef5    4-       h f   d        -
+measure 29
+Ef5    4        h     d
+D5     4        h     d
+C5     6        h.    d
+F5     2        q     d
+measure 30
+Bf4    6        h.    d
+Ef5    2        q f   d
+A4     6        h.    u
+D5     2        q     d
+measure 31
+G4     2        q     u
+Bf4    2        q     d
+A4     2        q     u
+G4     2        q     u
+F#4    4        h #   u
+A5     4        h     d
+measure 32
+Bf5    4        h     d
+F#5    4        h #   d
+G5     4        h     d
+D5     4        h     d
+measure 33
+rest   4        h
+D5     8        w     d
+C5     4-       h     d        -
+measure 34
+C5     4        h     d
+B4     4        h n   d
+rest   4        h
+C5     4        h     d
+measure 35
+D5     4        h     d
+G5     4        h     d
+C5     4        h     d
+C6     4-       h     d        -
+measure 36
+C6     4        h     d
+B5     4        h n   d
+C6     6        h.    d
+Bf5    2        q f   d
+measure 37
+A5     2        q     d
+G5     2        q     d
+A5     2        q     d
+F5     2        q     d
+Bf5    6        h.    d
+A5     2        q     d
+measure 38
+G5     2        q     d
+A5     2        q     d
+Bf5    8        w     d
+A5     4-       h     d        -
+measure 39
+A5     4        h     d
+G5     8        w     d
+F#5    4        h #   d
+measure 40
+G5     6        h.    d
+Bf4    2        q     d
+C5     6        h.    d
+Bf4    1        e     u  [
+A4     1        e     u  ]
+measure 41
+D5     6        h.    d
+D5     2        q     d
+E5     6        h.n   d         +
+E5     2        q     d
+measure 42
+F#5    2        q #   d
+A4     2        q     u
+D5     8        w     d
+C5     4        h     d
+measure 43
+*               D +     Soli
+P  C25:f31  C17:Y-45 
+D6     2        q     d        (
+C6     2        q     d        )
+Bf5    2        q     d        (
+A5     2        q     d        )
+Bf5    2        q     d        (
+A5     2        q     d        )
+G5     2        q     d        (
+F#5    2        q #   d        )
+measure 44
+D6     2        q     d        (
+C6     2        q     d        )
+Bf5    2        q     d        (
+A5     2        q     d        )
+Bf5    2        q     d        (
+A5     2        q     d        )
+G5     2        q     d        (
+F5     2        q n   d        )+
+measure 45
+G5     2        q     d        (
+F5     2        q     d        )
+Ef5    2        q f   d        (
+D5     2        q     d        )
+*               D +     Tutti
+P  C25:f31  C17:Y-15 
+C5     6        h.    d
+C5     2        q     d
+measure 46
+D5     2        q     d
+Ef5    2        q f   d
+F5     2        q     d
+D5     2        q     d
+Ef5    8        w     d
+measure 47
+D5     8        w     d
+C5     8        w     d
+measure 48
+Bf4    8        w     d
+A4     4        h     u
+F5     4        h     d
+measure 49
+Bf4    4        h     d
+Ef5    8        w f   d
+D5     4        h     d
+measure 50
+C5     8        w     d
+D5     4        h     d
+Bf4    4        h     d
+measure 51
+C5     4        h     d
+D5     4        h     d
+Ef5    6        h.f   d
+D5     1        e     d  [
+C5     1        e     d  ]
+measure 52
+D5     6        h.    d
+G4     2        q     u
+C5     6        h.    d
+F4     2        q     u
+measure 53
+Bf4    2        q     d
+D5     2        q     d
+C5     2        q     d
+Bf4    2        q     d
+A4     2        q     u
+F4     2        q     u
+F5     4-       h     d        -
+measure 54
+F5     4        h     d
+Ef5    8        w f   d
+D5     4-       h     d        -
+measure 55
+D5     4        h     d
+C5     4-       h     d        -
+C5     2        q     d
+F5     2        q     d
+Bf5    4-       h     d        -
+measure 56
+Bf5    2        q     d
+A5     1        e     d  [
+G5     1        e     d  ]
+A5     4-       h     d        -
+A5     2        q     d
+D5     2        q     d
+G5     4-       h     d        -
+measure 57
+G5     2        q     d
+F5     1        e     d  [
+Ef5    1        e f   d  ]
+F5     4-       h     d        -
+F5     2        q     d
+Bf4    2        q     d
+Ef5    4-       h     d        -
+measure 58
+Ef5    2        q     d
+D5     1        e     d  [
+C5     1        e     d  ]
+D5     4-       h     d        -
+D5     2        q     d
+G4     2        q     u
+C5     2        q     d
+Ef5    2        q f   d
+measure 59
+F4     4        h     u
+F5     8        w     d
+Ef5    4-       h f   d        -
+measure 60
+Ef5    4        h     d
+D5     4        h     d
+C5     4        h     d
+Bf4    4        h     d
+measure 61
+A4     4        h     u
+F5     4        h     d
+Ef5    4        h f   d
+D5     4        h     d
+measure 62
+C5     8        w     d
+rest   4        h               F
+P    C33:x3 
+$   D:Adagio
+F5     4        h     d
+measure 63
+Ef5    4        h f   d
+D5     2        q     d        (
+C5     2        q     d        )
+D5     4        h     d
+C5     4        h     d
+measure 64
+Bf4   16        b     d
+mheavy2
+/END

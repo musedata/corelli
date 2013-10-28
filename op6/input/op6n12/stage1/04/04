@@ -1,0 +1,84 @@
+79
+6,12  4
+Augener/Chry
+sander 1888-
+1891
+7 4
+23 -1 24 8
+3 4 0 1 23
+measure 1
+rest 24
+measure 2
+rest 24
+measure 3
+rest 24
+measure 4
+rest 24
+measure 5
+A5    8
+C6    8
+F5    8
+measure 6
+G5    8
+C6    8
+E5    8
+measure 7
+A5    8
+D5   16
+measure 8
+C5   24
+measure 9
+F5    8
+A5   16
+measure 10
+D5    8
+Bf3  16
+measure 11
+G5    8
+Bf5  16
+measure 12
+E5    8
+C4   16
+measure 13
+A5    8
+C6   16
+measure 14
+F5   16
+rest  8
+measure 15
+G5   16
+rest  8
+measure 16
+A5   16
+rest  8
+measure 17
+Bf5  16
+Bf5   6
+A5    1
+Bf5   1
+measure 18
+C6   12
+E5    4
+F5    4
+Bf5   4
+measure 19
+A5    4
+G5    4
+G5   16
+measure 20
+F5   24
+measure 21
+C5   12
+E4    4
+F4    8
+measure 22
+D5    8
+G4   16
+measure 23
+F4   24
+END
+@@(C) 2002 Center for Computer Assisted Research in the Humanities.
+@@ID: {cor/chry/concerto/op6n12/stage1/04/04} [KHM:3890538081]
+@@TIMESTAMP: NOV/27/2005 [md5sum:c67b336ab4567565b18b4bd1b6fe1267]
+@SUPERSEDES: TIMESTAMP: DEC/26/2001 [md5sum:91ffedf83edca1183a29ab17a2b21a3f]
+@REASON: major archive update

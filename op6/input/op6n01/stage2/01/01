@@ -1,0 +1,337 @@
+
+
+
+03/05/10 E. Correia
+WK#:6,1       MV#:1
+Augener/Chrysander 1888-1891
+Concerto I
+
+Violino 1
+1 18
+Group memberships: score
+score: part 1 of 7
+$  K:2   Q:4   T:1/1  C:4  D:Largo
+D4     4        q     u
+rest   1        s
+F#4    1        s     u  [[
+E4     1        s     u  ==
+D4     1        s     u  ]]
+A4     4        q     u
+rest   1        s
+A4     1        s     d  [[
+B4     1        s     d  ==
+C#5    1        s     d  ]]
+measure 2
+D5     4        q     d
+rest   1        s
+D5     1        s     d  [[
+E5     1        s     d  ==
+B4     1        s     d  ]]
+C#5    2        e     u  [
+A3     2        e     u  ]
+rest   2        e
+A4     2        e     u
+measure 3
+D5     2        e     u  [
+D4     2        e     u  ]
+rest   1        s
+A4     1        s     d  [[
+B4     1        s     d  ==
+C5     1        s n   d  ]]
+B4     2        e     u  [
+G3     2        e     u  ]
+rest   2        e
+B4     2        e     d         p
+P   C33:Y71
+measure 4
+E5     2        e     u  [
+E4     2        e     u  ]
+rest   1        s
+B4     1        s     d  [[
+C#5    1        s     d  ==
+D5     1        s     d  ]]
+C#5    2        e     u  [
+A3     2        e     u  ]
+rest   2        e
+C#5    2        e     d         f
+P   C33:Y69
+measure 5
+F#5    2        e     d  [
+F#4    2        e     d  ]
+rest   1        s
+E5     1        s     d  [[
+F#5    1        s     d  ==
+C#5    1        s     d  ]]
+D5     2        e     d  [
+F#5    2        e     d  =
+E5     3        e.    d  =
+D5     1        s     d  ]\
+measure 6
+D5     4        q     d
+C#5    4        q     d
+B4     4        q     d
+rest   2        e
+B4     2        e     d
+measure 7
+E5     2        e     u  [
+E4     2        e     u  ]
+rest   1        s
+B4     1        s     d  [[
+C#5    1        s     d  ==
+D5     1        s     d  ]]
+C#5    2        e     u  [
+A3     2        e     u  ]
+rest   2        e
+A4     2        e     u         p
+P    C33:Y57
+measure 8
+D5     2        e     u  [
+D4     2        e     u  ]
+rest   1        s
+A4     1        s     d  [[
+B4     1        s     d  ==
+C5     1        s n   d  ]]
+B4     2        e     u  [
+G3     2        e     u  ]
+rest   2        e
+B4     2        e     d         f
+P   C33:Y74
+measure 9
+A4     2        e     u  [
+A3     2        e     u  ]
+rest   1        s
+E4     1        s     u  [[
+F#4    1        s     u  ==
+G4     1        s     u  ]]
+F#4    2        e     u  [
+D4     2        e     u  ]
+rest   2        e
+F#4    2        e     u
+measure 10
+E4     4        q     u
+D4     4        q     u
+C#4    4        q     u
+D4     4        q     u
+measure 11
+C#4    4        q     u
+D4     4        q     u
+C#4    4        q     u
+rest   4        q               F
+P    C33:x-2
+measure 12
+$  D:Allegro 
+*               D +     Soli 
+P  C25:f31  C17:Y-15 
+A4     4        q     u
+rest   2        e
+A4     2        e     u
+D5     2        e     u  [
+D4     2        e     u  ]
+rest   2        e
+D5     2        e     d
+measure 13
+B4     2        e     u  [
+G3     2        e     u  ]
+rest   2        e
+B4     2        e     d
+E5     2        e     u  [
+E4     2        e     u  ]
+rest   2        e
+E5     2        e     d
+measure 14
+C#5    2        e     u  [
+A3     2        e     u  ]
+rest   2        e
+C#5    2        e     d
+F#5    2        e     d  [
+F#4    2        e     d  ]
+rest   2        e
+F#5    2        e     d
+measure 15
+D5     2        e     u  [
+B3     2        e     u  ]
+rest   2        e
+D5     2        e     d
+E5     4        q     d
+rest   2        e
+E5     2        e     d
+measure 16
+*               D +     Tutti
+P  C25:f31  C17:Y-15 
+F#5    4        q     d
+rest   2        e
+F#5    2        e     d
+G5     4        q     d
+rest   2        e
+G5     2        e     d
+measure 17
+A5     4        q     d
+rest   2        e
+A5     2        e     d
+B5     4        q     d
+rest   2        e
+B5     2        e     d
+measure 18
+E5     4        q     d
+F#5    4        q     d
+E5     4        q     d
+F#5    4        q     d
+measure 19
+E5     4        q     d
+rest   4        q
+rest   4        q               F
+P    C33:x-2
+rest   2        e
+$  D:Adagio
+F#5    2        e     d 
+measure 20
+D5     4        q     d
+rest   2        e
+D5     2        e     d
+E#4    4        q #   u
+F#4    4-       q     u        -
+measure 21
+F#4    4        q     u
+E#4    4        q #   u
+$  D:Allegro 
+F#5    4        q     d 
+rest   2        e
+*               D +     Soli
+P  C25:f31  C17:Y-15x-14 
+F#5    2        e     d
+measure 22
+B5     2        e     d  [
+B4     2        e     d  ]
+rest   2        e
+B5     2        e     d
+G#5    2        e #   d  [
+E4     2        e     d  ]
+rest   2        e
+E5     2        e     d
+measure 23
+A5     2        e     d  [
+A4     2        e     d  ]
+rest   2        e
+A5     2        e     d
+F#5    2        e     u  [
+D4     2        e     u  ]
+rest   2        e
+F#5    2        e     d
+measure 24
+E5     2        e     u  [
+E4     2        e     u  ]
+rest   2        e
+E5     2        e     d
+*               D +     Tutti
+P  C25:f31  C17:Y-15 
+C#5    2        e     d  [
+A4     2        e     d  ]
+F#5    4        q     d
+measure 25
+rest   2        e
+B4     2        e     d
+E5     4        q     d
+rest   2        e
+A4     2        e     u
+D5     4        q     d
+measure 26
+rest   2        e
+G#4    2        e #   u
+C#5    4        q     d
+rest   2        e
+F#4    2        e     u  [
+B4     2        e     u  =
+D5     2        e     u  ]
+measure 27
+G#4    4        q #   u
+rest   4        q               F
+P    C33:x-2
+rest   4        q
+rest   2        e
+$  D:Adagio
+C#5    2        e     d 
+measure 28
+F#4    2        e     u  [
+G#4    2        e #   u  ]
+A4     8        h     u
+G#4    4        q     u
+measure 29
+$  D:Allegro 
+A4     4        q     u 
+*               D +     Soli
+P  C25:f31  C17:Y-15 
+rest   2        e
+A4     2        e     u
+D5     2        e     u  [
+D4     2        e     u  ]
+rest   2        e
+D5     2        e     d
+measure 30
+B4     2        e     u  [
+G3     2        e     u  ]
+rest   2        e
+B4     2        e     d
+E5     2        e     u  [
+E4     2        e     u  ]
+rest   2        e
+E5     2        e     d
+measure 31
+C#5    2        e     u  [
+A3     2        e     u  ]
+rest   2        e
+C#5    2        e     d
+F#5    2        e     d  [
+F#4    2        e     d  ]
+rest   2        e
+F#5    2        e     d
+measure 32
+D5     2        e     u  [
+B3     2        e     u  ]
+rest   2        e
+D5     2        e     d
+E5     4        q     d
+rest   2        e
+E5     2        e     d
+measure 33
+*               D +     Tutti
+P  C25:f31  C17:Y-15 
+F#5    4        q     d
+rest   2        e
+F#5    2        e     d
+G5     4        q     d
+rest   2        e
+G5     2        e     d
+measure 34
+A5     4        q     d
+rest   2        e
+A5     2        e     d
+B5     4        q     d
+rest   2        e
+B5     2        e     d
+measure 35
+E5     4        q     d
+F#5    4        q     d
+E5     4        q     d
+F#5    4        q     d
+measure 36
+E5     4        q     d
+rest   4        q
+rest   4        q               F
+P    C33:x-2
+$  D:Adagio
+F5     4        q n   d 
+measure 37
+E5     8        h     d
+D5     4        q     d
+B4     4        q     d
+measure 38
+A4     4        q     u
+A4     2        e     u  [
+B4     2        e     u  ]
+F#4    4        q     u
+E4     3        e.    u  [
+A4     1        s     u  ]\
+measure 39
+F#4   16        w     u
+mheavy2
+/END

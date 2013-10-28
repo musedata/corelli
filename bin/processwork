@@ -1,0 +1,83 @@
+#!/usr/bin/perl
+
+use strict;
+my @works = @ARGV;
+my $work;
+
+foreach $work (@works) {
+   $work =~ s/\///g;
+   next if !-d $work;
+   print "Processing Work: $work\n";
+   processWork($work);
+}
+
+########################################################
+
+##############################
+##
+## processWork --
+##
+
+sub processWork {
+   my ($work) = @_;
+
+   # create formats file
+   `mkdir -p ../formats`;
+   `mkdir temp`;
+   `cp $work/outputs/score/formats/* temp`;
+   `cp $work/editions/temp10/scform temp`;
+   `(cd temp; /usr/local/bin/collatemd * > ../../formats/corelli-$work.formats)`;
+   `rm -rf temp`;
+
+   # create score page files
+   `mkdir -p ../pages-score`;
+   `(cd $work/editions/temp10/score; collatempg *.mpg > ../../../../../pages-score/corelli-$work.pag)`;
+
+   # create MuseData files
+   createMuseDataFiles($work);
+}
+
+
+
+##############################
+##
+## createMuseDataFiles --
+##
+
+sub createMuseDataFiles {
+   my ($work) = @_;
+   my @dirs = getDirs("$work/stage2");
+   my $dir;
+   `mkdir -p ../musedata`;
+   foreach $dir (@dirs) {
+      print "Processing $work/stage2/$dir\n";
+      `(cd $work/stage2/$dir; /usr/local/bin/collatemd * > ../../../../musedata/corelli-$work-$dir.msd)`;
+   }
+}
+
+
+
+##############################
+##
+## getDirs --
+##
+
+sub getDirs {
+   my ($dir) = @_;
+   opendir (DIR, $dir) or die;
+   my @output;
+   my $file;
+   while ($file = readdir(DIR)) {
+      next if $file =~ /^\./;
+      if (!-d "$dir/$file") {
+         print "WARNING: unknown file: $dir/$file\n";
+         next;
+      }
+      $output[@output] = $file;
+   }
+   return sort @output;
+}
+
+
+
+

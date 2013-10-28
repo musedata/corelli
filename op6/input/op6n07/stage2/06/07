@@ -1,0 +1,254 @@
+
+
+
+06/07/10 E. Correia
+WK#:6,7       MV#:6
+Augener/Chrysander 1888-1891
+Concerto VII
+VI
+Basso concerto grosso
+1 17
+Group memberships: score
+score: part 7 of 7
+$  K:2   Q:4   T:3/8  C:22  D:Vivace
+D3     2        e     d
+E3     4        q     d
+measure 2
+f1              6
+F#3    3        e.    d  [
+E3     1        s     d  =\
+D3     2        e     d  ]
+measure 3
+G3     2        e     d
+D3     4        q     d
+measure 4
+A3     6        q.    d
+measure 5
+f1              6
+F#3    3        e.    d  [
+E3     1        s     d  =\
+D3     2        e     d  ]
+measure 6
+G3     4        q     d
+f1              6
+F#3    2        e     d
+measure 7
+f2              6 5
+G3     2        e     d  [
+f2              b 4
+A3     2        e     d  =
+f2              b 3
+A2     2        e     d  ]
+measure 8
+D3     6        q.    d
+measure 9
+rest   6
+measure 10
+rest   6
+measure 11
+rest   6
+measure 12
+rest   6
+measure 13
+rest   6
+measure 14
+rest   6
+measure 15
+rest   6
+measure 16
+rest   6
+measure 17
+D3     2        e     d
+E3     4        q     d
+measure 18
+F#3    3        e.    d  [
+E3     1        s     d  =\
+D3     2        e     d  ]
+measure 19
+G3     2        e     d
+D3     4        q     d
+measure 20
+A3     6        q.    d
+measure 21
+rest   6
+measure 22
+rest   6
+measure 23
+rest   6
+measure 24
+rest   6
+measure 25
+f1              6
+F#3    3        e.    d  [
+E3     1        s     d  =\
+D3     2        e     d  ]
+measure 26
+G3     4        q     d
+F#3    2        e     d
+measure 27
+f2              6 5
+G3     2        e     d  [
+f2              b 4
+A3     2        e     d  =
+f2              b 3
+A2     2        e     d  ]
+measure 28
+D3     6        q.    d
+measure 29
+D4     4        q     d
+D3     2        e     d
+measure 30
+A3     4        q     d
+rest   2        e
+measure 31
+B3     4        q     d         p
+P    C33:Y57
+B2     2        e     u
+measure 32
+f1              #
+F#3    4        q     d
+rest   2        e
+measure 33
+f1              6
+B3     4        q     d         f
+P    C33:y-10 
+f1              6
+A#3    2        e #   d
+measure 34
+f1              6
+B3     4        q     d
+f1              6
+A3     4        q     d         +
+f1              6
+G3     4        q     d
+measure 36
+f1              #
+F#3    4        q     d
+f1              6
+A#3    2        e #   d
+measure 37
+rest   6
+measure 38
+rest   6
+measure 39
+rest   6
+measure 40
+rest   6
+measure 41
+rest   6
+measure 42
+f1              n
+B2     2        e     d  [
+f1              #
+B3     2        e     d  =
+f2              4+ 2
+A3     2        e     d  ]
+measure 43
+f1              6
+G#3    2        e #   d  [
+E3     2        e     d  =
+G#3    2        e     d  ]
+measure 44
+A2     2        e     d  [
+A3     2        e     d  =
+f2              4 2
+G3     2        e n   d  ]      +
+measure 45
+f1              6
+F#3    2        e     d  [
+F#3    2        e     d  =
+E3     2        e     d  ]
+measure 46
+D3     2        e     d  [
+D4     2        e     d  =
+f2              4 2
+C#4    2        e     d  ]
+measure 47
+f1              6
+B3     2        e     d  [
+B3     2        e     d  =
+f1              6
+A3     2        e     d  ]
+measure 48
+f1              6
+G3     2        e     d  [
+G3     2        e     d  =
+f1              6
+F#3    2        e     d  ]
+measure 49
+f1     2        5
+f1              6
+E3     4        q     d
+D3     2        e     d
+measure 50
+A3     6        q.    d
+measure 51
+rest   6
+measure 52
+rest   6
+measure 53
+rest   6
+measure 54
+rest   6
+measure 55
+rest   6
+measure 56
+rest   6
+measure 57
+rest   6
+measure 58
+rest   2        e
+rest   2        e
+f1              6
+D3     2        e     d
+measure 59
+f1     2        7
+f1              6
+C#3    4        q     u
+f1              7
+F#3    2        e     d
+measure 60
+f1     2        7
+f1              6
+B2     4        q     u
+f1              7
+E3     2        e     d
+measure 61
+f1              7
+A2     4        q     u
+D3     2        e     d
+f2              7 5
+G2     2        e     u
+f1     2        4
+f1              3
+A2     4        q     u
+measure 63
+D3     4        q     d
+f1              6
+D3     2        e     d         p
+P    C33:Y68
+measure 64
+f1     2        7
+f1              6
+C#3    4        q     u
+f1              7
+F#3    2        e     d
+measure 65
+f1     2        7
+f1              6
+B2     4        q     u
+f1              7
+E3     2        e     d
+measure 66
+f1              7
+A2     4        q     u
+D3     2        e     d
+f2              7 5
+G2     2        e     u
+f1     2        4
+f1              3
+A2     4        q     u
+measure 68
+D2     6        q.    u
+mheavy2
+/END

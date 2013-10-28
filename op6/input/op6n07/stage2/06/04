@@ -1,0 +1,223 @@
+
+
+
+06/07/10 E. Correia
+WK#:6,7       MV#:6
+Augener/Chrysander 1888-1891
+Concerto VII
+VI
+Violino 1 concerto grosso
+1 17
+Group memberships: score
+score: part 4 of 7
+$  K:2   Q:4   T:3/8  C:4  D:Vivace
+A5     2        e     d
+G5     4        q     d
+measure 2
+F#5    3        e.    d  [
+G5     1        s     d  =\
+A5     2        e     d  ]
+measure 3
+G5     2        e     d
+F#5    4        q     d
+measure 4
+E5     6        q.    d
+measure 5
+A5     3        e.    d  [
+G5     1        s     d  =\
+F#5    2        e     d  ]
+measure 6
+B5     3        e.    d  [
+C#5    1        s     d  =\
+D5     2        e     d  ]
+measure 7
+E5     2        e     d
+E5     4        q     d
+measure 8
+D5     6        q.    d
+measure 9
+rest   6
+measure 10
+rest   6
+measure 11
+rest   6
+measure 12
+rest   6
+measure 13
+rest   6
+measure 14
+rest   6
+measure 15
+rest   6
+measure 16
+rest   6
+measure 17
+A5     2        e     d
+G5     4        q     d
+measure 18
+F#5    3        e.    d  [
+G5     1        s     d  =\
+A5     2        e     d  ]
+measure 19
+G5     2        e     d
+F#5    4        q     d
+measure 20
+E5     6        q.    d
+measure 21
+rest   6
+measure 22
+rest   6
+measure 23
+rest   6
+measure 24
+rest   6
+measure 25
+A5     3        e.    d  [
+G5     1        s     d  =\
+F#5    2        e     d  ]
+measure 26
+B5     3        e.    d  [
+C#5    1        s     d  =\
+D5     2        e     d  ]
+measure 27
+E5     2        e     d
+E5     4        q     d
+measure 28
+D5     6        q.    d
+measure 29
+A5     3        e.    d  [
+G5     1        s     d  =\
+F#5    2        e     d  ]
+measure 30
+E5     4        q     d
+rest   2        e
+measure 31
+F#5    3        e.    d  [      p
+P   C33:Y59
+E5     1        s     d  =\
+D5     2        e     d  ]
+measure 32
+C#5    4        q     d
+rest   2        e
+measure 33
+G5     3        e.    d  [      f
+P    C33:Y61
+A5     1        s     d  =\
+F#5    2        e     d  ]
+measure 34
+G5     4        q     d
+F#5    4        q     d
+E5     4        q     d
+measure 36
+F#5    4        q     d
+rest   2        e
+measure 37
+rest   6
+measure 38
+rest   6
+measure 39
+rest   6
+measure 40
+rest   6
+measure 41
+rest   6
+measure 42
+B4     1        s     u  [[
+F#4    1        s     u  ==
+B4     1        s     u  ==
+C#5    1        s     u  ==
+D#5    1        s #   u  ==
+B4     1        s     u  ]]
+measure 43
+E5     2        e     u  [
+E4     2        e     u  ]
+rest   2        e
+measure 44
+A4     1        s     u  [[
+E4     1        s     u  ==
+A4     1        s     u  ==
+B4     1        s     u  ==
+C#5    1        s     u  ==
+A4     1        s     u  ]]
+measure 45
+D5     2        e     u  [
+D4     2        e     u  ]
+rest   2        e
+measure 46
+A5     1        s     d  [[
+G5     1        s     d  ==
+A5     1        s     d  ==
+B5     1        s     d  ==
+A5     1        s     d  ==
+B5     1        s     d  ]]
+measure 47
+G5     1        s     d  [[
+F#5    1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ==
+F#5    1        s     d  ==
+G5     1        s     d  ]]
+measure 48
+E5     4        q     d
+D5     2        e     d
+measure 49
+G5     1        s     d  [[
+F#5    1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ==
+F#5    1        s     d  ==
+G5     1        s     d  ]]
+measure 50
+E5     6        q.    d
+measure 51
+rest   6
+measure 52
+rest   6
+measure 53
+rest   6
+measure 54
+rest   6
+measure 55
+rest   6
+measure 56
+rest   6
+measure 57
+rest   6
+measure 58
+rest   2        e 
+rest   2        e 
+B4     2        e     d 
+measure 59
+B4     2        e     u  [     (
+A4     2        e     u  =     )
+A4     2        e     u  ]
+measure 60
+A4     2        e     u  [     (
+G4     2        e     u  =     )
+G4     2        e     u  ]
+measure 61
+G4     4        q     u
+F#4    4        q     u
+E4     3        e.    u  [
+A4     1        s     u  ]\
+measure 63
+F#4    4        q     u
+B4     2        e     d         p
+P    C33:Y68
+measure 64
+B4     2        e     u  [     (
+A4     2        e     u  =     )
+A4     2        e     u  ]
+measure 65
+A4     2        e     u  [     (
+G4     2        e     u  =     )
+G4     2        e     u  ]
+measure 66
+G4     4        q     u
+F#4    4        q     u
+E4     3        e.    u  [
+A4     1        s     u  ]\
+measure 68
+F#4    6        q.    u
+mheavy2
+/END

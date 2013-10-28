@@ -1,0 +1,91 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 01
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes
+Church Sonatas, Op. 1:  Sonata II, 1st mvt.  
+[{..}{..}]
+150 165 150 250 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 02
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes
+Sonata II, 2nd mvt.  
+[{..}{..}]
+150 165 150 240 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 03
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+845 
+No tacit instructions
+Justify = yes
+Sonata II, 3rd mvt.  
+[{..}.]
+155 170 250 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 04
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes
+Sonata II, 4th mvt.  
+[{..}{..}]
+150 165 150 240 
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = scform
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+& 
+Comments: 
+VJ-1    = vertically justify proportionally to 2800 
+VJ-2    = vertically justify proportionally to 2800; with x2 space between systems
+VJ-3    = vertically justify proportionally to 2800; use only inter-system space
+VJ-4(#,#,etc. ) = vertically justify to 2800; use only space below designated lines in system
+VJ-5(#,#,etc. ) = vertically justify to 2800; use only space below designated lines on page
+  For VJ-4 and VJ-5, if a system or line is designated with a plus sign, it means "add space"
+  below this line.  The amount of space (in 10ths of interline distance) is given in
+  square parentheses.  
+VEX-# = vertically expand by adding specified distance (10ths of interline) between all lines
+MTX(#[x],#[x],etc.)   = move text lines for these line numbers, amount in square parentheses
+                          is expressed in 10ths of interline distance.  A positive number
+                          moves the text line down.  
+MFG(#[x],#[x],etc.)   = move figured harmony for these line numbers, amount in square
+                          parentheses is expressed in 10ths of interline distance.  A
+                          positive number moves the text line down.  
+
+
+
+& 
+source lib = f:/corelli/chry/trio/op1n02/outputs/score/pages 
+destin lib = f:/corelli/chry/trio/op1n02/editions/temp10/score 
+blank page = X 46 575 120 This page is blank 
+page id header = X 37 1200C 2950 
+page id format = Arcangelo Corelli     Church Sonata Op. 1, No. 2 - ~page     (c) 2010 by CCARH
+Z MPG-global 
+Z 1 Arcangelo Corelli
+Z 2 Church Sonata Op. 1, No. 2 
+Z 3 
+Z 4 Full Score 
+Z 5 300 dots/inch 
+Z 6 14 dots per staff line 
+Z 7 
+
+Page    Source          Instructions 
+------------------------------------------------------------------- 
+001     01/01           VJ-6(0,0,0,0,0,0,0,0,0,0,0,0) 
+002     02/01           VJ-6(0,-7,-16,-23,-23,-30,-38,-45,-45,-52,-61,-68,-68,-75,-83,-90)
+003     03/01           VJ-6(0,4,8,12,31,36,41,49,53,58,66,70,74) 
+004     04/01           VJ-6(0,-7,-16,-23,-23,-30,-38,-45,-45,-52,-61,-68,-68,-75,-83,-90)
+005     04/02           VJ-6(0,-1,-3,-4,-4,-6,-7,-9,-9,-10,-12,-14,-14,-15,-17,-19)
+/eof
+//

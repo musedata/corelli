@@ -1,0 +1,178 @@
+
+
+
+03/30/10 E. Correia
+WK#:6,3       MV#:5
+Augener/Chrysander 1888-1891
+Concerto III
+
+Violino 1
+2 15
+Group memberships: score
+score: part 4 of 7
+& 
+Q: parameter adjusted on this and following parts to allow simultaneous setting
+with parts 1-3 in 12/8 meter.  
+& 
+$  K:-2   Q:4   T:1/1  C:4  D:Allegro 
+rest  24
+measure 2
+rest  24
+measure 3
+rest   6        q
+G5     6        q     d
+F5    12        h     d
+measure 4
+Ef5   12        h     d
+D5    12        h     d
+measure 5
+C5     6        q     d
+rest   6        q
+rest   6        q
+D5     6        q     d
+measure 6
+Ef5    6        q     d
+rest   6        q
+rest   6        q
+F5     6        q     d
+measure 7
+G5     6        q     d
+rest   6        q
+rest   6        q
+G5     6        q     d
+measure 8
+Af5    6        q f   d
+G5    12        h     d
+F5     6        q     d
+measure 9
+G5     6        q     d
+Ef5   12        h     d
+D5     6-       q     d        -
+measure 10
+D5     6        q     d
+C5    12        h     d
+B4     6        q n   d
+measure 11
+C5     6        q     d
+Af4   12        h f   u
+G4     6-       q     u        -
+measure 12
+G4     6        q     u
+F4     6        q     u
+G4     6        q     u
+Ef4    6        q     u
+measure 13
+D4     6        q     u
+C4     6        q     u
+B3     6        q n   u
+Ef4    6        q     u         p
+P    C33:Y62
+measure 14
+D4     6        q     u
+C4     6        q     u
+B3    12        h n   u
+mheavy4 15      :|:
+rest  24
+measure 16
+rest  24
+measure 17
+rest   6        q
+D6     6        q     d
+C6    12        h     d
+measure 18
+Bf5   12        h     d
+A5    12        h     d
+measure 19
+G5     6        q     d
+rest   6        q
+rest  12        h
+measure 20
+rest  12        h
+E5     6        q n   d
+E5     6        q     d
+measure 21
+F5     6        q     d
+rest   6        q
+rest  12        h
+measure 22
+rest  12        h
+D5     6        q     d
+D5     6        q     d
+measure 23
+Ef5    6        q     d
+rest   6        q
+rest  12        h
+measure 24
+rest  12        h
+Ef5    6        q     d
+D5     6        q     d
+measure 25
+Ef5    6        q     d
+rest   6        q
+rest  12        h
+measure 26
+rest  12        h
+D5     6        q     d
+C5     6        q     d
+measure 27
+D5     6        q     d
+rest   6        q
+rest  12        h
+measure 28
+rest  12        h
+C5     6        q     d
+Bf4    6        q     d
+measure 29
+C5     6        q     d
+rest   3        e
+C5     3        e     d
+B4     6        q n   d
+rest   6        q
+measure 30
+rest  24
+measure 31
+rest  24
+measure 32
+F5     6        q     d
+Af5    6        q f   d
+B4     6        q n   d
+C5     6-       q     d        -
+measure 33
+C5     6        q     d
+B4     6        q n   d
+C5     6        q     d
+rest   6        q
+measure 34
+rest  24
+measure 35
+rest  24
+measure 36
+F5     6        q     d
+Af5    6        q f   d
+B4     6        q n   d
+C5     6-       q     d        -
+measure 37
+C5     6        q     d
+B4     6        q n   d
+C5     6        q     d
+rest   6        q
+measure 38
+rest  24
+measure 39
+F4     6        q     u
+Ef4    6        q     u
+D4    12        h     u
+measure 40
+C4     6        q     u
+rest   6        q
+rest  12        h
+measure 41
+rest  12        h
+F4     6        q     u         p
+P    C33:Y58
+Ef4    6        q     u
+measure 42
+D4    12        h     u
+C4    12        h     u
+mheavy2         :|
+/END

@@ -1,0 +1,58 @@
+& 
+Comments: 
+VJ-1    = vertically justify proportionally to 2800 
+VJ-2    = vertically justify proportionally to 2800; with x2 space between systems
+VJ-3    = vertically justify proportionally to 2800; use only inter-system space
+VJ-4(#,#,etc. ) = vertically justify to 2800; use only space below designated lines in system
+VJ-5(#,#,etc. ) = vertically justify to 2800; use only space below designated lines on page
+  For VJ-4 and VJ-5, if a system or line is designated with a plus sign, it means "add space"
+  below this line.  The amount of space (in 10ths of interline distance) is given in
+  square parentheses.  
+VEX-# = vertically expand by adding specified distance (10ths of interline) between all lines
+MTX(#[x],#[x],etc.)   = move text lines for these line numbers, amount in square parentheses
+                          is expressed in 10ths of interline distance.  A positive number
+                          moves the text line down.  
+MFG(#[x],#[x],etc.)   = move figured harmony for these line numbers, amount in square
+                          parentheses is expressed in 10ths of interline distance.  A
+                          positive number moves the text line down.  
+
+
+
+& 
+source lib = f:/corelli/chry/concerto/op6n06/outputs/score/pages 
+destin lib = f:/corelli/chry/concerto/op6n06/editions/temp10/score 
+blank page = X 46 575 120 This page is blank 
+page id header = X 37 1200C 2950 
+page id format = Arcangelo Corelli     Concerto Grosso Op. 6, No. 6 - ~page     (c) 2010 by CCARH
+Z MPG-global 
+Z 1 Arcangelo Corelli
+Z 2 Concerto Grosso Op. 6, No. 6 
+Z 3 
+Z 4 Full Score 
+Z 5 300 dots/inch 
+Z 6 14 dots per staff line 
+Z 7 
+
+Page    Source          Instructions 
+------------------------------------------------------------------- 
+001     01/01           VJ-6(0,-2,-4,-7,-9,-11,-14,-19,-21,-24,-26,-29,-31,-33)
+002     02/01           VJ-6(0,4,7,12,16,19,22,32,35,39,44,46,50,53) 
+003     02/02           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+004     02/03           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+005     02/04           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+006     02/05           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+007     02/06           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+008     02/07           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+009     03/01           VJ-6(0,4,7,12,16,19,22,32,35,39,44,46,50,53) 
+010     03/02           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+011     03/03           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+012     04/01           VJ-6(0,4,7,12,16,19,22,32,35,39,44,46,50,53) 
+013     04/02           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+014     04/03           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+015     04/04           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+016     04/05           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+017     04/06           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+018     05/01           VJ-6(0,4,7,12,16,19,22,32,35,39,44,46,50,53) 
+019     05/02           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+020     05/03           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 
+021     05/04           VJ-6(0,8,16,27,35,43,51,74,81,89,101,109,116,124) 

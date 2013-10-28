@@ -1,0 +1,108 @@
+103
+6,8   5
+Augener/Chry
+sander 1888-
+1891
+7 4
+28 -1 12 4
+3 4 0 2 17
+measure 1
+rest 12
+measure 2
+rest 12
+measure 3
+rest 12
+measure 4
+rest 12
+measure 5
+G5    4
+Bf5   2
+A5    2
+G5    2
+Bf5   2
+measure 6
+A5    4
+D5    4
+D5    4
+measure 7
+G5    2
+Bf4   2
+C5    6
+Bf4   1
+C5    1
+measure 8
+D5   12
+measure 9
+rest 12
+measure 10
+Bf5   4
+D5    4
+G4    4
+measure 11
+rest 12
+measure 12
+A5    4
+C5    4
+F4    4
+measure 13
+rest 12
+measure 14
+E5    6
+E5    2
+F5    2
+E5    2
+measure 15
+F5    2
+G5    2
+E5    8
+measure 16
+D5   12
+measure 17
+D5    4
+rest  8
+measure 18
+Ef5   4
+rest  8
+measure 19
+C5    4
+rest  8
+measure 20
+D5    4
+Bf5   8-
+measure 21
+Bf5   4
+A5    2
+G5    2
+A5    4-
+measure 22
+A5    4
+D5    4
+G5    4-
+measure 23
+G5    4
+F#5   6
+E5    1
+F#5   1
+measure 24
+G5    4
+D5    8-
+measure 25
+D5    4
+G4    4
+C5    4
+measure 26
+C5    6
+D5    2
+Bf4   4-
+measure 27
+Bf4   2
+A4    2
+A4    8
+measure 28
+G4   12
+END
+@@(C) 2002 Center for Computer Assisted Research in the Humanities.
+@@ID: {cor/chry/concerto/op6n08/stage1/05/04} [KHM:418817717]
+@@TIMESTAMP: NOV/27/2005 [md5sum:1710ab9d22aef96e2908374e634189f2]
+@SUPERSEDES: TIMESTAMP: DEC/26/2001 [md5sum:e5bb6049cc26dbdf0716db4b87d9c48f]
+@REASON: major archive update

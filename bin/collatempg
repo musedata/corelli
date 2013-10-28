@@ -1,0 +1,9 @@
+#!/usr/bin/perl
+
+my @files = @ARGV;
+my $content;
+foreach $file (@files) {
+   $content = `cat $file`;
+   print "$content";
+   print "P\r\n";
+}

@@ -1,0 +1,62 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = 06
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Reduced size = no
+Use default height for new typesetting
+No tacit instructions
+Justify = yes wide 60 60 
+VI.
+[{..}.]
+155 170 250
+/eof
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+FILENAME = scform
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+& 
+Comments: 
+VJ-1    = vertically justify proportionally to 2800 
+VJ-2    = vertically justify proportionally to 2800; with x2 space between systems
+VJ-3    = vertically justify proportionally to 2800; use only inter-system space
+VJ-4(#,#,etc. ) = vertically justify to 2800; use only space below designated lines in system
+VJ-5(#,#,etc. ) = vertically justify to 2800; use only space below designated lines on page
+  For VJ-4 and VJ-5, if a system or line is designated with a plus sign, it means "add space"
+  below this line.  The amount of space (in 10ths of interline distance) is given in
+  square parentheses.  
+VEX-# = vertically expand by adding specified distance (10ths of interline) between all lines
+MTX(#[x],#[x],etc.)   = move text lines for these line numbers, amount in square parentheses
+                          is expressed in 10ths of interline distance.  A positive number
+                          moves the text line down.  
+MFG(#[x],#[x],etc.)   = move figured harmony for these line numbers, amount in square
+                          parentheses is expressed in 10ths of interline distance.  A
+                          positive number moves the text line down.  
+
+
+
+& 
+source lib = f:/corelli/chry/trio/op3n12/outputs/score/pages 
+destin lib = f:/corelli/chry/trio/op3n12/editions/temp10/score 
+blank page = X 46 575 120 This page is blank 
+page id header = X 37 1200C 2950 
+page id format = Arcangelo Corelli     Church Sonata Op. 3, No. 12 - ~page     (c) 2010 by CCARH
+Z MPG-global 
+Z 1 Arcangelo Corelli
+Z 2 Church Sonata Op. 3, No. 12 
+Z 3 
+Z 4 Full Score 
+Z 5 300 dots/inch 
+Z 6 14 dots per staff line 
+Z 7 
+
+Page    Source          Instructions 
+------------------------------------------------------------------- 
+001     01/01           VJ-6(0,-7,-15,-29,-36,-44,-57,-64,-72,-86,-93,-101,-114,-121,-129)
+002     02/01           VJ-6(0,-6,-14,-27,-34,-41,-54,-61,-69,-81,-88,-95,-108,-114,-122)
+003     03/01           VJ-6(0,-4,-8,-24,-27,-31,-35,-42,-46,-50,-54,-61,-64,-69,-72)
+004     03/02           VJ-6(0,-1,-2,-3,-5,-6,-7,-8,-10,-11,-12,-13,-15,-16,-18,-19)
+005     04/01           VJ-6(0,-5,-11,-16,-25,-30,-36,-41,-50,-55,-61,-66,-75,-80,-86,-90)
+006     05/01           VJ-6(0,-6,-14,-20,-32,-39,-46,-52,-74,-81,-88,-94,-106,-113,-120,-126)
+007     05/02           VJ-6(0,-1,-2,-3,-5,-6,-7,-8,-10,-11,-12,-13,-15,-16,-18,-19)
+008     05/03           VJ-6(0,-1,-2,-3,-5,-6,-7,-8,-10,-11,-12,-13,-15,-16,-18,-19)
+009     06/01           VJ-6(0,-6,-14,-27,-34,-41,-54,-61,-69,-81,-88,-95,-108,-114,-122)
+/eof
+//

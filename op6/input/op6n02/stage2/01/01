@@ -1,0 +1,696 @@
+
+
+
+03/19/10 E. Correia
+WK#:6,2       MV#:1
+Augener/Chrysander 1888-1891
+Concerto II
+
+Violino 1
+1 17
+Group memberships: score
+score: part 1 of 7
+$  K:-1   Q:4   T:3/4  C:4  D:Vivace
+A4     2        e     u
+measure 1
+A4    12        h.    u
+measure 2
+*               D +     Soli
+P  C25:f33  C25:f31
+A5     4        q     d
+A5     4        q     d
+A5     4        q     d
+measure 3
+A5     8        h     d         t
+rest   2        e
+*               D +     Tutti
+P  C25:f33  C25:f31  C17:Y-15
+C5     2        e     d
+measure 4
+C5    12        h.    d
+measure 5
+*               D +     Soli
+P  C25:f33  C25:f31  C17:Y-35
+C6     4        q     d
+C6     4        q     d
+C6     4        q     d
+measure 6
+C6     8        h     d         t
+rest   2        e
+*               D +     Tutti
+P  C25:f33  C25:f31  C17:Y-15
+A4     2        e     u
+measure 7
+A4    12        h.    u
+measure 8
+*               D +     Soli
+P  C25:f33  C25:f31
+A5     4        q     d
+A5     4        q     d
+A5     4        q     d
+measure 9
+A5    12        h.    d         t
+mdouble 10
+$  D:Allegro
+F5     2        e     d  [
+C5     2        e     d  =
+F5     2        e     d  =
+F5     2        e     d  ]
+G5     2        e     d  [
+F5     1        s     d  =[
+G5     1        s     d  ]]
+measure 11
+A5     2        e     d  [
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+G5     2        e     d  [
+A5     1        s     d  =[
+G5     1        s     d  ]]
+measure 12
+F5     2        e     d  [
+F5     2        e     d  =
+F5     2        e     d  =
+F5     2        e     d  ]
+E5     2        e     d  [
+D5     1        s     d  =[
+E5     1        s     d  ]]
+measure 13
+*               D +     Tutti
+P  C25:f33  C25:f31  C17:Y-15
+F5     2        e     d  [
+A4     2        e     d  =
+C5     2        e     d  =
+C5     2        e     d  ]
+Bf4    2        e     d  [
+A4     1        s     d  =[
+Bf4    1        s     d  ]]
+measure 14
+C5     2        e     u  [
+A4     2        e     u  =
+A4     2        e     u  =
+A4     2        e     u  ]
+G4     4        q     u
+measure 15
+F4     2        e     d  [
+F5     1        s     d  =[
+G5     1        s     d  ]]
+A5     1        s     d  [[
+Bf5    1        s     d  ==
+A5     1        s     d  ==
+Bf5    1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+measure 16
+F5     8        h     d
+rest   4        q
+measure 17
+C6     2        e     d  [
+A5     1        s     d  =[
+Bf5    1        s     d  ]]
+C6     1        s     d  [[
+D6     1        s     d  ==
+C6     1        s     d  ==
+D6     1        s     d  ]]
+Bf5    1        s     d  [[
+C6     1        s     d  ==
+Bf5    1        s     d  ==
+C6     1        s     d  ]]
+measure 18
+A5     8        h     d
+rest   4        q
+measure 19
+A5     2        e     d  [
+F5     1        s     d  =[
+G5     1        s     d  ]]
+A5     1        s     d  [[
+Bf5    1        s     d  ==
+A5     1        s     d  ==
+Bf5    1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+measure 20
+F5     2        e     d  [
+A5     1        s     d  =[
+Bf5    1        s     d  ]]
+C6     1        s     d  [[
+D6     1        s     d  ==
+C6     1        s     d  ==
+D6     1        s     d  ]]
+Bf5    1        s     d  [[
+C6     1        s     d  ==
+Bf5    1        s     d  ==
+C6     1        s     d  ]]
+measure 21
+A5     2        e     d  [
+A5     2        e     d  ]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 22
+E5     8        h     d
+rest   4        q
+measure 23
+G5     2        e     d  [
+E5     1        s     d  =[
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 24
+E5     8        h     d
+rest   4        q
+measure 25
+G5     2        e     d  [
+E5     1        s     d  =[
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 26
+E5     2        e     d  [
+C5     1        s     d  =[
+D5     1        s     d  ]]
+E5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+D5     1        s     d  [[
+E5     1        s     d  ==
+D5     1        s     d  ==
+E5     1        s     d  ]]
+measure 27
+C5     2        e     d  [
+E5     1        s     d  =[
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 28
+A5     2        e     d  [
+F5     1        s     d  =[
+G5     1        s     d  ]]
+A5     1        s     d  [[
+Bf5    1        s     d  ==
+A5     1        s     d  ==
+Bf5    1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+measure 29
+F5     2        e     d  [
+C5     2        e     d  =
+F5     2        e     d  =
+F5     2        e     d  ]
+E5     4        q     d
+measure 30
+D5     6        q.    d
+D5     2        e     d  [
+E5     2        e     d  =
+F#5    2        e #   d  ]
+measure 31
+G5     2        e     d  [
+D5     2        e     d  =
+G5     2        e     d  =
+G5     2        e     d  ]
+F5     4        q     d
+measure 32
+E5     6        q.    d
+E5     2        e     d  [
+F5     2        e     d  =
+G5     2        e     d  ]
+measure 33
+A5     2        e     d  [
+E5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+G5     4        q     d
+measure 34
+F5     6        q.    d
+F5     2        e     d  [
+G5     2        e     d  =
+A5     2        e     d  ]
+measure 35
+Bf5    2        e     d  [
+F5     2        e     d  =
+Bf5    2        e     d  =     (
+A5     2        e     d  ]     )
+G5     2        e     d  [     (
+F5     2        e     d  ]     )
+measure 36
+E5     2        e     d  [
+G5     2        e     d  =
+E5     2        e     d  =
+C5     2        e     d  ]
+F5     4-       q     d        -
+measure 37
+F5     2        e     d  [
+D5     2        e     d  ]
+G5     6        q.    d
+E5     2        e     d
+measure 38
+A5     6        q.    d
+F5     2        e     d  [
+Bf5    2        e     d  =
+A5     2        e     d  ]
+measure 39
+G5     4        q     d
+rest   4        q               F
+P    C33:x-2
+rest   4        q
+measure 40
+$  D:Adagio
+rest   4        q
+Af4    4        q f   u
+Af4    4        q     u
+measure 41
+G4     4        q     u
+G4     4        q     u
+E4     4        q n   u         +
+measure 42
+F4     4        q     u
+F5     4        q     d
+F5     4        q     d
+measure 43
+F5     4        q     d
+Ef5    4        q f   d
+C5     4        q     d
+measure 44
+Df5   12-       h.f   d        -
+measure 45
+Df5    4        q     d
+C5     4        q     d
+C5     4        q     d
+measure 46
+C5     4        q     d
+Bf4    4        q     d
+Bf4    4        q     d
+measure 47
+Af4    4        q f   u
+C6     4        q     d
+C6     4        q     d
+measure 48
+C6     4        q     d
+Bf5    4        q     d
+Bf5    4        q     d
+measure 49
+Bf5    8        h     d
+Af5    8        h f   d
+G5     8        h     d
+measure 51
+F5     8        h     d
+C5     8        h     d
+Bf4    8        h     d
+measure 53
+C5     8        h     d         F
+rest   4        q
+mdouble
+$  D:Vivace
+E4     2        e     u
+measure 54
+E4    12        h.    u
+measure 55
+*               D +     Soli
+P  C25:f33  C25:f31  C17:Y-15
+E5     4        q     d
+E5     4        q     d
+E5     4        q     d
+measure 56
+E5     8        h     d         t
+rest   2        e 
+*               D +     Tutti 
+P  C25:f33  C25:f31  C17:Y-15
+G4     2        e     u
+measure 57
+G4    12        h.    u
+measure 58
+*               D +     Soli
+P  C25:f33  C25:f31  C17:Y-20
+G5     4        q     d
+G5     4        q     d
+G5     4        q     d
+measure 59
+G5     8        h     d         t
+rest   2        e 
+*               D +     Tutti 
+P  C25:f33  C25:f31  C17:Y-15
+E4     2        e     u
+measure 60
+E4    12        h.    u
+measure 61
+E5     4        q     d
+E5     4        q     d
+E5     4        q     d
+measure 62
+E5    12        h.    d         t
+mdouble 63
+$  D:Allegro
+C5     2        e     d  [
+G4     2        e     d  =
+C5     2        e     d  =
+C5     2        e     d  ]
+D5     2        e     d  [
+C5     1        s     d  =[
+D5     1        s     d  ]]
+measure 64
+E5     2        e     d  [
+E5     2        e     d  =
+E5     2        e     d  =
+E5     2        e     d  ]
+D5     2        e     d  [
+E5     1        s     d  =[
+D5     1        s     d  ]]
+measure 65
+C5     2        e     d  [
+C5     2        e     d  =
+C5     2        e     d  =
+C5     2        e     d  ]
+B4     2        e n   d  [
+A4     1        s     d  =[
+B4     1        s     d  ]]
+measure 66
+C5     2        e     u  [
+E4     2        e     u  =
+G4     2        e     u  =
+G4     2        e     u  ]
+F4     2        e     u  [
+E4     1        s     u  =[
+F4     1        s     u  ]]
+measure 67
+G4     2        e     u  [
+E4     2        e     u  =
+E4     2        e     u  =
+E4     2        e     u  ]
+D4     4        q     u
+measure 68
+C4     2        e     d  [
+E5     1        s     d  =[
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 69
+E5     8        h     d
+rest   4        q
+measure 70
+G5     2        e     d  [
+E5     1        s     d  =[
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+F5     1        s     d  [[
+G5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 71
+E5     8        h     d
+rest   4        q
+measure 72
+G5     2        e     d  [
+E5     1        s     d  =[
+F5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+G5     1        s     d  [[
+A5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 73
+A5     8        h     d
+rest   4        q
+measure 74
+C6     2        e     d  [
+A5     1        s     d  =[
+Bf5    1        s     d  ]]
+C6     1        s     d  [[
+D6     1        s     d  ==
+C6     1        s     d  ==
+D6     1        s     d  ]]
+Bf5    1        s     d  [[
+C6     1        s     d  ==
+Bf5    1        s     d  ==
+C6     1        s     d  ]]
+measure 75
+A5     8        h     d
+rest   4        q
+measure 76
+C5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+C5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+C5     1        s     d  [[
+F5     1        s     d  ==
+E5     1        s     d  ==
+F5     1        s     d  ]]
+measure 77
+D5     4        q     d
+Bf3    4        q     u
+rest   4        q
+measure 78
+D5     1        s     d  [[
+G5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+D5     1        s     d  [[
+G5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+D5     1        s     d  [[
+G5     1        s     d  ==
+F5     1        s     d  ==
+G5     1        s     d  ]]
+measure 79
+E5     4        q     d
+C4     4        q     u
+rest   4        q
+measure 80
+E5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+E5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+E5     1        s     d  [[
+A5     1        s     d  ==
+G5     1        s     d  ==
+A5     1        s     d  ]]
+measure 81
+F5     2        e     d  [
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  =
+G5     2        e     d  =
+F5     2        e     d  ]
+measure 82
+E5     2        e     d  [     (
+F5     2        e     d  =     )
+E5     2        e     d  =     (
+F5     2        e     d  =     )
+G5     2        e     d  =     (
+F5     2        e     d  ]     )
+measure 83
+E5     2        e     d  [     (p
+P   C33:Y58
+F5     2        e     d  =
+E5     2        e     d  =
+F5     2        e     d  =
+G5     2        e     d  =
+F5     2        e     d  ]     )
+measure 84
+E5     6        q.    d         f
+P    C33:Y61
+A5     2        e     d  [
+G5     2        e     d  =
+A5     2        e     d  ]
+measure 85
+F5     2        e     d  [     (
+G5     2        e     d  ]     )
+E5     8        h     d
+measure 86
+D5     8        h     d
+rest   4        q
+measure 87
+G5     2        e     d  [
+D5     2        e     d  ]
+G5     2        e     d  [
+A5     1        s     d  =[
+G5     1        s     d  ]]
+F5     2        e     d  [
+G5     1        s     d  =[
+F5     1        s     d  ]]
+measure 88
+E5     8        h     d
+rest   4        q
+measure 89
+F5     2        e     d  [
+C5     2        e     d  ]
+F5     2        e     d  [
+G5     1        s     d  =[
+F5     1        s     d  ]]
+E5     2        e     d  [
+F5     1        s     d  =[
+E5     1        s     d  ]]
+measure 90
+D5     2        e     d  [
+D5     2        e     d  =
+G5     2        e     d  =
+F5     2        e     d  ]
+G5     4        q     d
+measure 91
+rest   2        e
+E5     2        e     d  [
+A5     2        e     d  =
+G5     2        e     d  ]
+A5     4        q     d
+measure 92
+rest   2        e
+F5     2        e     d  [
+Bf5    2        e     d  =
+A5     2        e     d  =
+G5     2        e     d  =
+F5     2        e     d  ]
+measure 93
+E5     6        q.    d
+C6     2        e     d  [
+F5     2        e     d  =
+Bf5    2        e     d  ]
+measure 94
+A5     2        e     d  [     (
+G5     2        e     d  ]     )
+G5     8        h     d
+measure 95
+F5     6        q.    d
+C5     2        e     d  [
+D5     2        e     d  =     (
+C5     2        e     d  ]     )
+measure 96
+Bf4    2        e     u  [     (
+A4     2        e     u  ]     )
+G4     8        h     u
+measure 97
+F4     2        e     u  [
+C5     2        e     u  ]
+F5     4        q     d
+rest   2        e
+F5     2        e     d
+measure 98
+A5     4        q     d
+rest   2        e
+A5     2        e     d
+C6     4        q     d
+measure 99
+rest   2        e
+C6     2        e     d
+F6     4        q     d
+rest   4        q
+measure 100
+$  D:Adagio
+C5     4        q     d
+F4     6        q.    u
+E4     2        e     u
+measure 101
+$  Q:4  T:1/1  D:Largo andante
+E4     4        q     u
+rest   2        e
+A5     2        e     d
+Bf5    2        e     d  [
+G5     2        e     d  =
+C6     2        e     d  =
+C5     2        e     d  ]
+measure 102
+F5     2        e     d  [
+F4     2        e     d  ]
+rest   2        e
+Bf5    2        e     d
+G5     2        e     d  [
+E5     2        e     d  =
+A5     2        e     d  =
+A4     2        e     d  ]
+measure 103
+D5     2        e     u  [
+D4     2        e     u  ]
+rest   2        e
+G5     2        e     d
+E5     2        e     d  [
+C5     2        e     d  ]
+F5     4-       q     d        -
+measure 104
+F5     2        e     d  [
+E5     2        e     d  =
+A4     2        e     d  =
+A5     2        e     d  ]
+B4     2        e n   d
+C5     4        q     d
+B4     2        e     d
+measure 105
+C5     4        q     d
+F5     8        h     d
+E5     4-       q     d        -
+measure 106
+E5     2        e     d  [
+D5     1        s     d  =[
+C#5    1        s #   d  ]]
+D5     8        h     d
+C5     4-       q n   d        -
+measure 107
+C5     2        e     d  [
+Bf4    1        s     d  =[
+A4     1        s     d  ]]
+Bf4    4-       q     d        -
+Bf4    2        e     u  [
+A4     2        e     u  =
+D4     2        e     u  =
+D5     2        e     u  ]
+measure 108
+E4     2        e     u
+F4     4        q     u
+E4     2        e     u
+F4     2        e     u  [
+G4     2        e     u  ]
+Af4    4-       q f   u        -
+measure 109
+Af4    4        q     u
+G4     4        q     u
+F4     8        h     u
+mheavy2
+/END

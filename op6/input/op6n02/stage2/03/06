@@ -1,0 +1,107 @@
+
+
+
+03/23/10 E. Correia
+WK#:6,2       MV#:3
+Augener/Chrysander 1888-1891
+Concerto II
+
+Viola
+0 14
+Group memberships: score
+score: part 6 of 7
+$  K:-1   Q:2   T:1/1  C:13  D:Grave
+D4     2        q     d
+rest   1        e
+D4     1        e     d
+D4     2        q     d
+rest   1        e
+D4     1        e     d
+measure 2
+E4     4        h     d
+rest   4        h               F
+P    C33:x2
+measure 3
+D4     2        q     d
+Ef4    2        q f   d
+D4     2        q     d
+D4     2        q     d
+measure 4
+D4     3        q.    d
+D4     1        e     d
+E4     2        q     d
+D4     1        e     d  [
+E4     1        e     d  ]
+measure 5
+F4     2        q     d
+E4     1        e     d  [
+D4     1        e     d  ]
+E4     4        h     d
+measure 6
+$  D:Andante largo
+rest   4        h
+A4     3        q.    d
+A4     1        e     d
+measure 7
+A4     3        q.    d
+E4     1        e     d
+F4     2        q     d
+C4     2        q     d
+measure 8
+C4     3        q.    d
+C5     1        e     d
+D5     2        q     d
+rest   1        e
+D5     1        e     d
+measure 9
+G4     2        q     d
+rest   1        e
+E4     1        e     d
+F4     2        q     d
+C5     2        q     d
+measure 10
+C5     2        q     d
+rest   1        e
+F4     1        e     d
+F4     2        q     d
+D4     2        q     d
+measure 11
+G4     2        q     d
+C4     2        q     d
+F4     2        q     d
+Bf3    2        q     u
+measure 12
+Ef4    2        q f   d
+Af3    2        q f   u
+Df4    2        q f   d
+G3     2        q     u
+measure 13
+G4     2        q     d
+F4     2        q     d
+Bf3    2        q     u
+G4     2-       q     d        -
+measure 14
+G4     2        q     d
+F4     2        q     d
+C5     2        q     d
+F4     2        q     d
+measure 15
+C5     2        q     d
+F4     2        q     d
+G4     2        q     d
+rest   2        q               F
+P    C33:x-2
+measure 16
+D4     2        q     d
+rest   2        q
+C4     4        h     d
+measure 17
+C4     4        h     d
+C4     2        q     d
+rest   2        q
+measure 18
+F4     2        q     d
+rest   2        q
+G4     4        h     d
+mdouble
+/END
