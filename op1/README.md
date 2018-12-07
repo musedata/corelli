@@ -1,4 +1,4 @@
-# Arcangelo Corelli, Sonate da Chiesa a tre\8, Op. 1
+# Arcangelo Corelli, Sonate da Chiesa &agrave; tre, Op. 1
 
 (Due Violini, e Violone, o Arcileuto, col Basso per l'Organo)
 In Roma, 1683
