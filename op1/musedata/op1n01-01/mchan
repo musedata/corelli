@@ -1,0 +1,26 @@
+(C) 1993 Center for Computer Assisted Research in the Humanities.
+ID: {cor/chry/trio/op1n01/stage2/01/mchan2} [KHM:1288868359]
+TIMESTAMP: NOV/27/2005 [md5sum:12f557cff3a4d8b265e9190f30879044]
+08/16/93 S. Rasmussen
+WK#:1,1       MV#:1
+Augener/Chrysander
+Church Sonatas, Op. 1: Sonata I.
+[Movement 1]
+Midi assignment
+
+Group memberships: midi
+midi: part 1 of 4
+&
+Comments here
+&
+part  1 = channel  1     Violino 1
+part  2 = channel  2     Violino 2
+part  3 = channel  3     Violone
+part  4 = channel  4     Organo
+channel  1: instrument = 42, 42                           +10
+channel  2: instrument = 42, 42                           +10
+channel  3: instrument = 43, 43                           -20
+channel  4: instrument = 20, 20                           -20
+2 restrike factor
+54  quarter notes per minute
+/END
