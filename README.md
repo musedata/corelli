@@ -1,7 +1,7 @@
 MuseData digital edition of Corelli, Opp. 1-6
 ===============================================
 
-This repository contains digital scores used to produce
+This repository contains MuseData digital scores used to produce
 PDF files for Arcangelo Corelli's Opp. 1&ndash;6 found on the
 [CCARH wikipage for Corelli](http://corelli.ccarh.org).
 
@@ -12,7 +12,7 @@ files, and links to the MuseData scores in [Verovio Humdrum
 Viewer](https://verovio.humdrum.org), which is useful interactive
 visual display of the notation and basic MIDI playback.
 
-| Opus/Number | [PDF](http://corelli.ccarh.org) | Page files | MuseData<small>&nbsp;(by&nbsp;movement)</small> | View in VHV |
+| Op./No. | [PDF](http://corelli.ccarh.org) | Page files | MuseData<small>&nbsp;(by&nbsp;mvmt.)</small> | View in VHV |
 | ---- | :---: | :---: | -------- | ----- |
 | 1/1  | [X](https://pdf.musedata.org/?id=corelli-op1-n01) | [X](op1/pages-score/corelli-op1n01.iff) | [01](op1/musedata/corelli-op1n01-01.msd) [02](op1/musedata/corelli-op1n01-02.msd)  [03](op1/musedata/corelli-op1n01-03.msd)  [04](op1/musedata/corelli-op1n01-04.msd)                                                                                                                               |[01](https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n01-01.msd) [02](https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n01-02.msd)  [03](https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n01-03.msd)  [04](https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n01-04.msd) |
 | 1/2  | [X](https://pdf.musedata.org/?id=corelli-op1-n02) | [X](op1/pages-score/corelli-op1n02.iff) | [01](op1/musedata/corelli-op1n02-01.msd) [02](op1/musedata/corelli-op1n02-02.msd)  [03](op1/musedata/corelli-op1n02-03.msd)  [04](op1/musedata/corelli-op1n02-04.msd)                                                                                                                               |[01](https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n02-01.msd) [02](https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n02-02.msd)  [03](https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n02-03.msd)  [04](https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n02-04.msd) |
@@ -91,9 +91,12 @@ visual display of the notation and basic MIDI playback.
 
 ## op?/musedata
 
-The op?/MuseData directories contains stage-2 (notation-level) MuseData
-files for the Corelli works.  One file contains all parts for a
-single movement (72 works containing 299 total movements).  
+The `op?/MuseData` directories contain "stage-2" (notation-level)
+MuseData files for the Corelli works.  One file contains all parts for a
+single movement (72 works containing 299 total movements), and often
+contains `mchan` files for preparing MIDI files as well as individual
+part files when there are also combined part file(s) for the graphical
+score.
 
 Files in this directory can be converted to PostScript files with
 the [muse2ps](http://muse2ps.ccarh.org) command-line utility, or
@@ -114,32 +117,29 @@ for controlling the automatic layout of the music on the page.
 
 ## pages-score
 
-The pages-score directory contains MPG (music page) files which are generated
-from the stage2 files.  Each MPG file contains all of the pages for one
-string quartet.  These files contain manually typeset music using the
+The pages-score directory contains IFF (music page) files which are
+generated from the combined MuseData files.  Each Page file contains
+all of the pages for one work (containing multiple movements).
+These files include additional manual typesetting beyond the 
+automatic typesetting of the muse2ps program, using the
 [Dmuse](http://dmuse.ccarh.org) environment (muse2ps is a command-line
 version of several processing programs found in Dmuse).
 
-These page files can be converted into PostScript files with the muse2ps
-program by using the =p option:
+The Page files can be converted into PostScript files with the muse2ps
+program by using the =p option to specify Page file input:
 
 <pre>
    cat op1/pages-score/corelli-op1n01.iff | muse2ps =p \
       | ps2pdf -sPAPERSIZE=letter  - - &gt; corelli-op1n01.pdf
 </pre>
 
-## footer
-
-The footer directory contains descriptions of page footers which are added
-to the final PDFs of the graphical music. 
-
 # Parts
 
-Part MPG files are not yet available.  Basic parts can be created
+Part IFF files are not yet available.  Basic parts can be created
 by extracting a single part file from the concatenated parts in the
-stage2 directory.  
+musedata directory.   
 
-When a part is extracted to print by itself, you will have to change
+When a part is extracted for printing, you will have to change
 two lines in the header for the part.  For example, change line 15 of
 the cello part from:
 
@@ -156,5 +156,18 @@ score: part 1 of 1
 Before sending it as input to muse2ps.  The muse2ps program only prints
 scores, so the "parts" line underneath the "score" line in the file header
 is ignored (muse2ps does not contain the part-generating code from dmuse).
+
+
+Also, loading the score into VHV (see links in the
+above table) will allow easy parts prepartion by movement.  Add a line such as:
+
+```
+@@@filter: extract -k 1
+```
+
+To extract the bottom staff of the score, with each staff being successively 
+higher numbers given to the `-k` option.
+
+
 
 
