@@ -1,8 +1,8 @@
-MuseData digital edition for Arcangelo Corelli, Opp. 1-6
-=========================================================
+MuseData digital edition of Corelli, Opp. 1-6
+===============================================
 
 This repository contains digital scores used to produce
-PDF files for Corelli's Opp. 1&ndash;6 found on the
+PDF files for Arcangelo Corelli's Opp. 1&ndash;6 found on the
 [CCARH wikipage for Corelli](http://corelli.ccarh.org).
 
 The following table lists PDF files of the scores, links to the
