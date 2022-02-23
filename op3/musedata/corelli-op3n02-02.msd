@@ -2,6 +2,7 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata II
 @@@OTL: Allegro
+@@@SMS: Augener/Chrysander
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no02
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

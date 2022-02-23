@@ -2,6 +2,7 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata V
 @@@OTL: Allegro
+@@@SMS: Augener/Chrysander
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no05
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

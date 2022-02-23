@@ -2,6 +2,7 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata XII
 @@@OTL: Ciacona 
+@@@SMS: Augener/Chrysander
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no12
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

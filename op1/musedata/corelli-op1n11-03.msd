@@ -2,6 +2,7 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata XI
 @@@OTL: Adagio
+@@@SMS: Augener/Chrysander
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no11
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
