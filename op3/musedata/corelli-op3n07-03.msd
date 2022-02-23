@@ -1,7 +1,9 @@
+@@@COM: Corelli, Arcangelo
+@@@CDT: 1652/02/17-1713/01/08
+@@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no07
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-@@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no07
 (C) 1995, 2002 Center for Computer Assisted Research in the Humanities.
 ID: {cor/chry/trio/op3n07/stage2/03/01}
 TIMESTAMP: NOV/27/2005 [md5sum:07ada2a5541473792b337c4ea171d6c8]
