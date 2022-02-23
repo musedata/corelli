@@ -1,7 +1,7 @@
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-@@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no6
+@@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no06
 (C) 1993, 2002 Center for Computer Assisted Research in the Humanities.
 ID: {cor/chry/trio/op1n06/stage2/04/01} [KHM:785605575]
 TIMESTAMP: NOV/27/2005 [md5sum:a86f52a3068e24b22c7178f08dbe3ed2]
