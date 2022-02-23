@@ -1,5 +1,7 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
+@@@OPR: Chamber Sonatas, Op. 2: Sonata III
+@@@OTL: [Third Movement]
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no03
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
@@ -11,7 +13,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:99feaa48cbe8c86e4483b51aaf083d18]
 WK#:2,3       MV#:3
 Augener/Chrysander
 Chamber Sonatas, Op. 2: Sonata III 
-[Third Movement]
+Adagio
 Violino 1 
 
 Group memberships: sound score

@@ -1,5 +1,7 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
+@@@OPR: Chamber Sonatas, Op. 4: Sonata VI
+@@@OTL: Allemanda
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no06
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

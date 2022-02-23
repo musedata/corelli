@@ -1,5 +1,7 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
+@@@OPR: Chamber Sonatas, Op. 2: Sonata VII
+@@@OTL: Corrente 
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no07
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

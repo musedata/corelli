@@ -1,5 +1,7 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
+@@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata I
+@@@OTL: Adagio
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

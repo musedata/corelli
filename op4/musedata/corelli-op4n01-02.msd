@@ -1,5 +1,7 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
+@@@OPR: Chamber Sonatas, Op. 4: Sonata I
+@@@OTL: Corrente
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

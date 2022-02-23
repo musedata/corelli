@@ -1,5 +1,7 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
+@@@OPR: Church Sonatas, Op. 3: Sonata VIII
+@@@OTL: Largo
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no08
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

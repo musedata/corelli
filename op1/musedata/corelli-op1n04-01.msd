@@ -1,7 +1,7 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata IV
-@@@OTL: [Movement 1]
+@@@OTL: Vivace
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no04
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01

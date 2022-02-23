@@ -1,5 +1,7 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
+@@@OPR: Chamber Sonatas, Op. 2: Sonata IV
+@@@OTL: [Third Movement]
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no04
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
@@ -11,7 +13,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:8f32507fc1773e2cd2e59c73576f8169]
 WK#:2,4       MV#:3a  12
 Augener/Chrysander
 Chamber Sonatas, Op. 2: Sonata IV 
-[Third Movement]
+Grave
 Violino 1 
 
 Group memberships: sound score
