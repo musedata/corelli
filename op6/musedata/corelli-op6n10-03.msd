@@ -11,7 +11,7 @@
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no10
 @@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n10-03.msd
 @@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n10-03.msd
-@@@title: @{OPR}, @{ONM}. ${OTL}
+@@@title: @{OPR}, @{ONM}. @{OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

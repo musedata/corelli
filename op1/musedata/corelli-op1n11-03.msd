@@ -11,7 +11,7 @@
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no11
 @@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n11-03.msd
 @@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n11-03.msd
-@@@title: @{OPR}, @{ONM}. ${OTL}
+@@@title: @{OPR}, @{ONM}. @{OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

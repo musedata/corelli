@@ -11,7 +11,7 @@
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no02
 @@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n02-04.msd
 @@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n02-04.msd
-@@@title: @{OPR}, @{ONM}. ${OTL}
+@@@title: @{OPR}, @{ONM}. @{OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
