@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata IV
 @@@OTL: [Third Movement]
+@@@OPS: 2
+@@@ONM: 4
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n04-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n04-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:8f32507fc1773e2cd2e59c73576f8169]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:3a  12
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
+Chamber Sonatas, Op. 2: Sonata IV
 Grave
-Violino 1 
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:1   T:3/2  C:4  D:Grave 
+$  K:1   Q:1   T:3/2  C:4  D:Grave
 rest   2        h
 rest   2        h
 D5     2        h     d
@@ -36,7 +44,7 @@ B4     2        h     d
 measure 4
 A#4    6        w.#   u
 mdouble
-$  K:1   Q:4   T:1/1  C:4  D:Adagio 
+$  K:1   Q:4   T:1/1  C:4  D:Adagio
 S    C0:W0
 B4     4        q     d
 C#5    4        q #   d
@@ -184,9 +192,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:64c3c0c3aac5a30f658d0a59644e9230]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:3a  12
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
+Chamber Sonatas, Op. 2: Sonata IV
 [Third Movement]
-Violino 2 
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -194,7 +202,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:1   T:3/2  C:4  D:Grave 
+$  K:1   Q:1   T:3/2  C:4  D:Grave
 rest   2        h
 rest   2        h
 F#4    2        h     u
@@ -207,7 +215,7 @@ E4     2        h     u
 measure 4
 F#4    6        w.    u
 mdouble
-$  K:1   Q:4   T:1/1  C:4  D:Adagio 
+$  K:1   Q:4   T:1/1  C:4  D:Adagio
 rest   8        h
 B4     4        q     d
 C#5    4        q #   d
@@ -337,16 +345,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:2adab07c139148d696b6e6762f5df02b]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:3a  12
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
+Chamber Sonatas, Op. 2: Sonata IV
 [Third Movement]
-Violone 
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:1   Q:1   T:3/2  C:22  D:Grave 
+$  K:1   Q:1   T:3/2  C:22  D:Grave
 rest   2        h
 rest   2        h
 B2     2        h     u
@@ -359,7 +367,7 @@ G2     2        h     u
 measure 4
 F#2    6        w.    u
 mdouble
-$  K:1   Q:4   T:1/1  C:22  D:Adagio 
+$  K:1   Q:4   T:1/1  C:22  D:Adagio
 rest   2        e
 B3     2        e     d  [
 A#3    2        e #   d  =
@@ -520,16 +528,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:7b7ebaa3d6c3a864717afd93bb9ca8b1]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:3a  12
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
+Chamber Sonatas, Op. 2: Sonata IV
 [Third Movement]
-Cembalo 
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:1   Q:1   T:3/2  C:22  D:Grave 
+$  K:1   Q:1   T:3/2  C:22  D:Grave
 rest   2        h
 rest   2        h
 B2     2        h     u
@@ -546,7 +554,7 @@ measure 4
 f1              #
 F#2    6        w.    u
 mdouble
-$  K:1   Q:4   T:1/1  C:22  D:Adagio 
+$  K:1   Q:4   T:1/1  C:22  D:Adagio
 rest   2        e
 B3     2        e     d  [
 f1              6
@@ -820,7 +828,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:99059c46229584d5a79b9b5ba7755d3d]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:3a  12
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
+Chamber Sonatas, Op. 2: Sonata IV
 [Third Movement]
 Violone e Cembalo
 
@@ -829,7 +837,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:1   T:3/2  C:22  D:Grave 
+$  K:1   Q:1   T:3/2  C:22  D:Grave
 rest   2        h
 rest   2        h
 B2     2        h     u
@@ -846,7 +854,7 @@ measure 4
 f1              #
 F#2    6        w.    u
 mdouble
-$  K:1   Q:4   T:1/1  C:22  D:Adagio 
+$  K:1   Q:4   T:1/1  C:22  D:Adagio
 rest   2        e
 B3     2        e     d  [
 f1              6

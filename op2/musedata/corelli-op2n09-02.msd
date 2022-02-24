@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata IX
-@@@OTL: Tempo di Sarabanda 
+@@@OTL: Tempo di Sarabanda
+@@@OPS: 2
+@@@ONM: 9
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n09-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n09-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:aaa137baa2e30a7d3060b1438bcd4348]
 01/09/95 W. Hewlett
 WK#:2,9       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IX 
-Tempo di Sarabanda 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata IX
+Tempo di Sarabanda
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:3   Q:2   T:3/4  C:4  D:Largo 
+$  K:3   Q:2   T:3/4  C:4  D:Largo
 F#5    4        h     d
 C#5    2        q     d
 measure 2
@@ -256,9 +264,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:90d3ab4c2b0e54fb38c46bc850f5c5f0]
 01/09/95 W. Hewlett
 WK#:2,9       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IX 
-Tempo di Sarabanda 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata IX
+Tempo di Sarabanda
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -266,7 +274,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:3   Q:2   T:3/4  C:4  D:Largo 
+$  K:3   Q:2   T:3/4  C:4  D:Largo
 rest   6
 measure 2
 rest   6
@@ -489,16 +497,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:ff5e09765391572a79a91c40adbe7e03]
 01/09/95 W. Hewlett
 WK#:2,9       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IX 
-Tempo di Sarabanda 
-Violone 
+Chamber Sonatas, Op. 2: Sonata IX
+Tempo di Sarabanda
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:3   Q:2   T:3/4  C:22  D:Largo 
+$  K:3   Q:2   T:3/4  C:22  D:Largo
 rest   6
 measure 2
 rest   6
@@ -686,16 +694,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:3aa491f4d45edcb7e43c0fddce251417]
 01/09/95 W. Hewlett
 WK#:2,9       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IX 
-Tempo di Sarabanda 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata IX
+Tempo di Sarabanda
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:3   Q:2   T:3/4  C:22  D:Largo 
+$  K:3   Q:2   T:3/4  C:22  D:Largo
 rest   6
 measure 2
 rest   6
@@ -982,8 +990,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:908c4e9a01851bbd8c8a27b5a8ae196a]
 01/09/95 W. Hewlett
 WK#:2,9       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IX 
-Tempo di Sarabanda 
+Chamber Sonatas, Op. 2: Sonata IX
+Tempo di Sarabanda
 Violone e Cembalo
 
 Group memberships: score
@@ -991,7 +999,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:3   Q:2   T:3/4  C:22  D:Largo 
+$  K:3   Q:2   T:3/4  C:22  D:Largo
 rest   6
 measure 2
 rest   6

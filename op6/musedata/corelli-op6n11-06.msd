@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto III
 @@@OTL: Giga
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 11
+@@@OMV: 6
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n11-06.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n11-06.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -67,7 +75,7 @@ C5     1        e     d
 F4     2        q     u
 F5     1        e     d
 measure 9
-G5     1        e     d  [      ( 
+G5     1        e     d  [      (
 F5     1        e     d  =
 G5     1        e     d  ]      )
 Ef4    2        q f   u
@@ -111,8 +119,8 @@ F4     1        e     u
 Bf3    2        q     u
 F5     1        e     d
 measure 17
-P  C1:] 
-G5     1        e     d  [      ( 
+P  C1:]
+G5     1        e     d  [      (
 F5     1        e     d  =
 G5     1        e     d  ]      )
 Ef4    2        q f   u
@@ -208,8 +216,8 @@ C5     1        e     d  ]      )
 rest   2        q
 G5     1        e     d
 measure 35
-P  C1:] 
-Ef5    3        q.f   d 
+P  C1:]
+Ef5    3        q.f   d
 D5     3        q.    d
 measure 36
 C#5    3        q.#   d
@@ -299,8 +307,8 @@ G5     1        e     d  ]      )
 Ef4    2        q f   u
 G5     1        e     d
 measure 52
-P  C1:] 
-F5     2        q     d 
+P  C1:]
+F5     2        q     d
 Bf4    1        e     d
 D4     2        q     u
 Bf4    1        e     d

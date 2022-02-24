@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VII
 @@@OTL: Andante largo
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 7
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n07-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n07-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -435,9 +443,9 @@ rest   2        e
 G4     1        s     u  [[     (
 E4     1        s     u  ]]     )
 F#4    2        e     u  [
-F#4    2        e     u  ]      &1f 
-P    C33:Y63 
-measure 22 
+F#4    2        e     u  ]      &1f
+P    C33:Y63
+measure 22
 B3     4        q     u
 A#3    4        q #   u
 B3     8        h     u

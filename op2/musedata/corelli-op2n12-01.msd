@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata XII
-@@@OTL: Ciacona 
+@@@OTL: Ciacona
+@@@OPS: 2
+@@@ONM: 12
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no12
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n12-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n12-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:db7c72179aca13fd71f32c9d9efd3d79]
 01/09/95 W. Hewlett
 WK#:2,12      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XII 
-Ciacona 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata XII
+Ciacona
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:3/4  C:4  D:Largo 
+$  K:0   Q:4   T:3/4  C:4  D:Largo
 rest   4        q
 mheavy3                        |:
 B4     6        q.    d
@@ -88,8 +96,8 @@ G5     4        q     d
 G5     6        q.    d
 F#5    2        e #   d
 mdouble 17
-P C1:] 
-$   D:Allegro 
+P C1:]
+$   D:Allegro
 S   C0:W0
 G5     2        e     d  [
 D5     2        e     d  =
@@ -622,9 +630,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:0a3b71eeb268f491d8d42a95f5c3f8fd]
 01/09/95 W. Hewlett
 WK#:2,12      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XII 
-Ciacona 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata XII
+Ciacona
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -632,7 +640,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:3/4  C:4  D:Largo 
+$  K:0   Q:4   T:3/4  C:4  D:Largo
 rest   4        q
 mheavy3                        |:
 rest   4        q
@@ -693,7 +701,7 @@ B4     2        e     d  ]     )
 A4     6        q.    u
 G4     2        e     u
 mdouble 17
-$   D:Allegro 
+$   D:Allegro
 G4     8        h     u
 rest   4        q
 measure 18
@@ -1211,16 +1219,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:1b5e7bee44354d4f037c3060b524a5e3]
 01/09/95 W. Hewlett
 WK#:2,12      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XII 
-Ciacona 
-Violone 
+Chamber Sonatas, Op. 2: Sonata XII
+Ciacona
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:3/4  C:22  D:Largo 
+$  K:0   Q:2   T:3/4  C:22  D:Largo
 G2     2        q     u
 mheavy3                        |:
 G3     4        h     d
@@ -1272,7 +1280,7 @@ measure 16
 C3     2        q     u
 D3     4        h     d
 mdouble 17
-$   D:Allegro 
+$   D:Allegro
 G3     4        h     d
 rest   2        q
 measure 18
@@ -1705,16 +1713,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:3a257ef022a64dbd2d377fbba35b9250]
 01/09/95 W. Hewlett
 WK#:2,12      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XII 
-Ciacona 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata XII
+Ciacona
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:3/4  C:22  D:Largo 
+$  K:0   Q:2   T:3/4  C:22  D:Largo
 G2     2        q     u
 mheavy3                        |:
 G3     4        h     d
@@ -1789,7 +1797,7 @@ f2     3        5 4
 f2              b #
 D3     4        h     d
 mdouble 17
-$   D:Allegro 
+$   D:Allegro
 G3     4        h     d
 rest   2        q
 measure 18
@@ -2439,8 +2447,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:3112aee872933f50568804117287681f]
 01/09/95 W. Hewlett
 WK#:2,12      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XII 
-Ciacona 
+Chamber Sonatas, Op. 2: Sonata XII
+Ciacona
 Violone e Cembalo
 
 Group memberships: score
@@ -2448,7 +2456,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:3/4  C:22  D:Largo 
+$  K:0   Q:2   T:3/4  C:22  D:Largo
 G2     2        q     u
 mheavy3                        |:
 G3     4        h     d
@@ -2523,7 +2531,7 @@ f2     3        5 4
 f2              b #
 D3     4        h     d
 mdouble 17
-$   D:Allegro 
+$   D:Allegro
 G3     4        h     d
 rest   2        q
 measure 18

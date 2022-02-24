@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata VII
 @@@OTL: Corrente
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 7
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n07-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n07-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -86,8 +94,8 @@ D5     4        h     d
 measure 18
 C5     6        h.    d
 mheavy4 19      :|:
-P  C1:] 
-rest   2        q 
+P  C1:]
+rest   2        q
 E5     1        e     d  [
 F5     1        e     d  ]
 G5     2        q     d

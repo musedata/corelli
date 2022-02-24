@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata I
 @@@OTL: Adagio
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 1
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n01-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n01-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

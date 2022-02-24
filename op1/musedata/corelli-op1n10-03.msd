@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata X
 @@@OTL: Allwegro
+@@@OPS: 1
+@@@ONM: 10
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no10
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n10-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n10-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:e3098e038d656f5b246e383561fe75e5]
 09/16/93 S. Rasmussen
 WK#:1,10      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata X 
+Church Sonatas, Op. 1: Sonata X
 [Movement 3]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:6/8  C:4  D:Allegro 
+$  K:-1   Q:4   T:6/8  C:4  D:Allegro
 G4     4        q     u
 Bf4    2        e     u
 A4     2        e     d  [
@@ -226,7 +234,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:e4c549f689a73da054660537354b49ac]
 09/16/93 S. Rasmussen
 WK#:1,10      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata X 
+Church Sonatas, Op. 1: Sonata X
 [Movement 3]
 Violino 2
 
@@ -236,7 +244,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:6/8  C:4  D:Allegro 
+$  K:-1   Q:4   T:6/8  C:4  D:Allegro
 rest  12
 measure 2
 rest  12
@@ -437,7 +445,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:4e01ca05d7f262a0e392942aeedf3552]
 09/16/93 S. Rasmussen
 WK#:1,10      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata X 
+Church Sonatas, Op. 1: Sonata X
 [Movement 3]
 Violone
 
@@ -447,7 +455,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:6/8  C:22  D:Allegro 
+$  K:-1   Q:4   T:6/8  C:22  D:Allegro
 rest  12
 measure 2
 rest  12
@@ -629,7 +637,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:e828452c03379f3535b17362fa2cfecb]
 09/16/93 S. Rasmussen
 WK#:1,10      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata X 
+Church Sonatas, Op. 1: Sonata X
 [Movement 3]
 Organo
 
@@ -639,7 +647,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:6/8  C:22  D:Allegro 
+$  K:-1   Q:4   T:6/8  C:22  D:Allegro
 G2     4        q     u
 G3     2        e     d
 f2              4 2

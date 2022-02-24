@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata I
 @@@OTL: Grave
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 1
+@@@OMV: 1
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n01-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n01-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -15,7 +23,7 @@ WK#:5,1       MV#:1
 Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in D
 
-Violino solo 
+Violino solo
 1 51
 Group memberships: score
 score: part 1 of 2
@@ -157,7 +165,7 @@ A5     8        h     d
 rest   8        h              F
 P    C32:x2
 mdouble 15
-$  T:1/1   D:Grave 
+$  T:1/1   D:Grave
 A4     8-       h     u        -
 A4     2        e     u  [
 C#5    2        e     u  =
@@ -265,8 +273,8 @@ $  Q:8   T:1/1
 D#4    8        q #   u
 rest   8        q
 rest   8        q
-$  D:[Adagio] 
-B4     4        e     u  [ 
+$  D:[Adagio]
+B4     4        e     u  [
 E4     4        e     u  ]
 measure 25
 A4     4        e     u  [     (
@@ -349,8 +357,8 @@ D4     8        q     u
 C#4    8        q     u
 D4    16        h     u
 mdouble 36
-P  C1:] 
-$   T:1/1   D:Allegro 
+P  C1:]
+$   T:1/1   D:Allegro
 rest   8        q
 F#5    8        q     d
 G5     8        q     d
@@ -1154,11 +1162,11 @@ WK#:5,1       MV#:1
 Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in D
 
-Violone e Cimbalo 
+Violone e Cimbalo
 1 51
 Group memberships: score
 score: part 2 of 2
-$  K:2   Q:1   T:1/1  C:22  D:Grave 
+$  K:2   Q:1   T:1/1  C:22  D:Grave
 D3     4-       w     u        -
 measure 2
 f2              6 4
@@ -1167,7 +1175,7 @@ f2              6 5
 C#3    1        q     u
 D3     2        h     u
 mdouble 3
-$  Q:2   T:6/8   D:Allegro 
+$  Q:2   T:6/8   D:Allegro
 *               D       Tasto solo
 D3     6-       h.    d        -
 measure 4
@@ -1255,8 +1263,8 @@ f2              4+ 2
 A2     4        q     u
 rest   4        q
 rest   4        q
-$  D:[Adagio] 
-f1              6 
+$  D:[Adagio]
+f1              6
 G#2    4        q     u
 measure 25
 f1              7
@@ -1900,7 +1908,7 @@ f2              6n 4
 A2     8-       h     u        -
 measure 94
 f2     8        5 4
-f2              b 3 
+f2              b 3
 A2    16-       w     u        -
 measure 95
 A2    16        w     u

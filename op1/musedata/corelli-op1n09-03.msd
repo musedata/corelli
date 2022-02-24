@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata IX
 @@@OTL: Adagio
+@@@OPS: 1
+@@@ONM: 9
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n09-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n09-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:28b5668a4890af72f01d4a77261a3e64]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 3]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:3/2  C:4  D:Adagio 
+$  K:0   Q:1   T:3/2  C:4  D:Adagio
 B4     2        h     d
 B4     3        h.    d
 B4     1        q     d
@@ -161,8 +169,8 @@ ID: {cor/chry/trio/op1n09/stage2/03/02} [KHM:2842901199]
 TIMESTAMP: NOV/27/2005 [md5sum:5bdfef69fb63617d1bdb7a3787ce87dd]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:3
-Augener/Chrysander 
-Church Sonatas, Op. 1: Sonata IX 
+Augener/Chrysander
+Church Sonatas, Op. 1: Sonata IX
 [Movement 3]
 Violino 2
 
@@ -172,7 +180,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:3/2  C:4  D:Adagio 
+$  K:0   Q:1   T:3/2  C:4  D:Adagio
 G4     2        h     u
 F#4    3        h.#   u
 F#4    1        q     u
@@ -307,7 +315,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:c9f633bc88dc3f8c7c9dda6237bf1b89]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 3]
 Violone, o Arcileuto
 
@@ -317,7 +325,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:3/2  C:22  D:Adagio 
+$  K:0   Q:1   T:3/2  C:22  D:Adagio
 E3     2        h     d
 D#3    3        h.#   d
 D#3    1        q     d
@@ -445,7 +453,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:344db418e87b28a3b1cb9953414a202e]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 3]
 Organo
 
@@ -455,7 +463,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:3/2  C:22  D:Adagio 
+$  K:0   Q:1   T:3/2  C:22  D:Adagio
 E3     2        h     d
 f1              6
 D#3    3        h.#   d

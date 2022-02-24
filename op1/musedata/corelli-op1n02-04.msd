@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata II
 @@@OTL: Allegro
+@@@OPS: 1
+@@@ONM: 2
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n02-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n02-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:f1f63b2dbf2808fb7dc9b9f34a357f44]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 4]
 Violino 1
 
@@ -25,7 +33,7 @@ Stage 2 complete.
 S. Rasmussen    08/18/93
 SEE FOOTNOTE.
 &
-$ K:1   Q:2   T:3/8   C:4   D:Allegro 
+$ K:1   Q:2   T:3/8   C:4   D:Allegro
 rest   1   a    e
 rest   1        e
 B5     1        e     d
@@ -409,7 +417,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:b82d69f3d1541c9744ce4b215f3c0ee3]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 4]
 Violino 2
 
@@ -419,7 +427,7 @@ score: part 2 of 4
 &
 Stage 2 complete.
 &
-$ K:1   Q:2   T:3/8   C:4   D:Allegro 
+$ K:1   Q:2   T:3/8   C:4   D:Allegro
 rest   3
 measure 2
 rest   3
@@ -796,7 +804,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:c8e93830c06afa0922abd36d5a8b0052]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 4]
 Violone
 
@@ -806,7 +814,7 @@ score: part 3 of 4
 &
 Stage 2 complete.
 &
-$ K:1   Q:2   T:3/8   C:22   D:Allegro 
+$ K:1   Q:2   T:3/8   C:22   D:Allegro
 rest   3
 measure 2
 rest   3
@@ -997,7 +1005,7 @@ rest   3
 measure 70
 rest   1        e
 rest   1        e
-E3     1        e     d         %f 
+E3     1        e     d         %f
 measure 71
 B3     1        e     d  [      (
 A3     1        e     d  =      )
@@ -1164,7 +1172,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:93dce9e4cedb57ec4ecfbbc0039cd6d5]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 4]
 Organo
 
@@ -1174,7 +1182,7 @@ score: part 4 of 4
 &
 Stage 2 complete.
 &
-$ K:1   Q:2   T:3/8   C:22   D:Allegro 
+$ K:1   Q:2   T:3/8   C:22   D:Allegro
 E3     3        q.    d
 measure 2
 E3     3        q.    d

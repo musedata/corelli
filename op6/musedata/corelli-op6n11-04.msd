@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto III
 @@@OTL: Andante largo
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 11
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n11-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n11-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -115,8 +123,8 @@ G4     4        e     d  ]
 rest   4        e
 G5     2        s     d  [[     f
 P    C33:Y61
-@ Source erroneously repeats "p" here instead of "f" as in tr. 4.  
-D5     2        s     d  ]] 
+@ Source erroneously repeats "p" here instead of "f" as in tr. 4.
+D5     2        s     d  ]]
 Ef5    8        q f   d
 D5     8-       q     d        -
 measure 15

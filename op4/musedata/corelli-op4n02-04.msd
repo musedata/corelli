@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata II
 @@@OTL: Corrente
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 2
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n02-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n02-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -106,8 +114,8 @@ C5     1        q     d
 measure 25
 D5     3        h.    d
 mheavy4 26      :|:
-P  C1:] 
-A5     1        q     d 
+P  C1:]
+A5     1        q     d
 D5     1        q     d
 D6     1        q     d
 measure 27

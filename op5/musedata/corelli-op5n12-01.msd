@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata XII
-@@@OTL: Adagio
-@@@SMS: Augener/Chrysander
+@@@OTL: Follia for violin in D minor
+@@@OPS: 5
+@@@ONM: 12
+@@@OMV: 1
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no12
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n12-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n12-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -79,8 +87,8 @@ C#5    6        e #   d
 measure 16
 D5    36        h.    d
 mdouble 17
-P  C1:] 
-rest  12        q 
+P  C1:]
+rest  12        q
 A4    12        q     u
 D5    12        q     d
 measure 18
@@ -143,8 +151,8 @@ D5     6        e     d
 measure 32
 D5    36        h.    d
 mdouble 33
-P  C1:] 
-$  D:Allegro 
+P  C1:]
+$  D:Allegro
 D5     6        e     d  [
 F5     6        e     d  =
 A5     6        e     d  =
@@ -246,8 +254,8 @@ D5     6        e     d
 measure 48
 D5    36        h.    d
 mdouble 49
-P  C1:] 
-D5     3        s     d  [[ 
+P  C1:]
+D5     3        s     d  [[
 A4     3        s     d  ==
 B4     3        s     d  ==
 C#5    3        s #   d  ]]
@@ -364,8 +372,8 @@ D5     6        e     d
 measure 64
 D5    36        h.    d
 mdouble 65
-P  C1:] 
-F5    12        q     u 
+P  C1:]
+F5    12        q     u
 back  12
 D5     6        e     d  [
 D4     6        e     d  =
@@ -505,8 +513,8 @@ D4    36        h.    u
 back  36
 D4    36        h.    d
 mdouble 81
-P  C1:] 
-rest  12        q 
+P  C1:]
+rest  12        q
 P    C1:Y20
 F5    12        q     u
 D4    12        q     u
@@ -628,8 +636,8 @@ D4    36        h.    u
 back  36
 D4    36        h.    d
 mdouble 97
-P  C1:] 
-D5     3        s     d  [[ 
+P  C1:]
+D5     3        s     d  [[
 F5     3        s     d  ==
 A5     3        s     d  ==
 F5     3        s     d  ]]
@@ -826,8 +834,8 @@ D5     3        s     u  ]]
 measure 112
 D4    36        h.    u
 mdouble 113
-P  C1:] 
-F5    24        h     u 
+P  C1:]
+F5    24        h     u
 rest  12        q
 P    C1:Y20
 back  36
@@ -945,8 +953,8 @@ back  36
 D5    12        q     d
 irest 24
 mdouble 129
-P  C1:] 
-$  D:Adagio 
+P  C1:]
+$  D:Adagio
 D5     6        e     d  [     (
 F5     6        e     d  =     )
 A4     6        e     d  =     (
@@ -989,8 +997,8 @@ E5     6        e     d  =     )
 A5     6        e     d  =     (
 E5     6        e     d  ]     )
 measure 135
-P  C1:] 
-F5     6        e     d  [     ( 
+P  C1:]
+F5     6        e     d  [     (
 A5     6        e     d  =     )
 D5     6        e     d  =     (
 F5     6        e     d  =     )
@@ -1036,8 +1044,8 @@ G4     6        e     u  =
 E4     6        e     u  =
 C4     6        e     u  ]
 measure 141
-P  C1:] 
-A5     6        e     d  [     ( 
+P  C1:]
+A5     6        e     d  [     (
 Bf5    3        s f   d  =[
 C6     3        s     d  ]]    )
 F5     6        e     u  [
@@ -1066,7 +1074,7 @@ measure 144
 D5    12        q     d
 D4    24        h     u
 mdouble 145
-$  D:Vivace 
+$  D:Vivace
 D6     3        s     d  [[
 A5     3        s     d  ==
 F5     3        s     d  ==
@@ -1074,8 +1082,8 @@ A5     3        s     d  ]]
 D5    12        q     d
 rest  12        q
 measure 146
-P  C1:] 
-A5     3        s     d  [[ 
+P  C1:]
+A5     3        s     d  [[
 E5     3        s     d  ==
 C#5    3        s #   d  ==
 E5     3        s     d  ]]
@@ -1250,8 +1258,8 @@ C#5    1        e #   u  ]
 measure 176
 D4     3        q.    u
 mdouble 177
-P  C1:] 
-$  Q:6   T:1/1   D:Andante 
+P  C1:]
+$  Q:6   T:1/1   D:Andante
 F5     9        q.    u
 F5     3        e     u
 E5    12        h     u
@@ -1300,8 +1308,8 @@ D5     9        q.    d
 D5     3        e     d
 E5    12        h     d
 measure 183
-P  C1:] 
-A5     9        q.    u 
+P  C1:]
+A5     9        q.    u
 A5     3        e     u
 G5     6        q     u
 F5     3        e     u  [
@@ -1507,8 +1515,8 @@ D5     2        e  3  d  =
 C#5    2        e #3  d  ]
 D4    12        h.    u
 mdouble 201
-P  C1:] 
-$  Q:12   T:3/4   D:Adagio 
+P  C1:]
+$  Q:12   T:3/4   D:Adagio
 A4    36-       h.    u        -
 measure 202
 A4    36        h.    u
@@ -1962,8 +1970,8 @@ D5     3        s     u  ]]
 measure 280
 D4    36        h.    u
 mdouble 281
-P  C1:] 
-D5    12        q     d 
+P  C1:]
+D5    12        q     d
 A4    12        q     u
 D5    12-       q     d        -
 measure 282
@@ -2020,7 +2028,7 @@ E5     6        e     d  ]
 E5    24        h     d
 measure 296
 D5    36        h.    d
-mheavy3 297     |: 
+mheavy3 297     |:
 P  C0:t2
 D5     4        e  3  d  [     (*
 A4     4        e  3  d  =     )
@@ -2096,7 +2104,7 @@ A4    36        h.    u
  F4   36        h.    u
 back  36
 C4    36        h.    d
-mheavy4 305     :|: 
+mheavy4 305     :|:
 A5    24        h     u
 rest  12        q
 P    C1:Y20
@@ -2666,7 +2674,7 @@ Gasparo Pietra Santa, Roma 1700/1979
 Follia for violin in D minor
 
 Violino solo (2nd voice)
-2 47 
+2 47
 Group memberships: data
 data: part 2 of 3
 $  K:0   Q:2   T:3/4  C:4  D:Adagio
@@ -3301,7 +3309,7 @@ D5     2        q     d
 D5     3        q.    d
 C#5    1        e #   d
 measure 312
-D4     6        h.    d 
+D4     6        h.    d
 measure 313
 rest   6
 measure 314
@@ -3335,9 +3343,9 @@ D5     2        q     d
  G4    2        q     d
 D5     2        q     d
  A4    2        q     d
-A4     2        q     d 
+A4     2        q     d
 measure 328
-D4     6        h.    d 
+D4     6        h.    d
 measure 329
 D5     2        q     d
 irest  4
@@ -3358,13 +3366,13 @@ E5     4        h     d
 irest  2
 measure 335
 D5     2        q     d
-irest  4 
+irest  4
 measure 336
 C#5    4        h #   d
 irest  2
 measure 337
 D5     2        q     d
-irest  4 
+irest  4
 measure 338
 C#5    4        h #   d
 irest  2
@@ -3391,12 +3399,12 @@ irest  2
 measure 345
 rest   6
 measure 346
-D4     4        h     d 
+D4     4        h     d
 irest  2
 measure 347
 rest   6
 measure 348
-D4     6        h.    d 
+D4     6        h.    d
 mheavy2
 /END
 /eof
@@ -4683,7 +4691,7 @@ f1              3#
 A2     2        q     u
 D2     4        h     u
 mdouble 201
-$  Q:12   T:3/4   D:Adagio 
+$  Q:12   T:3/4   D:Adagio
 D3    12        q     d
 f1              6
 C#3   12        q #   u
@@ -5291,7 +5299,7 @@ f2              b 3#
 A2    12        q     u
 measure 296
 D3    36        h.    d
-mheavy3 297     |: 
+mheavy3 297     |:
 D3    24        h     d
 rest  12        q
 measure 298
@@ -5322,7 +5330,7 @@ f2              b 3
 C2    12        q     u
 measure 304
 F2    36        h.    u
-mheavy4 305     :|: 
+mheavy4 305     :|:
 F3     4        e  3  d  [     *
 C3     4        e  3  d  =
 F3     4        e  3  d  ]     !

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata IV
 @@@OTL: Presto
+@@@OPS: 1
+@@@ONM: 4
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n04-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n04-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:946a472f6d4311af35490042ab3d7b04]
 08/19/93 S. Rasmussen
 WK#:1,4       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IV 
+Church Sonatas, Op. 1: Sonata IV
 [Movement 4]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:4  D:Presto 
+$  K:0   Q:2   T:1/1  C:4  D:Presto
 A5     2        q     d
 E5     2        q     d
 C5     2        q     d
@@ -228,7 +236,7 @@ rest   4        h
 mheavy2
 /FINE
 It is hard to believe that Corelli intended the Phrygian cadence
-of mm. 37-39 to be the conclusion of this work. Probably 
+of mm. 37-39 to be the conclusion of this work. Probably
 this "forte" passage was intended to be played only as the first
 ending of this section; the repetition should probably conclude
 with the A minor cadence of m. 36, and the Violino 1 should close
@@ -246,7 +254,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:1ec9e8f5d4814c3ad76ea1aab63ccebe]
 08/19/93 S. Rasmussen
 WK#:1,4       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IV 
+Church Sonatas, Op. 1: Sonata IV
 [Movement 4]
 Violino 2
 
@@ -256,7 +264,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:4  D:Presto 
+$  K:0   Q:2   T:1/1  C:4  D:Presto
 rest   4        h
 A5     2        q     d
 E5     2        q     d
@@ -466,7 +474,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:810706788cec491297da6a41c2e2aef3]
 08/19/93 S. Rasmussen
 WK#:1,4       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IV 
+Church Sonatas, Op. 1: Sonata IV
 [Movement 4]
 Violone o Arcileuto
 
@@ -476,7 +484,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Presto 
+$  K:0   Q:2   T:1/1  C:22  D:Presto
 rest   8
 measure 2
 A3     2        q     d
@@ -669,7 +677,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:2daaa771b7b2d37e3d72bebe6e4a6866]
 08/19/93 S. Rasmussen
 WK#:1,4       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IV 
+Church Sonatas, Op. 1: Sonata IV
 [Movement 4]
 Organo
 
@@ -679,7 +687,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:4  D:Presto 
+$  K:0   Q:2   T:1/1  C:4  D:Presto
 A5     2        q     d
 E5     2        q     d
 f1              6
@@ -731,7 +739,7 @@ f1              6
 F3     4        h     d
 f1              #
 E3     4        h     d
-$  C:4 
+$  C:4
 measure 8
 E5     2        q     d
 B4     2        q     d

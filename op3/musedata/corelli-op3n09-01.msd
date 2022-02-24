@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata IX
 @@@OTL: Grave
-@@@SMS: Augener/Chrysander
+@@@OPS: 3
+@@@ONM: 9
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n09-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n09-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -164,9 +172,9 @@ measure 8
 E4     4        w n   u
 rest   2        h
 measure 9
-rest   2        h 
-rest   2        h 
-G5     2        h     d 
+rest   2        h
+rest   2        h
+G5     2        h     d
 measure 10
 C5     2        h     d
 F5     3        h.    d

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto III
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 3
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n03-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n03-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -22,7 +30,7 @@ score: part 1 of 7
 $  K:-2   Q:2   T:3/4  C:4  D:Allegro
 rest   2        q
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 G5     2        q     d
 G5     2        q     d
 measure 2
@@ -83,7 +91,7 @@ Bf4    2        q     d
 measure 13
 G4     2        q     u
 *               D +     Tutti
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 G5     2        q     d
 G5     2        q     d
 measure 14
@@ -290,7 +298,7 @@ A4     4        h     u
 measure 66
 G4     2        q     u
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 G5     2        q     d
 G5     2        q     d
 measure 67
@@ -332,7 +340,7 @@ F5     1        e     d  ]
 measure 73
 D5     2        q     d
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 B4     1        e n   d  [
 C5     1        e     d  =
 D5     1        e     d  =
@@ -1736,7 +1744,7 @@ Bf4    2-       q     d        -
 measure 52
 Bf4    2        q     d
 Ef4    2        q     u
-Af4    2-       q f   u        &1- 
+Af4    2-       q f   u        &1-
 measure 53
 Af4    2        q     u
 D4     2        q     u
@@ -2690,7 +2698,7 @@ E4     1        e n   d  =
 C4     1        e     d  ]
 measure 93
 F4     1        e     d  [
-E4     1        e     d  =      ^ 
+E4     1        e     d  =      ^
 F4     1        e     d  =
 G4     1        e     d  =
 Af4    1        e f   d  =

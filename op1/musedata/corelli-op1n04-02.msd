@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata IV
 @@@OTL: Adagio
+@@@OPS: 1
+@@@ONM: 4
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n04-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n04-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:73efc0edefc3919f3ebf9033a45fcd9d]
 08/19/93 S. Rasmussen
 WK#:1,4       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IV 
+Church Sonatas, Op. 1: Sonata IV
 [Movement 2]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:4  D:Adagio 
+$  K:0   Q:2   T:1/1  C:4  D:Adagio
 E5     1        e     d  [     (
 D5     1        e     d  =     )
 C5     1        e     d  =     (
@@ -103,7 +111,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:bacf19605a71199a7c70897730590ff5]
 08/19/93 S. Rasmussen
 WK#:1,4       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IV 
+Church Sonatas, Op. 1: Sonata IV
 [Movement 2]
 Violino 2
 
@@ -113,7 +121,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:4  D:Adagio 
+$  K:0   Q:2   T:1/1  C:4  D:Adagio
 rest   4        h
 E5     1        e     d  [     (
 D5     1        e     d  =     )
@@ -195,7 +203,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:6a1e443fd5b942b37259c755f0cd6181]
 08/19/93 S. Rasmussen
 WK#:1,4       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IV 
+Church Sonatas, Op. 1: Sonata IV
 [Movement 2]
 Violone o Arcileuto
 
@@ -205,7 +213,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Adagio 
+$  K:0   Q:2   T:1/1  C:22  D:Adagio
 rest   8
 measure 2
 A3     1        e     d  [
@@ -278,7 +286,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:ddde3b403bf188a069f71af7179915be]
 08/19/93 S. Rasmussen
 WK#:1,4       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IV 
+Church Sonatas, Op. 1: Sonata IV
 [Movement 2]
 Organo
 
@@ -288,7 +296,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Adagio 
+$  K:0   Q:2   T:1/1  C:22  D:Adagio
 A2     8        w     u
 measure 2
 A3     1        e     d  [

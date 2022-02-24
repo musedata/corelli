@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata II
 @@@OTL: Grave
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 2
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n02-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n02-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -40,7 +48,7 @@ rest   2        q
 measure 27
 D5     8        w     d        F
 P    C32:x1
-mdouble 
+mdouble
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -66,7 +74,7 @@ Ef4    2        q f   u
 measure 24
 G4     4        h     u
 rest   4        h              F
-P    C32:x2 
+P    C32:x2
 measure 25
 G4     3        q.    u
 G4     1        e     u
@@ -79,7 +87,7 @@ rest   2        q
 measure 27
 F#4    8        w #   u        F
 P    C32:x1y5
-mdouble 
+mdouble
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -125,7 +133,7 @@ measure 27
 f1              #
 D3     8        w     d        F
 P    C32:x1
-mdouble 
+mdouble
 /END
 /eof
 //

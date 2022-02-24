@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata V
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 5
+@@@OMV: 5
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n05-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n05-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -136,8 +144,8 @@ G4     3        q.    d
 D4     3-       q.    d        -
 D4     2        q     d
 mheavy4         :|:
-P  C1:] 
-F5     1        e n3  d        + 
+P  C1:]
+F5     1        e n3  d        +
 measure 10
 D5     1        e  3  d  [     (
 C5     1        e  3  d  =

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto III
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 3
+@@@OMV: 5
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n03-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n03-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -23,7 +31,7 @@ $  K:-2   Q:2   T:12/8  C:4  D:Allegro
 rest   1        e
 rest   1        e
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 C5     1        e     d
 B4     1        e n   u  [
 G4     1        e     u  =
@@ -49,7 +57,7 @@ F5     1        e     d  ]
 measure 3
 G5     3        q.    d
 *               D +     Tutti
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 G5     3        q.    d
 F5     6        h.    d
 measure 4
@@ -123,11 +131,11 @@ D4     3        q.    u
 C4     3        q.    u
 B3     6        h.n   u
 mheavy4 15      :|:
-P  C1:] 
-rest   1        e 
+P  C1:]
+rest   1        e
 rest   1        e
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 G5     1        e     d
 F#5    1        e #   d  [
 D5     1        e     d  =
@@ -153,7 +161,7 @@ C6     1        e     d  ]
 measure 17
 D6     3        q.    d
 *               D +     Tutti
-P  C25:f31  C17:Y-40 
+P  C25:f31  C17:Y-40
 D6     3        q.    d
 C6     6        h.    d
 measure 18
@@ -500,9 +508,9 @@ D4     6        h.    u
 mheavy4 15      :|:
 rest  12
 measure 16
-rest   1        e 
-rest   1        e 
-G5     1        e     d 
+rest   1        e
+rest   1        e
+G5     1        e     d
 F#5    1        e #   d  [
 D5     1        e     d  =
 F#5    1        e     d  ]
@@ -893,7 +901,7 @@ rest   2        q
 rest   1        e
 rest   6        h
 measure 24
-rest   6        h 
+rest   6        h
 C4     3        q.    d
 f1              n
 G3     3        q.    d
@@ -901,18 +909,18 @@ measure 25
 C3     3        q.    u
 rest   2        q
 rest   1        e
-rest   6        h 
+rest   6        h
 measure 26
-rest   6        h 
+rest   6        h
 Bf3    3        q.    d
 F3     3        q.    d
 measure 27
 Bf2    3        q.    u
 rest   2        q
 rest   1        e
-rest   6        h 
+rest   6        h
 measure 28
-rest   6        h 
+rest   6        h
 Af3    3        q.f   d
 Ef3    3        q.    d
 measure 29
@@ -987,9 +995,9 @@ G3     3        q.    d
 f2              5 n
 G2     3        q.    u
 C3     3        q.    u
-rest   1        e 
-rest   1        e 
-f1              6f 
+rest   1        e
+rest   1        e
+f1              6f
 C4     1        e     d
 measure 38
 f1              7
@@ -1013,9 +1021,9 @@ f1              n
 G2     3        q.    u
 measure 40
 C3     3        q.    u
-rest   1        e 
-rest   1        e 
-f1              6f 
+rest   1        e
+rest   1        e
+f1              6f
 C4     1        e     d         p
 P    C33:Y57
 f1              7
@@ -1057,11 +1065,11 @@ Violino 1
 2 15
 Group memberships: score
 score: part 4 of 7
-& 
+&
 Q: parameter adjusted on this and following parts to allow simultaneous setting
-with parts 1-3 in 12/8 meter.  
-& 
-$  K:-2   Q:4   T:1/1  C:4  D:Allegro 
+with parts 1-3 in 12/8 meter.
+&
+$  K:-2   Q:4   T:1/1  C:4  D:Allegro
 rest  24
 measure 2
 rest  24

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata V
 @@@OTL: Corrente
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 5
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n05-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n05-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -54,8 +62,8 @@ D5     4        h     d
 measure 10
 C5     6        h.    d
 mheavy4 11      :|:
-P  C1:] 
-E5     3        q.    d 
+P  C1:]
+E5     3        q.    d
 F5     1        e     d
 G5     2        q     d
 measure 12
@@ -347,8 +355,8 @@ measure 9
 F3     2        q     d
 f2              5 4
 G3     2        q     d
-f1     1        b 
-f2              b 3 
+f1     1        b
+f2              b 3
 G2     2        q     u
 measure 10
 C3     6        h.    u

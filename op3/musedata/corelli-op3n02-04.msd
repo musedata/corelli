@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata II
 @@@OTL: Allegro
+@@@OPS: 3
+@@@ONM: 2
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n02-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n02-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -122,8 +130,8 @@ B5    12        h.    d
 measure 19
 C#6   12        h.    d
 mheavy4 20      :|:
-P  C1:] 
-E5     2        e     d  [ 
+P  C1:]
+E5     2        e     d  [
 C#5    2        e     d  =
 E5     2        e     d  ]
 D5     1        s     d  [[    (

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto II
 @@@OTL: Grave
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 2
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n02-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n02-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -29,7 +37,7 @@ Bf4    1        e     d
 measure 2
 A4     4        h     u
 rest   4        h               F
-P    C33:x2 
+P    C33:x2
 measure 3
 A4     2        q     u
 A4     2        q     u

@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata IV
-@@@OTL: Preludio 
+@@@OTL: Preludio
+@@@OPS: 2
+@@@ONM: 4
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n04-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n04-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:567ab5b7bf318bd2c3749719d81f841a]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Preludio 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata IV
+Preludio
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:3/4  C:4  D:Adagio 
+$  K:1   Q:2   T:3/4  C:4  D:Adagio
 E4     2        q     u
 measure 1
 B4     3        q.    d
@@ -102,8 +110,8 @@ B4     1        e     u
 measure 20
 B4     4        h     u
 mheavy4                 :|:
-P C1:] 
-B4     2        q     d 
+P C1:]
+B4     2        q     d
 measure 21
 G4     2        q     u        (
 E4     2        q     u        )
@@ -189,9 +197,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:59cc423062b6cfc7144d0a4baf195c53]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Preludio 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata IV
+Preludio
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -199,7 +207,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:3/4  C:4  D:Adagio 
+$  K:1   Q:2   T:3/4  C:4  D:Adagio
 G4     2        q     u
 measure 1
 F#4    4        h     u
@@ -343,16 +351,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:36a3591cea1eefba9d505fe5525f2e3d]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Preludio 
-Violone 
+Chamber Sonatas, Op. 2: Sonata IV
+Preludio
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:3/4  C:22  D:Adagio 
+$  K:1   Q:2   T:3/4  C:22  D:Adagio
 E3     2        q     d
 measure 1
 D#3    4        h #   d
@@ -502,16 +510,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:7f3ceaf2d5a8405bde00029e823f6d71]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Preludio 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata IV
+Preludio
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:3/4  C:22  D:Adagio 
+$  K:1   Q:2   T:3/4  C:22  D:Adagio
 E3     2        q     d
 measure 1
 f1              6
@@ -773,8 +781,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:9ba9d532dd271dfc1f37c97e1275280b]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Preludio 
+Chamber Sonatas, Op. 2: Sonata IV
+Preludio
 Violone e Cembalo
 
 Group memberships: score
@@ -782,7 +790,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:3/4  C:22  D:Adagio 
+$  K:1   Q:2   T:3/4  C:22  D:Adagio
 E3     2        q     d
 measure 1
 f1              6

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata IV
 @@@OTL: Giga
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 4
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n04-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n04-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -185,8 +193,8 @@ E5     1        e     d
 C#5    3-       q.    d        -
 C#5    2        q     d
 mheavy4         :|:
-P  C1:] 
-A4     1        e     u 
+P  C1:]
+A4     1        e     u
 measure 15
 C#5    1        e     d  [     (
 B4     1        e     d  =     )
@@ -392,13 +400,13 @@ TIMESTAMP: NOV/27/2005 [md5sum:c6c469faa06306620eb12540640301a0]
 01/09/95 W Hewlett
 WK#:4,4       MV#:4
 Augener/Chrysander 1888-1891
-Chamber Sonatas, Op. 4: Sonata IV 
-Giga 
-Violino 2 
+Chamber Sonatas, Op. 4: Sonata IV
+Giga
+Violino 2
 1 9
-Group memberships: data 
-data: part 2 of 3 
-$  K:2   Q:12   T:1/1  C:4  D:Allegro 
+Group memberships: data
+data: part 2 of 3
+$  K:2   Q:12   T:1/1  C:4  D:Allegro
 F#4    6        e     u
 measure 1
 F#4   12        q     u
@@ -408,51 +416,51 @@ F#5   12        q     d
 rest   6        e
 F#5    6        e     d
 measure 2
-E5     4        e  3  d  [     ( 
-D5     4        e  3  d  =     ) 
+E5     4        e  3  d  [     (
+D5     4        e  3  d  =     )
 E5     4        e  3  d  ]
-C#5    4        e  3  d  [     ( 
-D5     4        e  3  d  =     ) 
+C#5    4        e  3  d  [     (
+D5     4        e  3  d  =     )
 E5     4        e  3  d  ]
 A4    12        q     u
 rest   6        e
 F#5    6        e     d
 measure 3
-A5     4        e  3  d  [     ( 
-G5     4        e  3  d  =     ) 
+A5     4        e  3  d  [     (
+G5     4        e  3  d  =     )
 A5     4        e  3  d  ]
-C#5    4        e  3  d  [     ( 
-D5     4        e  3  d  =     ) 
+C#5    4        e  3  d  [     (
+D5     4        e  3  d  =     )
 E5     4        e  3  d  ]
 D5    12        q     d
 rest   6        e
 B4     6        e     d
 measure 4
-C#5    4        e  3  d  [     ( 
-D5     4        e  3  d  =     ) 
+C#5    4        e  3  d  [     (
+D5     4        e  3  d  =     )
 E5     4        e  3  d  ]
-C#5    4        e  3  d  [     ( 
-D5     4        e  3  d  =     ) 
+C#5    4        e  3  d  [     (
+D5     4        e  3  d  =     )
 E5     4        e  3  d  ]
 A4    12        q     u
 rest   6        e
 D5     6        e     d
 measure 5
-D5     4        e  3  d  [     ( 
-B4     4        e  3  d  =     ) 
-D5     4        e  3  d  ] 
-B4     4        e  3  d  [     ( 
-D5     4        e  3  d  =     ) 
+D5     4        e  3  d  [     (
+B4     4        e  3  d  =     )
+D5     4        e  3  d  ]
+B4     4        e  3  d  [     (
+D5     4        e  3  d  =     )
 B4     4        e  3  d  ]
 G#4   12        q #   u
 rest   6        e
 E5     6        e     d
 measure 6
-E5     4        e  3  d  [     ( 
-C#5    4        e  3  d  =     ) 
-E5     4        e  3  d  ] 
-C#5    4        e  3  d  [     ( 
-E5     4        e  3  d  =     ) 
+E5     4        e  3  d  [     (
+C#5    4        e  3  d  =     )
+E5     4        e  3  d  ]
+C#5    4        e  3  d  [     (
+E5     4        e  3  d  =     )
 C#5    4        e  3  d  ]
 A4    12        q     u
 rest   6        e
@@ -494,7 +502,7 @@ measure 12
 A4    12        q     u
 G#4   12        q #   u
 A4    12        q     u
-rest   6        e 
+rest   6        e
 E5     6        e     d
 measure 13
 D5    12        q     d
@@ -505,27 +513,27 @@ measure 14
 A4    12        q     u
 G#4   12        q #   u
 A4    18        q.    u
-mheavy4         :|: 
-E5     6        e     d 
+mheavy4         :|:
+E5     6        e     d
 measure 15
 E5    12        q     d
 rest   6        e
 C#5    6        e     d
-B4     4        e  3  d  [     ( 
-C#5    4        e  3  d  =     ) 
-D5     4        e  3  d  ] 
-G#4    4        e #3  u  [     ( 
-A4     4        e  3  u  =     ) 
+B4     4        e  3  d  [     (
+C#5    4        e  3  d  =     )
+D5     4        e  3  d  ]
+G#4    4        e #3  u  [     (
+A4     4        e  3  u  =     )
 B4     4        e  3  u  ]
 measure 16
 E4    12        q     u
 rest   6        e
 E5     6        e     d
-C#5    4        e  3  d  [     ( 
-D5     4        e  3  d  =     ) 
-E5     4        e  3  d  ] 
-A#4    4        e #3  d  [     ( 
-B4     4        e  3  d  =     ) 
+C#5    4        e  3  d  [     (
+D5     4        e  3  d  =     )
+E5     4        e  3  d  ]
+A#4    4        e #3  d  [     (
+B4     4        e  3  d  =     )
 C#5    4        e  3  d  ]
 measure 17
 F#4   12        q     u
@@ -539,31 +547,31 @@ C#5   12        q     d
 B4    24        h     d
 A#4   12        q #   u
 measure 19
-B4     4        e  3  d  [     ( 
-C#5    4        e  3  d  =     ) 
-D#5    4        e #3  d  ] 
-B4     4        e  3  d  [     ( 
-C#5    4        e  3  d  =     ) 
+B4     4        e  3  d  [     (
+C#5    4        e  3  d  =     )
+D#5    4        e #3  d  ]
+B4     4        e  3  d  [     (
+C#5    4        e  3  d  =     )
 D#5    4        e  3  d  ]
 E5    12        q     d
 rest   6        e
 E5     6        e     d
 measure 20
-E5     4        e  3  d  [     ( 
-C#5    4        e  3  d  =     ) 
-E5     4        e  3  d  ] 
-C#5    4        e  3  d  [     ( 
-E5     4        e  3  d  =     ) 
+E5     4        e  3  d  [     (
+C#5    4        e  3  d  =     )
+E5     4        e  3  d  ]
+C#5    4        e  3  d  [     (
+E5     4        e  3  d  =     )
 C#5    4        e  3  d  ]
 A4    12        q     u
 rest   6        e
 A5     6        e     d
 measure 21
-A5     4        e  3  d  [     ( 
-F#5    4        e  3  d  =     ) 
-A5     4        e  3  d  ] 
-F#5    4        e  3  d  [     ( 
-A5     4        e  3  d  =     ) 
+A5     4        e  3  d  [     (
+F#5    4        e  3  d  =     )
+A5     4        e  3  d  ]
+F#5    4        e  3  d  [     (
+A5     4        e  3  d  =     )
 F#5    4        e  3  d  ]
 D5    12        q     d
 B4    12-       q     d        -
@@ -619,7 +627,7 @@ measure 31
 D4    12        q     u
 C#4   12        q     u
 D4    18        q.    u
-mheavy2         :| 
+mheavy2         :|
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -961,17 +969,17 @@ TIMESTAMP: NOV/27/2005 [md5sum:c6c469faa06306620eb12540640301a0]
 01/09/95 W Hewlett
 WK#:4,4       MV#:4
 Augener/Chrysander 1888-1891
-Chamber Sonatas, Op. 4: Sonata IV 
-Giga 
-Violino 2 
+Chamber Sonatas, Op. 4: Sonata IV
+Giga
+Violino 2
 1 9
-Group memberships: score 
-score: part 2 of 3 
+Group memberships: score
+score: part 2 of 3
 &
 For printing purposes only; durations adjusted to conform to the 12/8 of trs. 1 and 3.
-Q:12  was the original parameter.  
-& 
-$  K:2   Q:8   T:1/1  C:4  D:Allegro 
+Q:12  was the original parameter.
+&
+$  K:2   Q:8   T:1/1  C:4  D:Allegro
 F#4    4        e     u
 measure 1
 F#4   12        q     u
@@ -981,53 +989,53 @@ F#5   12        q     d
 rest   6        e
 F#5    6        e     d
 measure 2
-P  C0:t4 
-E5     4        e  3  d  [     (* 
-D5     4        e  3  d  =     ) 
-E5     4        e  3  d  ]      !  
-C#5    4        e  3  d  [     (* 
-D5     4        e  3  d  =     ) 
-E5     4        e  3  d  ]      !  
+P  C0:t4
+E5     4        e  3  d  [     (*
+D5     4        e  3  d  =     )
+E5     4        e  3  d  ]      !
+C#5    4        e  3  d  [     (*
+D5     4        e  3  d  =     )
+E5     4        e  3  d  ]      !
 A4    12        q     u
 rest   6        e
 F#5    6        e     d
 measure 3
-A5     4        e  3  d  [     (* 
-G5     4        e  3  d  =     ) 
-A5     4        e  3  d  ]      !  
-C#5    4        e  3  d  [     (* 
-D5     4        e  3  d  =     ) 
-E5     4        e  3  d  ]      !  
+A5     4        e  3  d  [     (*
+G5     4        e  3  d  =     )
+A5     4        e  3  d  ]      !
+C#5    4        e  3  d  [     (*
+D5     4        e  3  d  =     )
+E5     4        e  3  d  ]      !
 D5    12        q     d
 rest   6        e
 B4     6        e     d
 measure 4
-C#5    4        e  3  d  [     (* 
-D5     4        e  3  d  =     ) 
-E5     4        e  3  d  ]      !  
-C#5    4        e  3  d  [     (* 
-D5     4        e  3  d  =     ) 
-E5     4        e  3  d  ]      !  
+C#5    4        e  3  d  [     (*
+D5     4        e  3  d  =     )
+E5     4        e  3  d  ]      !
+C#5    4        e  3  d  [     (*
+D5     4        e  3  d  =     )
+E5     4        e  3  d  ]      !
 A4    12        q     u
 rest   6        e
 D5     6        e     d
 measure 5
-D5     4        e  3  d  [     (* 
-B4     4        e  3  d  =     ) 
-D5     4        e  3  d  ]      !  
-B4     4        e  3  d  [     (* 
-D5     4        e  3  d  =     ) 
-B4     4        e  3  d  ]      !  
+D5     4        e  3  d  [     (*
+B4     4        e  3  d  =     )
+D5     4        e  3  d  ]      !
+B4     4        e  3  d  [     (*
+D5     4        e  3  d  =     )
+B4     4        e  3  d  ]      !
 G#4   12        q #   u
 rest   6        e
 E5     6        e     d
 measure 6
-E5     4        e  3  d  [     (* 
-C#5    4        e  3  d  =     ) 
-E5     4        e  3  d  ]      !  
-C#5    4        e  3  d  [     (* 
-E5     4        e  3  d  =     ) 
-C#5    4        e  3  d  ]      !  
+E5     4        e  3  d  [     (*
+C#5    4        e  3  d  =     )
+E5     4        e  3  d  ]      !
+C#5    4        e  3  d  [     (*
+E5     4        e  3  d  =     )
+C#5    4        e  3  d  ]      !
 A4    12        q     u
 rest   6        e
 A5     6        e     d
@@ -1039,9 +1047,9 @@ F#5   12        q     d
 rest   6        e
 A5     6        e     d
 measure 8
-G5     4        e  3  d  [      * 
+G5     4        e  3  d  [      *
 A5     4        e  3  d  =
-F#5    4        e  3  d  ]      !  
+F#5    4        e  3  d  ]      !
 E5     9        e.    d  [
 A5     3        s     d  ]\
 F#5   12        q     d
@@ -1079,28 +1087,28 @@ measure 14
 A4    12        q     u
 G#4   12        q #   u
 A4    20        q.    u
-mheavy4         :|: 
-E5     4        e     d 
+mheavy4         :|:
+E5     4        e     d
 measure 15
 E5    12        q     d
 rest   6        e
 C#5    6        e     d
-B4     4        e  3  d  [     (* 
-C#5    4        e  3  d  =     ) 
-D5     4        e  3  d  ]      !  
-G#4    4        e #3  u  [     (* 
-A4     4        e  3  u  =     ) 
-B4     4        e  3  u  ]      !  
+B4     4        e  3  d  [     (*
+C#5    4        e  3  d  =     )
+D5     4        e  3  d  ]      !
+G#4    4        e #3  u  [     (*
+A4     4        e  3  u  =     )
+B4     4        e  3  u  ]      !
 measure 16
 E4    12        q     u
 rest   6        e
 E5     6        e     d
-C#5    4        e  3  d  [     (* 
-D5     4        e  3  d  =     ) 
-E5     4        e  3  d  ]      !  
-A#4    4        e #3  d  [     (* 
-B4     4        e  3  d  =     ) 
-C#5    4        e  3  d  ]      !  
+C#5    4        e  3  d  [     (*
+D5     4        e  3  d  =     )
+E5     4        e  3  d  ]      !
+A#4    4        e #3  d  [     (*
+B4     4        e  3  d  =     )
+C#5    4        e  3  d  ]      !
 measure 17
 F#4   12        q     u
 rest   6        e
@@ -1113,32 +1121,32 @@ C#5   12        q     d
 B4    24        h     d
 A#4   12        q #   u
 measure 19
-B4     4        e  3  d  [     (* 
-C#5    4        e  3  d  =     ) 
-D#5    4        e #3  d  ]      !  
-B4     4        e  3  d  [     (* 
-C#5    4        e  3  d  =     ) 
-D#5    4        e  3  d  ]      !  
+B4     4        e  3  d  [     (*
+C#5    4        e  3  d  =     )
+D#5    4        e #3  d  ]      !
+B4     4        e  3  d  [     (*
+C#5    4        e  3  d  =     )
+D#5    4        e  3  d  ]      !
 E5    12        q     d
 rest   6        e
 E5     6        e     d
 measure 20
-E5     4        e  3  d  [     (* 
-C#5    4        e  3  d  =     ) 
-E5     4        e  3  d  ]      !  
-C#5    4        e  3  d  [     (* 
-E5     4        e  3  d  =     ) 
-C#5    4        e  3  d  ]      !  
+E5     4        e  3  d  [     (*
+C#5    4        e  3  d  =     )
+E5     4        e  3  d  ]      !
+C#5    4        e  3  d  [     (*
+E5     4        e  3  d  =     )
+C#5    4        e  3  d  ]      !
 A4    12        q     u
 rest   6        e
 A5     6        e     d
 measure 21
-A5     4        e  3  d  [     (* 
-F#5    4        e  3  d  =     ) 
-A5     4        e  3  d  ]      !  
-F#5    4        e  3  d  [     (* 
-A5     4        e  3  d  =     ) 
-F#5    4        e  3  d  ]      !  
+A5     4        e  3  d  [     (*
+F#5    4        e  3  d  =     )
+A5     4        e  3  d  ]      !
+F#5    4        e  3  d  [     (*
+A5     4        e  3  d  =     )
+F#5    4        e  3  d  ]      !
 D5    12        q     d
 B4    12-       q     d        -
 measure 22
@@ -1193,7 +1201,7 @@ measure 31
 D4    12        q     u
 C#4   12        q     u
 D4    20        q.    u
-mheavy2         :| 
+mheavy2         :|
 /END
 /eof
 //

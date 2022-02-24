@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata XI
 @@@OTL: Corrente
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 11
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n11-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n11-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -193,8 +201,8 @@ measure 37
 G4     4        h     u
 rest   1        e
 mheavy4         :|:
-P  C1:] 
-D5     1        e     d 
+P  C1:]
+D5     1        e     d
 measure 38
 D5     3        q.    d
 G5     1        e     d  [
@@ -358,7 +366,7 @@ Ef5    2        q     d
 D5     4        h     d
 measure 73
 C5     4        h     d
-rest   1        e 
+rest   1        e
 mheavy2         :|
 /END
 /eof
@@ -658,7 +666,7 @@ C5     2        q     d
 B4     4        h n   d
 measure 73
 C5     4        h     d
-rest   1        e 
+rest   1        e
 mheavy2         :|
 /END
 /eof
@@ -1108,7 +1116,7 @@ f2              5 n
 G2     4        h     u
 measure 73
 C3     4        h     u
-rest   1        e 
+rest   1        e
 mheavy2         :|
 /END
 /eof

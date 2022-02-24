@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata X
 @@@OTL: Giga
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 10
+@@@OMV: 5
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no10
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n10-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n10-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -197,8 +205,8 @@ measure 33
 F4     3-       q.    u        -
 F4     2        q     u
 mheavy4         :|:
-P  C1:] 
-C5     1        e     d 
+P  C1:]
+C5     1        e     d
 measure 34
 F5     2        q     d
 C5     1        e     d

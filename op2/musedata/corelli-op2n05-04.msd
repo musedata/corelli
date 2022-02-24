@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata V
-@@@OTL: Tempo di Gavotta 
+@@@OTL: Tempo di Gavotta
+@@@OPS: 2
+@@@ONM: 5
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n05-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n05-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:c672fd6e330f2bbad534a99309c686bb]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Tempo di Gavotta 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata V
+Tempo di Gavotta
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:12   T:1/1  C:4  D:Allegro 
+$  K:-1   Q:12   T:1/1  C:4  D:Allegro
 D5    12        q     d
 C5    12        q     d
 D5    12        q     d
@@ -225,9 +233,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:13ddd3754a522e67f8747487ad12c4f7]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Tempo di Gavotta 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata V
+Tempo di Gavotta
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -235,7 +243,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:12   T:1/1  C:4  D:Allegro 
+$  K:-1   Q:12   T:1/1  C:4  D:Allegro
 F5    12        q     d
 F5    12        q     d
 F5    12        q     d
@@ -410,16 +418,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:7a70c2a01d81309c3ee15ba66230aedb]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Tempo di Gavotta 
-Violone 
+Chamber Sonatas, Op. 2: Sonata V
+Tempo di Gavotta
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:1/1  C:22  D:Allegro 
+$  K:-1   Q:4   T:1/1  C:22  D:Allegro
 Bf3    4        q     d
 A3     4        q     d
 Bf3    4        q     d
@@ -573,16 +581,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:8223948d45eb2b5ab858e1aa7ec5d3cb]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Tempo di Gavotta 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata V
+Tempo di Gavotta
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:1/1  C:22  D:Allegro 
+$  K:-1   Q:4   T:1/1  C:22  D:Allegro
 Bf3    4        q     d
 f1              6
 A3     4        q     d
@@ -830,8 +838,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:cdd49180c31f8ed635483419c3bf07ef]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Tempo di Gavotta 
+Chamber Sonatas, Op. 2: Sonata V
+Tempo di Gavotta
 Violone e Cembalo
 
 Group memberships: score
@@ -839,7 +847,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:1/1  C:22  D:Allegro 
+$  K:-1   Q:4   T:1/1  C:22  D:Allegro
 Bf3    4        q     d
 f1              6
 A3     4        q     d

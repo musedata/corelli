@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata V
-@@@OTL: Sarabanda 
+@@@OTL: Sarabanda
+@@@OPS: 2
+@@@ONM: 5
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n05-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n05-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:fd7410a2bcf04733241e1a0a5b08d729]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Sarabanda 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata V
+Sarabanda
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:4  D:Adagio 
+$  K:-1   Q:2   T:3/4  C:4  D:Adagio
 D5     2        q     d        (
 F5     2        q     d        )
 F4     2        q     u
@@ -52,8 +60,8 @@ measure 8
 G4     4        h     u
 F4     2        q     u
 mheavy4 9                  :|:
-P C1:] 
-C5     2        q     d 
+P C1:]
+C5     2        q     d
 F5     3        q.    d
 Ef5    1        e f   d
 measure 10
@@ -96,9 +104,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:b5e38b4595f3b70b1e19716f5a72fe42]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Sarabanda 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata V
+Sarabanda
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -106,7 +114,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:4  D:Adagio 
+$  K:-1   Q:2   T:3/4  C:4  D:Adagio
 Bf4    4        h     d
 C5     2        q     d
 measure 2
@@ -178,16 +186,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:d4622e1a23003ecfeb197db6522f80fa]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Sarabanda 
-Violone 
+Chamber Sonatas, Op. 2: Sonata V
+Sarabanda
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:22  D:Adagio 
+$  K:-1   Q:2   T:3/4  C:22  D:Adagio
 Bf3    4        h     d
 A3     2        q     d
 measure 2
@@ -255,16 +263,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:f3e892af64e681202866e5ebd05dd70f]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Sarabanda 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata V
+Sarabanda
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:22  D:Adagio 
+$  K:-1   Q:2   T:3/4  C:22  D:Adagio
 Bf3    4        h     d
 f1              6
 A3     2        q     d
@@ -382,8 +390,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:d69a411be5b34bdaff79b8252de71c53]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Sarabanda 
+Chamber Sonatas, Op. 2: Sonata V
+Sarabanda
 Violone e Cembalo
 
 Group memberships: score
@@ -391,7 +399,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:22  D:Adagio 
+$  K:-1   Q:2   T:3/4  C:22  D:Adagio
 Bf3    4        h     d
 f1              6
 A3     2        q     d

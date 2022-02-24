@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto IV
 @@@OTL: Adagio
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 4
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n04-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n04-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -38,7 +46,7 @@ E4     4        q     u
 F#4    4        q     u
 measure 4
 E4    16        w     u         t
-P   C33:x2y3 
+P   C33:x2y3
 mdouble 5
 $  T:1/1  D:Allegro
 F#5    1        s     d  [[
@@ -301,7 +309,7 @@ B4     4        q     d
 rest   2        e
 E5     2        e     d
 C#5    8        h     d
-mheavy4 26      :|: 
+mheavy4 26      :|:
 C#5    1        s     d  [[
 E5     1        s     d  ==
 D5     1        s     d  ==
@@ -593,7 +601,7 @@ D5     1        s     d  ==
 C#5    1        s     d  ==
 D5     1        s     d  ]]
 D4     8        h     u
-mheavy2         :| 
+mheavy2         :|
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -1159,8 +1167,8 @@ measure 4
 A2     8        w     u
 mdouble 5
 $  T:1/1  D:Allegro
-rest   8 
-measure 6 
+rest   8
+measure 6
 rest   8
 measure 7
 rest   8
@@ -2536,7 +2544,7 @@ rest   2        q
 measure 2
 f1              6
 F#2    2        q     u         p
-P   C33:Y66 
+P   C33:Y66
 rest   2        q
 G2     2        q     u
 rest   2        q

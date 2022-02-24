@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata V
 @@@OTL: Vivace
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 5
+@@@OMV: 2
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n05-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n05-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -691,7 +699,7 @@ Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in G minor
 
 Violino solo (2nd voice)
-2 55 
+2 55
 Group memberships: data
 data: part 2 of 3
 $  K:-1   Q:4   T:3/8  C:4  D:Vivace
@@ -732,13 +740,13 @@ G5     2        e     d  [
 D5     2        e     d  =
 G5     2        e     d  ]
 measure 14
-A4     2        e     d 
+A4     2        e     d
 F5     4        q     d
 measure 15
-G4     2        e     d 
+G4     2        e     d
 Ef5    4        q f   d
 measure 16
-F#4    4        q #   d 
+F#4    4        q #   d
 irest  2
 measure 17
 rest   2        e
@@ -746,10 +754,10 @@ D4     4        q     u
 measure 18
 rest   6
 measure 19
-F4     6        q.    d 
+F4     6        q.    d
 measure 20
-Ef4    2        e f   d 
-Ef4    4        q     d 
+Ef4    2        e f   d
+Ef4    4        q     d
 measure 21
 rest   6
 measure 22
@@ -872,9 +880,9 @@ measure 80
 rest   6
 measure 81
 rest   2        e
-F4     4        q     d 
+F4     4        q     d
 measure 82
-D4     2        e     d 
+D4     2        e     d
 D5     4        q     d
 measure 83
 C5     2        e     d
@@ -883,10 +891,10 @@ measure 84
 Bf4    2        e     d
 Bf4    4        q     d
 measure 85
-A4     2        e     d 
-A4     4        q     d 
+A4     2        e     d
+A4     4        q     d
 measure 86
-G4     4        q     d 
+G4     4        q     d
 rest   2        e
 measure 87
 rest   6
@@ -904,27 +912,27 @@ E5     2        e     d  [
 D4     2        e     d  =
 F4     2        e     d  ]
 measure 92
-E4     2        e     d 
-A4     4        q     d 
+E4     2        e     d
+A4     4        q     d
 measure 93
 A4     2        e     d  [
 G3     2        e     d  =
 Bf3    2        e     d  ]
 measure 94
 rest   2        e
-D4     4        q     d 
+D4     4        q     d
 measure 95
 D4     2        e     d  [
 G3     2        e     d  =
 C4     2        e     d  ]
 measure 96
-C4     4        q     d 
+C4     4        q     d
 Bf4    2        e     d
 measure 97
 Bf4    2        e     d
 A4     4-       q     d        -
 measure 98
-A4     2        e     d 
+A4     2        e     d
 G4     4-       q     d        -
 measure 99
 G4     2        e     d  [
@@ -933,22 +941,22 @@ D4     2        e     d  ]
 measure 100
 rest   6
 measure 101
-D4     4        q     d 
+D4     4        q     d
 rest   2        e
-measure 102 
-$  Q:2   T:1/1  D:Adagio 
+measure 102
+$  Q:2   T:1/1  D:Adagio
 rest   2        q
-G4     2        q     d 
-*               D       Arpeggio 
-P  C25:f33 
-G4     4        h     d 
- D4    4        h     d 
+G4     2        q     d
+*               D       Arpeggio
+P  C25:f33
+G4     4        h     d
+ D4    4        h     d
 measure 103
-D4     4        h     d 
-C4     4        h     d 
+D4     4        h     d
+C4     4        h     d
 measure 104
-irest  4 
-G3     4        h     d 
+irest  4
+G3     4        h     d
 mheavy2
 /END
 /eof

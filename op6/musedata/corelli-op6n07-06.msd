@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VII
 @@@OTL: Vivace
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 7
+@@@OMV: 6
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n07-06.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n07-06.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -764,7 +772,7 @@ rest   2        e
 measure 33
 f1              6
 B3     4        q     d         f
-P   C33:y-10 
+P   C33:y-10
 f1              6
 A#3    2        e #   d
 measure 34
@@ -1127,9 +1135,9 @@ rest   6
 measure 57
 rest   6
 measure 58
-rest   2        e 
-rest   2        e 
-B4     2        e     d 
+rest   2        e
+rest   2        e
+B4     2        e     d
 measure 59
 B4     2        e     u  [     (
 A4     2        e     u  =     )
@@ -1711,7 +1719,7 @@ rest   2        e
 measure 33
 f1              6
 B3     4        q     d         f
-P    C33:y-10 
+P    C33:y-10
 f1              6
 A#3    2        e #   d
 measure 34

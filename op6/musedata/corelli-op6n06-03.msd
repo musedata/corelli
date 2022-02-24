@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VI
 @@@OTL: Largo
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 6
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n06-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n06-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -457,9 +465,9 @@ D5     2        e     u  ]
 measure 26
 Bf4    2        e     u  [
 D4     2        e     u  ]
-*      2        G       f 
-P    C17:Y60 
-G4     8        h     u 
+*      2        G       f
+P    C17:Y60
+G4     8        h     u
 F4     2        e     u  [     (
 E4     2        e     u  ]     )
 measure 27
@@ -739,12 +747,12 @@ f1              #
 D4     2        e     d  =
 G3     2        e     d  ]
 measure 20
-f1              # 
+f1              #
 D4     2        e     u  [
 G3     2        e     u  =
 f1              4
 D3     2        e     u  =
-f1              # 
+f1              #
 D2     2        e     u  ]
 G2     2        e     u  [
 G3     2        e     u  =

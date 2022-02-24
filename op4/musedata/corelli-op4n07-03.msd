@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata VII
 @@@OTL: Sarabanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 7
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n07-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n07-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -41,8 +49,8 @@ D5     8        h     d
 measure 8
 C5    12        h.    d
 mheavy4 9       :|:
-P  C1:] 
-F5    12        h.    d 
+P  C1:]
+F5    12        h.    d
 measure 10
 F5    12        h.    d
 measure 11
@@ -62,8 +70,8 @@ E5     8        h     d
 measure 16
 D5    12        h.    d
 measure 17
-P  C1:] 
-A5    12        h.    d 
+P  C1:]
+A5    12        h.    d
 measure 18
 F5    12        h.    d
 measure 19

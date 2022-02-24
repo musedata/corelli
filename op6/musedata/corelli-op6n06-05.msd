@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VI
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 6
+@@@OMV: 5
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n06-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n06-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -21,7 +29,7 @@ Group memberships: score
 score: part 1 of 7
 $  K:-1   Q:4   T:2/4  C:4  D:Allegro
 *               D +     Soli
-P  C25:f31  C17:Y-30 
+P  C25:f31  C17:Y-30
 A5     4        q     d
 C6     4        q     d
 measure 2
@@ -35,7 +43,7 @@ measure 4
 A5     8        h     d
 measure 5
 *               D +     Tutti
-P  C25:f31 
+P  C25:f31
 A5     4        q     d
 rest   4        q
 measure 6
@@ -59,10 +67,10 @@ B4     4        q n   d
 measure 12
 C5     8        h     d
 mheavy4 13      :|:
-P   C1:] 
-rest   4        q 
+P   C1:]
+rest   4        q
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 G5     4        q     d
 measure 14
 rest   4        q
@@ -87,7 +95,7 @@ rest   4        q
 A5     4        q     d
 measure 21
 *               D +     Tutti
-P  C25:f31  C17:Y-30 
+P  C25:f31  C17:Y-30
 Bf5    4        q     d
 A5     4        q     d
 measure 22
@@ -253,7 +261,7 @@ measure 65
 A4     8        h     u
 measure 66
 *               D +     Soli
-P  C25:f31  C17:Y-30 
+P  C25:f31  C17:Y-30
 A5     4        q     d
 C6     4        q     d
 measure 67
@@ -267,8 +275,8 @@ measure 69
 A5     8        h     d
 measure 70
 *               D +     Tutti
-P  C25:f31 
-A5     4        q     d         &0f 
+P  C25:f31
+A5     4        q     d         &0f
 P    C33:Y61
 rest   4        q
 measure 71
@@ -639,7 +647,7 @@ E5     2        q     d
 measure 69
 F5     4        h     d
 measure 70
-C5     2        q     d         &0f 
+C5     2        q     d         &0f
 P   C33:Y70
 F5     2        q     d
 measure 71
@@ -910,7 +918,7 @@ f1              6
 F3     1        e     u  =
 F2     1        e     u  ]
 measure 24
-f1              6\ 
+f1              6\
 E3     2        q     d
 D3     2        q     d
 measure 25
@@ -1500,7 +1508,7 @@ rest   8
 measure 69
 rest   8
 measure 70
-A5     4        q     d         &0f 
+A5     4        q     d         &0f
 P    C33:Y61
 rest   4        q
 measure 71

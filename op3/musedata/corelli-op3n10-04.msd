@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata X
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 3
+@@@ONM: 10
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no10
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n10-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n10-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

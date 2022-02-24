@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata II
 @@@OTL: Vivace
+@@@OPS: 1
+@@@ONM: 2
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n02-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n02-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 2&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:623deb8a3dc46ea8cbe437eba2ee8ebe]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 2]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete.
 &
-$ K:1   Q:4   T:1/1   C:4    D:Vivace 
+$ K:1   Q:4   T:1/1   C:4    D:Vivace
 E4     2        e     u  [
 G4     2        e     u  =
 F#4    2        e     u  =
@@ -230,7 +238,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:818c0ecba3a9c48bd286ac840bb76a9c]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 2]
 Violino 2
 
@@ -240,7 +248,7 @@ score: part 2 of 4
 &
 Stage 2 complete.
 &
-$ K:1   Q:4   T:1/1   C:4   D:Vivace 
+$ K:1   Q:4   T:1/1   C:4   D:Vivace
 rest  16
 measure 2
 rest   8        h
@@ -437,7 +445,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:f429663accb40fd782607f7ddf029d32]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 2]
 Violone
 
@@ -447,7 +455,7 @@ score: part 3 of 4
 &
 Stage 2 complete.
 &
-$ K:1   Q:2   T:1/1   C:22   D:Vivace 
+$ K:1   Q:2   T:1/1   C:22   D:Vivace
 rest   8
 measure 2
 rest   4        h
@@ -641,7 +649,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:5badeaaffce00acb7c4e5f6a44a89b87]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 2]
 Organo
 
@@ -651,7 +659,7 @@ score: part 4 of 4
 &
 Stage 2 complete.
 &
-$ K:1   Q:2   T:1/1   C:4   D:Vivace 
+$ K:1   Q:2   T:1/1   C:4   D:Vivace
 E4     1        6     u  [
 G4     1        6     u  =
 F#4    1        6     u  =

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VI
 @@@OTL: Vivace
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 6
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n06-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n06-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -21,7 +29,7 @@ Group memberships: score
 score: part 1 of 7
 $  K:-1   Q:4   T:3/8  C:4  D:Vivace
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F5     6        q.    d
 measure 2
 G5     6        q.    d
@@ -78,7 +86,7 @@ A5     2        e     d
 D5     4        q     d
 measure 17
 C5     4        q     d
-G5     2        e     d         &0p 
+G5     2        e     d         &0p
 P    C33:Y57
 measure 18
 A5     4        q     d
@@ -92,7 +100,7 @@ A5     2        e     d
 D5     4        q     d
 measure 21
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 C5     6        q.    d
 measure 22
 D5     4        q     d
@@ -169,7 +177,7 @@ measure 43
 F4     6        q.    u
 measure 44
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F5     1        s     d  [[
 C5     1        s     d  ==
 F5     1        s     d  ==
@@ -191,7 +199,7 @@ F5     2        e     d
 E5     4        q     d
 measure 48
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F5     1        s     d  [[
 C5     1        s     d  ==
 A4     1        s     d  ==
@@ -375,7 +383,7 @@ measure 80
 A4     6        q.    u
 measure 81
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 F5     6        q.    d
 measure 82
 G5     6        q.    d
@@ -432,7 +440,7 @@ A5     2        e     d
 D5     4        q     d
 measure 97
 *               D +     Tutti
-P  C25:f31 
+P  C25:f31
 C5     1        s     u  [[
 E4     1        s     u  ==
 G4     1        s     u  ==
@@ -605,7 +613,7 @@ E4     2        e     d  ]
 measure 126
 rest   2        e
 *               D +     Soli
-P  C25:f31  C17:Y-35 
+P  C25:f31  C17:Y-35
 A5     2        e     d  [
 D6     2        e     d  ]
 measure 127
@@ -623,7 +631,7 @@ A5     2        e     d  ]
 measure 130
 rest   2        e
 *               D +     Tutti
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 D5     2        e     d  [
 G5     2        e     d  ]
 measure 131
@@ -632,12 +640,12 @@ F4     2        e     d  =
 F5     2        e     d  ]
 measure 132
 Bf5    4        q     d
-A5     4        q     d 
+A5     4        q     d
 G5     4        q     d
 measure 134
 F5     2        e     d  [
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 A4     2        e     d  =
 D5     2        e     d  ]
 measure 135
@@ -655,7 +663,7 @@ A4     2        e     u  ]
 measure 138
 rest   2        e
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 D4     2        e     u  [
 G4     2        e     u  ]
 measure 139
@@ -664,7 +672,7 @@ C5     2        e     u  =
 F5     2        e     u  ]
 measure 140
 Bf4    4        q     d
-A4     4        q     u 
+A4     4        q     u
 G4     4        q     u
 measure 142
 F4     4        q     u
@@ -760,7 +768,7 @@ C5     2        e     d
 B4     4        q n   d
 measure 17
 C5     2        e     d
-G5     4-       q     d        -&0p 
+G5     4-       q     d        -&0p
 P    C33:Y57
 measure 18
 G5     2        e     d  [
@@ -1224,7 +1232,7 @@ C5     2        e     d  [
 F5     2        e     d  ]
 measure 132
 E5     4        q     d
-F5     4        q     d        
+F5     4        q     d
 E5     4        q     d
 measure 134
 F5     6        q.    d
@@ -1248,7 +1256,7 @@ A4     2        e     d  [
 C5     2        e     d  ]
 measure 140
 E4     4        q     u
-F4     4        q     u        
+F4     4        q     u
 E4     4        q     u
 measure 142
 F4     4        q     u
@@ -1494,7 +1502,7 @@ A2     2        e     u  ]
 measure 42
 f2              6 5
 Bf2    2        e     u  [
-f1              3 
+f1              3
 C3     2        e     u  =
 C2     2        e     u  ]
 measure 43
@@ -1642,7 +1650,7 @@ measure 75
 A2     2        e     d  [
 f1              6
 A3     2        e     d  =      p
-P    C33:Y70 
+P    C33:Y70
 f2              6 n
 G3     2        e     d  ]
 measure 76
@@ -1956,7 +1964,7 @@ A2     2        e     u  ]
 measure 140
 f1              6
 G2     4        q     u
-F2     4        q     u        
+F2     4        q     u
 f1              3
 C3     4        q     u
 measure 142
@@ -2207,7 +2215,7 @@ D5     2        e     d  =
 G5     2        e     d  ]
 measure 62
 G5     4        q     d
-F5     4        q     d 
+F5     4        q     d
 E5     4        q     d
 measure 64
 D5     4        q     d
@@ -2493,7 +2501,7 @@ F4     2        e     d  =
 F5     2        e     d  ]
 measure 132
 Bf5    4        q     d
-A5     4        q     d        
+A5     4        q     d
 G5     4        q     d
 measure 134
 F5     4        q     d
@@ -2514,7 +2522,7 @@ C5     2        e     u  =
 F5     2        e     u  ]
 measure 140
 Bf4    4        q     d
-A4     4        q     u        
+A4     4        q     u
 G4     4        q     u
 measure 142
 F4     4        q     u
@@ -2989,7 +2997,7 @@ C5     2        e     d  [
 F5     2        e     d  ]
 measure 132
 E5     4        q     d
-F5     4        q     d        
+F5     4        q     d
 E5     4        q     d
 measure 134
 F5     4        q     d
@@ -3008,7 +3016,7 @@ A4     2        e     d  [
 C5     2        e     d  ]
 measure 140
 E4     4        q     u
-F4     4        q     u        
+F4     4        q     u
 E4     4        q     u
 measure 142
 F4     4        q     u
@@ -3207,7 +3215,7 @@ E4     2        e     d
 measure 62
 E4     4        q     d
 Bf4    4        q     d
-E4     2        e     d  [ 
+E4     2        e     d  [
 A4     2        e     d  ]
 measure 64
 A4     4        q     d
@@ -3440,7 +3448,7 @@ F4     2        e     d  [
 F4     2        e     d  ]
 measure 140
 G4     4        q     d
-C4     4        q     d        
+C4     4        q     d
 C4     4        q     d
 measure 142
 A3     4        q     u

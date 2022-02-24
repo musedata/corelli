@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata II
 @@@OTL: Vivace
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 2
+@@@OMV: 5
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n02-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n02-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -469,7 +477,7 @@ Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in Bb
 
 Violino solo (2nd voice)
-5 55 
+5 55
 Group memberships: data
 data: part 3 of 4
 $  K:-1   Q:1   T:3/4  C:4  D:Vivace
@@ -484,26 +492,26 @@ measure 5
 rest   3
 measure 6
 rest   1        q
-F4     1        q     d 
-A4     1        q     d 
+F4     1        q     d
+A4     1        q     d
 measure 7
-G4     1        q     d 
-G4     1        q     d 
-C4     1        q     d 
+G4     1        q     d
+G4     1        q     d
+C4     1        q     d
 measure 8
-A3     1        q     d 
-F4     1        q     d 
-F4     1        q     d 
+A3     1        q     d
+F4     1        q     d
+F4     1        q     d
 measure 9
-C4     1        q     d 
+C4     1        q     d
 irest  2
 measure 10
 rest   3
 measure 11
 irest  2
-F4     1        q     d 
+F4     1        q     d
 measure 12
-G4     1        q     d 
+G4     1        q     d
 irest  2
 measure 13
 F4     1        q     u
@@ -512,20 +520,20 @@ measure 14
 rest   3
 measure 15
 irest  1        q
-D4     1        q     d 
-F4     1        q     d 
+D4     1        q     d
+F4     1        q     d
 measure 16
-C4     1        q     d 
+C4     1        q     d
 irest  2
 measure 17
-Bf3    1        q     d 
+Bf3    1        q     d
 irest  2
 measure 18
-F4     1        q     d 
+F4     1        q     d
 irest  2        q
 measure 19
 Bf4    1        q     d
-F4     2        h     d 
+F4     2        h     d
 measure 20
 D5     1        q     d
 D5     1        q     d
@@ -547,9 +555,9 @@ measure 27
 rest   3
 measure 28
 Bf4    1        q     d
-A4     2        h     d 
+A4     2        h     d
 measure 29
-F4     1        q     d 
+F4     1        q     d
 D5     2        h     d
 measure 30
 rest   3
@@ -571,10 +579,10 @@ measure 37
 Bf4    2        h     d
 Bf4    1        q     d
 measure 38
-A4     1        q     d 
-A4     2        h     d 
+A4     1        q     d
+A4     2        h     d
 measure 39
-G4     2        h     d 
+G4     2        h     d
 irest  1
 measure 40
 rest   3
@@ -600,15 +608,15 @@ measure 50
 rest   3
 measure 51
 irest  1
-F4     1        q     d 
+F4     1        q     d
 irest  1
 measure 52
 irest  1
-G4     1        q     d 
+G4     1        q     d
 irest  1
 measure 53
 irest  1
-A4     1        q     d 
+A4     1        q     d
 irest  1
 measure 54
 rest   3
@@ -624,9 +632,9 @@ measure 59
 rest   3
 measure 60
 Bf4    1        q     d
-A4     2        h     d 
+A4     2        h     d
 measure 61
-F4     1        q     d 
+F4     1        q     d
 D5     2        h     d
 measure 62
 C5     3        h.    d
@@ -640,21 +648,21 @@ measure 66
 F4     3        h.    u
 measure 67
 Bf4    1        q     d
-F4     2        h     d 
+F4     2        h     d
 measure 68
-D4     2        h     d 
+D4     2        h     d
 irest  1
 measure 69
 irest  2
-G4     1        q     d 
+G4     1        q     d
 measure 70
-F4     2        h     d 
+F4     2        h     d
 Bf4    1        q     d
 measure 71
 Bf4    1        q     d
-F4     2        h     d 
+F4     2        h     d
 measure 72
-Bf3    3        h.    d 
+Bf3    3        h.    d
 mheavy2
 /END
 /eof

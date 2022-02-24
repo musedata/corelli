@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata I
-@@@OTL: Allemanda 
+@@@OTL: Allemanda
+@@@OPS: 2
+@@@ONM: 1
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n01-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n01-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:112dc7a1a221477c3ce092c0b4b17c92]
 01/09/95 W. Hewlett
 WK#:2,1       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata I 
-Allemanda 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata I
+Allemanda
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Largo 
+$  K:2   Q:4   T:1/1  C:4  D:Largo
 D5     2        e     d  [
 A4     2        e     d  =
 F#5    2        e     d  =
@@ -183,9 +191,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:64a824e260994ae2fbd396e4182558b8]
 01/09/95 W. Hewlett
 WK#:2,1       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata I 
-Allemanda 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata I
+Allemanda
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -193,7 +201,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Largo 
+$  K:2   Q:4   T:1/1  C:4  D:Largo
 F#5    2        e     d  [
 D5     2        e     d  =
 A4     2        e     d  =
@@ -352,16 +360,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:257a87fc200d69674c778b1f35078839]
 01/09/95 W. Hewlett
 WK#:2,1       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata I 
-Allemanda 
-Violone 
+Chamber Sonatas, Op. 2: Sonata I
+Allemanda
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Largo 
+$  K:2   Q:4   T:1/1  C:22  D:Largo
 D3     4        q     d
 rest   4        q
 D4     2        e     d  [
@@ -474,16 +482,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:5f4a0ef157d91a3b7ccb60f521d611b1]
 01/09/95 W. Hewlett
 WK#:2,1       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata I 
-Allemanda 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata I
+Allemanda
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Largo 
+$  K:2   Q:4   T:1/1  C:22  D:Largo
 D3     4        q     d
 rest   4        q
 D4     2        e     d  [
@@ -690,8 +698,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:aef08d56fd2510324c4fa51a1c6128f8]
 01/09/95 W. Hewlett
 WK#:2,1       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata I 
-Allemanda 
+Chamber Sonatas, Op. 2: Sonata I
+Allemanda
 Violone e Cembalo
 
 Group memberships: score
@@ -699,7 +707,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Largo 
+$  K:2   Q:4   T:1/1  C:22  D:Largo
 D3     4        q     d
 rest   4        q
 D4     2        e     d  [

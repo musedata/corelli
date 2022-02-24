@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata VIII
 @@@OTL: Vivace
+@@@OPS: 1
+@@@ONM: 8
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n08-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n08-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:48e336f9fa96b4dd92cf69fb3fbfb153]
 08/31/93 S. Rasmussen
 WK#:1,8       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VIII 
+Church Sonatas, Op. 1: Sonata VIII
 [Movement 4]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:3/4  C:4  D:Vivace 
+$  K:-2   Q:2   T:3/4  C:4  D:Vivace
 C5     1        e     d  [
 D5     1        e     d  =
 Ef5    1        e     d  =
@@ -181,7 +189,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:ae34b0f76e5643d32fad6c8267ea3e1b]
 08/31/93 S. Rasmussen
 WK#:1,8       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VIII 
+Church Sonatas, Op. 1: Sonata VIII
 [Movement 4]
 Violino 2
 
@@ -191,7 +199,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:3/4  C:4  D:Vivace 
+$  K:-2   Q:2   T:3/4  C:4  D:Vivace
 rest   6
 measure 2
 C5     1        e     d  [
@@ -342,7 +350,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:8a1d996f3f5d563d62dec62d2fd6efee]
 08/31/93 S. Rasmussen
 WK#:1,8       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VIII 
+Church Sonatas, Op. 1: Sonata VIII
 [Movement 4]
 Violone, o Arcileuto
 
@@ -352,7 +360,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:3/4  C:22  D:Vivace 
+$  K:-2   Q:2   T:3/4  C:22  D:Vivace
 rest   6
 measure 2
 rest   6
@@ -483,7 +491,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:74635a9bcc47ae7df098fd0ffdc73d53]
 08/31/93 S. Rasmussen
 WK#:1,8       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VIII 
+Church Sonatas, Op. 1: Sonata VIII
 [Movement 4]
 Organo
 
@@ -493,7 +501,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:3/4  C:22  D:Vivace 
+$  K:-2   Q:2   T:3/4  C:22  D:Vivace
 C3     4        h     u
 rest   2        q
 measure 2

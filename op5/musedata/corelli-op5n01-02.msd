@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata I
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 1
+@@@OMV: 2
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n01-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n01-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -745,7 +753,7 @@ F#2    1        q     u
 measure 29
 f2              6 5
 G2     1        q     u
-f2              7 3 
+f2              7 3
 A2     1        q     u
 D3     1        q     d
 f1              6

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata VI
 @@@OTL: Largo
+@@@OPS: 1
+@@@ONM: 6
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n06-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n06-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:e24b8e5b4b11999e47c142e13f470503]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 2]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Largo 
+$  K:2   Q:4   T:1/1  C:4  D:Largo
 rest   4        q
 rest   2        e
 B4     2        e     d
@@ -357,7 +365,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:95bd66a5eb5d61280b472b7767b26feb]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 2]
 Violino 2
 
@@ -367,7 +375,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Largo 
+$  K:2   Q:4   T:1/1  C:4  D:Largo
 rest  16
 measure 2
 rest  16
@@ -678,7 +686,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:591953bf8806e5153a29e001b4f82c32]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 2]
 Violone
 
@@ -688,7 +696,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Largo 
+$  K:2   Q:4   T:1/1  C:22  D:Largo
 B2     2        e     d  [
 B3     2        e     d  =
 A3     2        e     d  =
@@ -942,7 +950,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:c17236354608b2797b9d24dd57310a52]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 2]
 Organo
 
@@ -952,7 +960,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Largo 
+$  K:2   Q:4   T:1/1  C:22  D:Largo
 B2     2        e     d  [
 B3     2        e     d  =
 A3     2        e     d  =
@@ -1253,7 +1261,7 @@ A3     4        q     d
 measure 30
 D3     4        q     d
 rest   2        e
-$  C:4 
+$  C:4
 B4     2        6     d
 F#5    2        6     d  [
 F#5    2        6     d  ]

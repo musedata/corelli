@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VI
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 6
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n06-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n06-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -21,7 +29,7 @@ Group memberships: score
 score: part 1 of 7
 $  K:-1   Q:4   T:1/1  C:4  D:Allegro
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F5     1        s     d  [[
 C5     1        s     d  ==
 F5     1        s     d  ==
@@ -72,8 +80,8 @@ A4     2        e     u  ]
 G4     4        q     u
 measure 7
 *               D +     Tutti
-P  C25:f31 
-A4     1        s     u  [[     &0f 
+P  C25:f31
+A4     1        s     u  [[     &0f
 C5     1        s     u  ==
 A4     1        s     u  ==
 C5     1        s     u  ]]
@@ -445,7 +453,7 @@ A5     1        s     d  ==
 G5     1        s     d  ==
 A5     1        s     d  ]]
 measure 33
-F5     1        s     d  [[     &0p 
+F5     1        s     d  [[     &0p
 P    C35:Y58
 A5     1        s     d  ==
 G5     1        s     d  ==
@@ -483,7 +491,7 @@ measure 37
 A4     4        q     u
 rest   4        q
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F5     1        s     d  [[
 C5     1        s     d  ==
 F5     1        s     d  ==
@@ -535,8 +543,8 @@ Bf4    2        e     u  [
 A4     2        e     u  ]
 G4     4        q     u
 *               D +     Tutti
-P  C25:f31 
-A4     1        s     u  [[     &0f 
+P  C25:f31
+A4     1        s     u  [[     &0f
 P    C33:Y62
 C5     1        s     u  ==
 A4     1        s     u  ==
@@ -2215,7 +2223,7 @@ G5     1        s     d  ==
 A5     1        s     d  ]]
 measure 33
 F5     1        s     d  [[     &0p
-P   C35:Y58 
+P   C35:Y58
 A5     1        s     d  ==
 G5     1        s     d  ==
 A5     1        s     d  ]]

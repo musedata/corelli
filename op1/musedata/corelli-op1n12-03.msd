@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata XII
 @@@OTL: Grave
+@@@OPS: 1
+@@@ONM: 12
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no12
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n12-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n12-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:35db09e6c700cb712982e94bfce265d7]
 09/17/93 S. Rasmussen
 WK#:1,12      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XII 
+Church Sonatas, Op. 1: Sonata XII
 [Movement 3]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Grave 
+$  K:2   Q:4   T:1/1  C:4  D:Grave
 F#5    4        q     d
 F#5    4        q     d
 F#5    8        h     d
@@ -97,7 +105,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:33013bdc41ffc28f609643407344658b]
 09/17/93 S. Rasmussen
 WK#:1,12      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XII 
+Church Sonatas, Op. 1: Sonata XII
 [Movement 3]
 Violino 2
 
@@ -107,7 +115,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Grave 
+$  K:2   Q:4   T:1/1  C:4  D:Grave
 D5     4        q     d
 C#5    4        q     d
 D5     8        h     d
@@ -187,7 +195,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:0f45e521bf6da97e8b9a56078bc4a742]
 09/17/93 S. Rasmussen
 WK#:1,12      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XII 
+Church Sonatas, Op. 1: Sonata XII
 [Movement 3]
 Violone
 
@@ -196,7 +204,7 @@ sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:1/1  C:22  D:Grave 
+$  K:2   Q:2   T:1/1  C:22  D:Grave
 B3     2        q     d
 A#3    2        q #   d
 B3     4        h     d
@@ -263,7 +271,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:73f1782a04845e58e58557e1207c8152]
 09/17/93 S. Rasmussen
 WK#:1,12      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XII 
+Church Sonatas, Op. 1: Sonata XII
 [Movement 3]
 Organo
 
@@ -272,7 +280,7 @@ sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:1/1  C:22  D:Grave 
+$  K:2   Q:2   T:1/1  C:22  D:Grave
 B3     2        q     d
 f1              6
 A#3    2        q #   d
@@ -404,7 +412,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:6a961e7c8384d5738206020fc2b1338c]
 09/17/93 S. Rasmussen
 WK#:1,12      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XII 
+Church Sonatas, Op. 1: Sonata XII
 [Movement 3]
 Violone  e  Organo
 
@@ -413,7 +421,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:1/1  C:22  I:2  D:Grave 
+$  K:2   Q:2   T:1/1  C:22  I:2  D:Grave
 B3     2        q     u
 A#3    2        q #   u
 B3     4        h     u

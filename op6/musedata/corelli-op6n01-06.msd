@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto I
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 1
+@@@OMV: 6
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n01-06.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n01-06.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -259,13 +267,13 @@ F#4   12        h     u
 *               D +     Soli
 P  C25:f33  C25:f31
 A5     6        q     d
-rest   2        e  3            * 
+rest   2        e  3            *
 F#5    2        e  3  d  [
-G5     2        e  3  d  ]      !  
+G5     2        e  3  d  ]      !
 measure 30
-A5     2        e  3  d  [      * 
+A5     2        e  3  d  [      *
 B5     2        e  3  d  =
-A5     2        e  3  d  ]      !  
+A5     2        e  3  d  ]      !
 A5     2        e  3  d  [
 B5     2        e  3  d  =
 A5     2        e  3  d  ]

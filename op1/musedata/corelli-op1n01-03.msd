@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata I
 @@@OTL: Adagio
+@@@OPS: 1
+@@@ONM: 1
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n01-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n01-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:3c4b576b5a0a756032061073b4870daa]
 08/16/93 S. Rasmussen
 WK#:1,1       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata I 
+Church Sonatas, Op. 1: Sonata I
 [Movement 3]
 Violino 1
 
@@ -152,7 +160,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:708c2f8401745260955ff6da7820b13d]
 08/16/93 S. Rasmussen
 WK#:1,1       MV#:3
 Augener/Chry   sander
-Church Sonatas, Op. 1: Sonata I 
+Church Sonatas, Op. 1: Sonata I
 [Movement 3]
 Violino 2
 
@@ -717,7 +725,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:3804c2f80b1a09d39d08b131bb929fd2]
 08/16/93 S. Rasmussen
 WK#:1,1       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata I 
+Church Sonatas, Op. 1: Sonata I
 [Movement 3]
 Violone e Organo
 
@@ -726,7 +734,7 @@ score: part 3 of 3
 &
 Stage 2 complete.
 &
-$  K:-1   Q:2   T:3/4  C:22  D:Adagio 
+$  K:-1   Q:2   T:3/4  C:22  D:Adagio
 F3     6        h.    u
 back   6
 f1     4        b

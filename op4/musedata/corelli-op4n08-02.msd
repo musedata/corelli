@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata VIII
 @@@OTL: Allemanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 8
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n08-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n08-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -80,8 +88,8 @@ C5     4        q     d
 B4     4        q     d
 A4     8        h     u
 mheavy4 13      :|:
-P  C1:] 
-E5     6        q.    d 
+P  C1:]
+E5     6        q.    d
 E5     2        e     d
 F5     4        q     d
 rest   4        q

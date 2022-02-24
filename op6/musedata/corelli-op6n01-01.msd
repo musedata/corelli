@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto I
 @@@OTL: Largo
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 1
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n01-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n01-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -128,9 +136,9 @@ C#4    4        q     u
 rest   4        q               F
 P    C33:x-2
 measure 12
-$  D:Allegro 
-*               D +     Soli 
-P  C25:f31  C17:Y-15 
+$  D:Allegro
+*               D +     Soli
+P  C25:f31  C17:Y-15
 A4     4        q     u
 rest   2        e
 A4     2        e     u
@@ -166,7 +174,7 @@ rest   2        e
 E5     2        e     d
 measure 16
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    4        q     d
 rest   2        e
 F#5    2        e     d
@@ -192,7 +200,7 @@ rest   4        q               F
 P    C33:x-2
 rest   2        e
 $  D:Adagio
-F#5    2        e     d 
+F#5    2        e     d
 measure 20
 D5     4        q     d
 rest   2        e
@@ -202,11 +210,11 @@ F#4    4-       q     u        -
 measure 21
 F#4    4        q     u
 E#4    4        q #   u
-$  D:Allegro 
-F#5    4        q     d 
+$  D:Allegro
+F#5    4        q     d
 rest   2        e
 *               D +     Soli
-P  C25:f31  C17:Y-15x-14 
+P  C25:f31  C17:Y-15x-14
 F#5    2        e     d
 measure 22
 B5     2        e     d  [
@@ -232,7 +240,7 @@ E4     2        e     u  ]
 rest   2        e
 E5     2        e     d
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 C#5    2        e     d  [
 A4     2        e     d  ]
 F#5    4        q     d
@@ -258,17 +266,17 @@ P    C33:x-2
 rest   4        q
 rest   2        e
 $  D:Adagio
-C#5    2        e     d 
+C#5    2        e     d
 measure 28
 F#4    2        e     u  [
 G#4    2        e #   u  ]
 A4     8        h     u
 G#4    4        q     u
 measure 29
-$  D:Allegro 
-A4     4        q     u 
+$  D:Allegro
+A4     4        q     u
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 rest   2        e
 A4     2        e     u
 D5     2        e     u  [
@@ -303,7 +311,7 @@ rest   2        e
 E5     2        e     d
 measure 33
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    4        q     d
 rest   2        e
 F#5    2        e     d
@@ -328,7 +336,7 @@ rest   4        q
 rest   4        q               F
 P    C33:x-2
 $  D:Adagio
-F5     4        q n   d 
+F5     4        q n   d
 measure 37
 E5     8        h     d
 D5     4        q     d
@@ -442,8 +450,8 @@ E4     4        q     u
 rest   4        q               F
 P    C33:x-2
 measure 12
-$  D:Allegro 
-rest   4        q 
+$  D:Allegro
+rest   4        q
 A4     4        q     u
 rest   2        e
 A4     2        e     u  [
@@ -499,10 +507,10 @@ measure 19
 C#5    4        q     d
 rest   4        q
 rest   4        q               F
-P    C33:x-2 
+P    C33:x-2
 rest   2        e
-$  D:Adagio 
-C#5    2        e     d 
+$  D:Adagio
+C#5    2        e     d
 measure 20
 C#5    2        e     u  [
 F#4    2        e     u  ]
@@ -512,8 +520,8 @@ G#4    2        e #   u  ]
 measure 21
 A4     4        q     u
 G#4    4        q #   u
-$  D:Allegro 
-F#4    4        q     u 
+$  D:Allegro
+F#4    4        q     u
 F#5    4        q     d
 measure 22
 rest   2        e
@@ -562,16 +570,16 @@ rest   4        q               F
 P    C33:x-2
 rest   4        q
 rest   2        e
-$  D:Adagio 
-E5     2        e     d 
+$  D:Adagio
+E5     2        e     d
 measure 28
 A4     2        e     u  [
 B4     2        e     u  ]
 C5     4        q n   d
 B4     8        h     d
 measure 29
-$  D:Allegro 
-C#5    4        q #   d         + 
+$  D:Allegro
+C#5    4        q #   d         +
 A4     4        q     u
 rest   2        e
 A4     2        e     u  [
@@ -628,8 +636,8 @@ C#5    4        q     d
 rest   4        q
 rest   4        q               F
 P    C33:x-2
-$  D:Adagio 
-D5     4-       q     d        - 
+$  D:Adagio
+D5     4-       q     d        -
 measure 37
 D5     4        q     d
 C#5    4        q     d
@@ -797,8 +805,8 @@ rest   4        q               F
 P    C33:x-2
 $  C:12
 measure 12
-$  D:Allegro 
-A3     1        s     d  [[ 
+$  D:Allegro
+A3     1        s     d  [[
 G3     1        s     d  ==
 A3     1        s     d  ==
 B3     1        s     d  ]]
@@ -927,9 +935,9 @@ rest   4        q
 rest   4        q               F
 P    C33:x-2
 rest   2        e
-$  D:Adagio 
-f1              6 
-A#2    2        e #   u 
+$  D:Adagio
+f1              6
+A#2    2        e #   u
 measure 20
 f1              9
 B2     4        q     u
@@ -945,7 +953,7 @@ C#3    4        q     u
 f2              5 #
 P  C1:y15
 C#2    4        q     u
-$  C:12  D:Allegro 
+$  C:12  D:Allegro
 f1              n
 F#4    1        s     d  [[
 E4     1        s     d  ==
@@ -1060,8 +1068,8 @@ rest   4        q               F
 P    C33:x-2
 rest   4        q
 rest   2        e
-$  D:Adagio 
-f1              6 
+$  D:Adagio
+f1              6
 C#3    2        e     u
 measure 28
 f1     2        5
@@ -1075,8 +1083,8 @@ f2              b #
 E2     4        q     u
 $  C:12
 measure 29
-$  D:Allegro 
-A3     1        s     d  [[ 
+$  D:Allegro
+A3     1        s     d  [[
 G3     1        s     d  ==
 A3     1        s     d  ==
 B3     1        s     d  ]]
@@ -1205,7 +1213,7 @@ rest   4        q
 rest   4        q               F
 P    C33:x-2
 $  D:Adagio
-f2              7n 5 
+f2              7n 5
 G#3    4        q #   d
 measure 37
 f1              4
@@ -1352,8 +1360,8 @@ C#4    4        q     u
 rest   4        q               F
 P    C33:x-2
 measure 12
-$  D:Allegro 
-rest  16 
+$  D:Allegro
+rest  16
 measure 13
 rest  16
 measure 14
@@ -1385,8 +1393,8 @@ rest   4        q
 rest   4        q               F
 P    C33:x-2
 rest   2        e
-$  D:Adagio 
-F#5    2        e     d 
+$  D:Adagio
+F#5    2        e     d
 measure 20
 D5     4        q     d
 rest   2        e
@@ -1396,8 +1404,8 @@ F#4    4-       q     u        -
 measure 21
 F#4    4        q     u
 E#4    4        q #   u
-$  D:Allegro 
-F#4    4        q     u 
+$  D:Allegro
+F#4    4        q     u
 rest   4        q
 measure 22
 rest  16
@@ -1429,16 +1437,16 @@ rest   4        q               F
 P    C33:x-2
 rest   4        q
 rest   2        e
-$  D:Adagio 
-C#5    2        e     d 
+$  D:Adagio
+C#5    2        e     d
 measure 28
 F#4    2        e     u  [
 G#4    2        e #   u  ]
 A4     8        h     u
 G#4    4        q     u
 measure 29
-$  D:Allegro 
-A4     4        q     u 
+$  D:Allegro
+A4     4        q     u
 rest   4        q
 rest   8        h
 measure 30
@@ -1471,8 +1479,8 @@ E5     4        q     d
 rest   4        q
 rest   4        q               F
 P    C33:x-2
-$  D:Adagio 
-F5     4        q n   d 
+$  D:Adagio
+F5     4        q n   d
 measure 37
 E5     8        h     d
 D5     4        q     d
@@ -1586,8 +1594,8 @@ E4     4        q     u
 rest   4        q               F
 P    C33:x-2
 measure 12
-$  D:Allegro 
-rest  16 
+$  D:Allegro
+rest  16
 measure 13
 rest  16
 measure 14
@@ -1620,8 +1628,8 @@ rest   4        q
 rest   4        q               F
 P    C33:x-2
 rest   2        e
-$  D:Adagio 
-C#5    2        e     d 
+$  D:Adagio
+C#5    2        e     d
 measure 20
 C#5    2        e     u  [
 F#4    2        e     u  ]
@@ -1631,8 +1639,8 @@ G#4    2        e #   u  ]
 measure 21
 A4     4        q     u
 G#4    4        q #   u
-$  D:Allegro 
-F#4    4        q     u 
+$  D:Allegro
+F#4    4        q     u
 rest   4        q
 measure 22
 rest  16
@@ -1663,16 +1671,16 @@ rest   4        q               F
 P    C33:x-2
 rest   4        q
 rest   2        e
-$  D:Adagio 
-E5     2        e     d 
+$  D:Adagio
+E5     2        e     d
 measure 28
 A4     2        e     u  [
 B4     2        e     u  ]
 C5     4        q n   d
 B4     8        h     d
 measure 29
-$  D:Allegro 
-C#5    4        q #   d         + 
+$  D:Allegro
+C#5    4        q #   d         +
 rest   4        q
 rest   8        h
 measure 30
@@ -1706,8 +1714,8 @@ C#5    4        q     d
 rest   4        q
 rest   4        q               F
 P    C33:x-2
-$  D:Adagio 
-D5     4-       q     d        - 
+$  D:Adagio
+D5     4-       q     d        -
 measure 37
 D5     4        q     d
 C#5    4        q     d
@@ -1820,8 +1828,8 @@ A4     4        q     d
 rest   4        q               F
 P    C33:x-2
 measure 12
-$  D:Allegro 
-rest  16 
+$  D:Allegro
+rest  16
 measure 13
 rest  16
 measure 14
@@ -1858,8 +1866,8 @@ rest   4        q
 rest   4        q               F
 P    C33:x-2
 rest   2        e
-$  D:Adagio 
-F#4    2        e     d 
+$  D:Adagio
+F#4    2        e     d
 measure 20
 F#4    4        q     d
 rest   2        e
@@ -1870,8 +1878,8 @@ B4     2        e     d  ]
 measure 21
 C#5    6        q.    d
 C#4    2        e     d
-$  D:Allegro 
-C#4    4        q     d 
+$  D:Allegro
+C#4    4        q     d
 rest   4        q
 measure 22
 rest  16
@@ -1907,16 +1915,16 @@ rest   4        q               F
 P    C33:x-2
 rest   4        q
 rest   2        e
-$  D:Adagio 
-A4     2        e     d 
+$  D:Adagio
+A4     2        e     d
 measure 28
 A4     4        q     d
 F#4    4        q     d
 B3     4        q     u
 E4     4        q     d
 measure 29
-$  D:Allegro 
-E4     4        q     d 
+$  D:Allegro
+E4     4        q     d
 rest   4        q
 rest   8        h
 measure 30
@@ -1954,8 +1962,8 @@ A4     4        q     d
 rest   4        q
 rest   4        q               F
 P    C33:x-2
-$  D:Adagio 
-B4     4        q     d 
+$  D:Adagio
+B4     4        q     d
 measure 37
 E4     4        q     d
 A4     4        q     d
@@ -2123,54 +2131,54 @@ A2     4        q     u
 rest   4        q               F
 P    C33:x-2
 measure 12
-$  D:Allegro 
-rest  16 
-measure 13 
-rest  16 
-measure 14 
-rest  16 
-measure 15 
-rest  16 
+$  D:Allegro
+rest  16
+measure 13
+rest  16
+measure 14
+rest  16
+measure 15
+rest  16
 measure 16
-D3     2        e     d  [ 
-D3     2        e     d  = 
-D3     2        e     d  = 
-D3     2        e     d  ] 
-f1              9 
-E3     2        e     d  [ 
-E3     2        e     d  ] 
-f1              8 
-E3     2        e     d  [ 
-D3     1        s     d  =[ 
-E3     1        s     d  ]] 
+D3     2        e     d  [
+D3     2        e     d  =
+D3     2        e     d  =
+D3     2        e     d  ]
+f1              9
+E3     2        e     d  [
+E3     2        e     d  ]
+f1              8
+E3     2        e     d  [
+D3     1        s     d  =[
+E3     1        s     d  ]]
 measure 17
-f1              7 
-F#3    2        e     d  [ 
-F#3    2        e     d  = 
-f1              6 
-F#3    2        e     d  = 
-F#3    2        e     d  ] 
-f1              9 
-G3     2        e     d  [ 
-G3     2        e     d  ] 
-f2              8 6 
-G3     2        e     d  [ 
-F#3    1        s     d  =[ 
-G3     1        s     d  ]] 
+f1              7
+F#3    2        e     d  [
+F#3    2        e     d  =
+f1              6
+F#3    2        e     d  =
+F#3    2        e     d  ]
+f1              9
+G3     2        e     d  [
+G3     2        e     d  ]
+f2              8 6
+G3     2        e     d  [
+F#3    1        s     d  =[
+G3     1        s     d  ]]
 measure 18
-f1              7 
-A3     4        q     d 
-D3     4        q     d 
-A3     4        q     d 
-D3     4        q     d 
+f1              7
+A3     4        q     d
+D3     4        q     d
+A3     4        q     d
+D3     4        q     d
 measure 19
 A3     4        q     d
 rest   4        q
 rest   4        q               F
 P    C33:x-2
 rest   2        e
-$  D:Adagio 
-f1              6 
+$  D:Adagio
+f1              6
 A#2    2        e #   u
 measure 20
 f1              9
@@ -2187,51 +2195,51 @@ C#3    4        q     u
 f2              5 #
 P  C1:y15
 C#2    4        q     u
-$  D:Allegro 
-f2              b n 
-F#2    4        q     u 
-rest   4        q 
-measure 22 
-rest  16 
-measure 23 
-rest  16 
+$  D:Allegro
+f2              b n
+F#2    4        q     u
+rest   4        q
+measure 22
+rest  16
+measure 23
+rest  16
 measure 24
-rest   8        h 
-f1              5 
-A3     2        e     d  [ 
-A3     2        e     d  = 
-f1              6 
-A3     2        e     d  = 
-A3     2        e     d  ] 
+rest   8        h
+f1              5
+A3     2        e     d  [
+A3     2        e     d  =
+f1              6
+A3     2        e     d  =
+A3     2        e     d  ]
 measure 25
-f1              7 
-G#3    2        e #   d  [ 
-G#3    2        e     d  = 
-f1              6 
-G#3    2        e     d  = 
-f1              7 
-B3     2        e     d  ] 
-f1              7 
-F#3    2        e     d  [ 
-F#3    2        e     d  = 
-f1              6 
-F#3    2        e     d  = 
-f1              7 
-B3     2        e     d  ] 
+f1              7
+G#3    2        e #   d  [
+G#3    2        e     d  =
+f1              6
+G#3    2        e     d  =
+f1              7
+B3     2        e     d  ]
+f1              7
+F#3    2        e     d  [
+F#3    2        e     d  =
+f1              6
+F#3    2        e     d  =
+f1              7
+B3     2        e     d  ]
 measure 26
-f2              7 # 
-E3     2        e     d  [ 
-E3     2        e     d  = 
-f1              6 
-E3     2        e     d  = 
-f1              7 
-A3     2        e     d  ] 
-f1              7 
-D3     2        e     d  [ 
-D3     2        e     d  = 
-f1              6 
-D3     2        e     d  = 
-D3     2        e     d  ] 
+f2              7 #
+E3     2        e     d  [
+E3     2        e     d  =
+f1              6
+E3     2        e     d  =
+f1              7
+A3     2        e     d  ]
+f1              7
+D3     2        e     d  [
+D3     2        e     d  =
+f1              6
+D3     2        e     d  =
+D3     2        e     d  ]
 measure 27
 f1              #
 E3     4        q     d
@@ -2239,8 +2247,8 @@ rest   4        q               F
 P    C33:x-2
 rest   4        q
 rest   2        e
-$  D:Adagio 
-f1              6 
+$  D:Adagio
+f1              6
 C#3    2        e     u
 measure 28
 f1     2        5
@@ -2253,60 +2261,60 @@ E3     4        q     d
 f2              b #
 E2     4        q     u
 measure 29
-$  D:Allegro 
-A2     4        q     u 
-rest   4        q 
-rest   8        h 
-measure 30 
-rest  16 
-measure 31 
-rest  16 
-measure 32 
-rest  16 
+$  D:Allegro
+A2     4        q     u
+rest   4        q
+rest   8        h
+measure 30
+rest  16
+measure 31
+rest  16
+measure 32
+rest  16
 measure 33
-D3     2        e     d  [ 
-D3     2        e     d  = 
-D3     2        e     d  = 
-D3     2        e     d  ] 
-f1              9 
-E3     2        e     d  [ 
-E3     2        e     d  = 
-f1              8 
-E3     2        e     d  = 
-D3     1        s     d  =[ 
-E3     1        s     d  ]] 
+D3     2        e     d  [
+D3     2        e     d  =
+D3     2        e     d  =
+D3     2        e     d  ]
+f1              9
+E3     2        e     d  [
+E3     2        e     d  =
+f1              8
+E3     2        e     d  =
+D3     1        s     d  =[
+E3     1        s     d  ]]
 measure 34
-f1              7 
-F#3    2        e     d  [ 
-F#3    2        e     d  = 
-f1              6 
-F#3    2        e     d  = 
-F#3    2        e     d  ] 
-f1              9 
-G3     2        e     d  [ 
-G3     2        e     d  = 
-f2              8 6 
-G3     2        e     d  = 
-F#3    1        s     d  =[ 
-G3     1        s     d  ]] 
+f1              7
+F#3    2        e     d  [
+F#3    2        e     d  =
+f1              6
+F#3    2        e     d  =
+F#3    2        e     d  ]
+f1              9
+G3     2        e     d  [
+G3     2        e     d  =
+f2              8 6
+G3     2        e     d  =
+F#3    1        s     d  =[
+G3     1        s     d  ]]
 measure 35
-f1              7 
-A3     4        q     d 
-D3     4        q     d 
-A3     4        q     d 
-D3     4        q     d 
+f1              7
+A3     4        q     d
+D3     4        q     d
+A3     4        q     d
+D3     4        q     d
 measure 36
 A3     4        q     d
 rest   4        q
 rest   4        q               F
 P    C33:x-2
-$  D:Adagio 
-f2              7n 5 
+$  D:Adagio
+f2              7n 5
 G#3    4        q #   d
 measure 37
-f2              b 4 
+f2              b 4
 A3     4        q     d
-f2              b 3 
+f2              b 3
 A2     4        q     u
 D3     4        q     d
 G2     4-       q     u        -

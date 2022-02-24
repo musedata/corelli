@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata VIII
 @@@OTL: Largo
+@@@OPS: 3
+@@@ONM: 8
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n08-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n08-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -281,8 +289,8 @@ measure 13
 rest   4        q
 G5     2        e     d  [
 C5     2        e     d  ]
-D5     2        e     d  [     (&0t 
-P   C35:x-2 
+D5     2        e     d  [     (&0t
+P   C35:x-2
 C5     2        e     d  =     )
 E5     3        e.    d  =
 E5     1        s     d  ]\

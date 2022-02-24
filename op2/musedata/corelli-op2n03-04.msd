@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata III
 @@@OTL: Allemanda
+@@@OPS: 2
+@@@ONM: 3
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n03-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n03-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:b0ba70f97a36d23530a88069d591988f]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 Allemanda
-Violino 1 
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:12   T:1/1  C:4  D:Presto 
+$  K:0   Q:12   T:1/1  C:4  D:Presto
 G5    18        q.    d
 G5     6        e     d
 A5    18        q.    d
@@ -177,9 +185,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:57ca6009c917e049ae6d4c94c78d2962]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 Allemanda
-Violino 2 
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -187,7 +195,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:1/1  C:4  D:Presto 
+$  K:0   Q:4   T:1/1  C:4  D:Presto
 E5     6        q.    d
 E5     2        e     d
 F5     6        q.    d
@@ -321,16 +329,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:d088ec7c0c1a19e67e78c644d1a5cb57]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 Allemanda
-Violone 
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Presto 
+$  K:0   Q:2   T:1/1  C:22  D:Presto
 C3     1        e     d  [
 D3     1        e     d  =
 E3     1        e     d  =
@@ -549,16 +557,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:b1bf2b8dded56cebfbbb0c1fa991b746]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 Allemanda
-Cembalo 
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Presto 
+$  K:0   Q:2   T:1/1  C:22  D:Presto
 C3     1        e     d  [
 D3     1        e     d  =
 f1              6
@@ -889,7 +897,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:fa80a0068de2ce26ed285fa0bc9a67b9]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 Allemanda
 Violone e Cembalo
 
@@ -898,7 +906,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Presto 
+$  K:0   Q:2   T:1/1  C:22  D:Presto
 C3     1        e     d  [
 D3     1        e     d  =
 f1              6

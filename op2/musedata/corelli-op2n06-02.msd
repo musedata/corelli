@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata VI
-@@@OTL: Corrente 
+@@@OTL: Corrente
+@@@OPS: 2
+@@@ONM: 6
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n06-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n06-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:96d423741093e44519c6e0835fe335c3]
 01/09/95 W. Hewlett
 WK#:2,6       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VI 
-Corrente 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata VI
+Corrente
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:4  D:Allegro 
+$  K:-1   Q:2   T:3/4  C:4  D:Allegro
 rest   1        e
 D5     1        e     d
 measure 1
@@ -172,9 +180,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:def58528b3ea56d2b344365d708eb49c]
 01/09/95 W. Hewlett
 WK#:2,6       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VI 
-Corrente 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata VI
+Corrente
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -182,7 +190,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:4  D:Allegro 
+$  K:-1   Q:2   T:3/4  C:4  D:Allegro
 rest   1        e
 Bf4    1        e     d
 measure 1
@@ -288,16 +296,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:bf98e2cd18ea01d6ad28e65102e662a4]
 01/09/95 W. Hewlett
 WK#:2,6       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VI 
-Corrente 
-Violone 
+Chamber Sonatas, Op. 2: Sonata VI
+Corrente
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:22  D:Allegro 
+$  K:-1   Q:2   T:3/4  C:22  D:Allegro
 rest   1        e
 G3     1        e     d
 measure 1
@@ -396,16 +404,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:0a6e1054e71681be8bd709aa3f61becd]
 01/09/95 W. Hewlett
 WK#:2,6       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VI 
-Corrente 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata VI
+Corrente
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:22  D:Allegro 
+$  K:-1   Q:2   T:3/4  C:22  D:Allegro
 rest   1        e
 G3     1        e     d
 measure 1
@@ -570,8 +578,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:742360bdd9be48f5b34b31818f416f89]
 01/09/95 W. Hewlett
 WK#:2,6       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VI 
-Corrente 
+Chamber Sonatas, Op. 2: Sonata VI
+Corrente
 Violone e Cembalo
 
 Group memberships: score
@@ -579,7 +587,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:3/4  C:22  D:Allegro 
+$  K:-1   Q:2   T:3/4  C:22  D:Allegro
 rest   1        e
 G3     1        e     d
 measure 1

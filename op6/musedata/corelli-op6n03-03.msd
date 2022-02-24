@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto III
 @@@OTL: Grave
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 3
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n03-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n03-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -155,9 +163,9 @@ C5     2        q     d
 F4     2        q     u
 Bf4    2        q f   d
 measure 12
-C5     4-       h     d         - 
-C5     2        q     d 
-Bf4    1        e     u  [ 
+C5     4-       h     d         -
+C5     2        q     d
+Bf4    1        e     u  [
 Af4    1        e f   u  ]
 measure 13
 G4     2        q     u

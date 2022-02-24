@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata VIII
-@@@OTL: Tempo di Sarabanda 
+@@@OTL: Tempo di Sarabanda
+@@@OPS: 2
+@@@ONM: 8
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n08-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n08-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:a114ace7bde825f2f2050f88897a7c2f]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Sarabanda 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Sarabanda
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:3/4  C:4  D:Adagio 
+$  K:2   Q:2   T:3/4  C:4  D:Adagio
 D5     3        q.    d
 C#5    1        e     d
 B4     2        q     d
@@ -50,8 +58,8 @@ F#5    1        e     d
 measure 8
 F#5    6        h.    d
 mheavy4 9                 :|:
-P C1:] 
-A5     3        q.    d 
+P C1:]
+A5     3        q.    d
 G5     1        e     d
 F#5    2        q     d
 measure 10
@@ -145,9 +153,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:881d52385a91d8b7cf5def8fddad5c76]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Sarabanda 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Sarabanda
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -155,7 +163,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:3/4  C:4  D:Adagio 
+$  K:2   Q:2   T:3/4  C:4  D:Adagio
 B4     3        q.    d
 C#5    1        e     d
 D5     2        q     d
@@ -273,16 +281,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:f10035214485a38b00912c5e64415386]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Sarabanda 
-Violone 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Sarabanda
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:3/4  C:22  D:Adagio 
+$  K:2   Q:2   T:3/4  C:22  D:Adagio
 B3     4        h     d
 B2     2        q     u
 measure 2
@@ -393,16 +401,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:42af686bc3332363ee5484063fe6d081]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Sarabanda 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Sarabanda
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:3/4  C:22  D:Adagio 
+$  K:2   Q:2   T:3/4  C:22  D:Adagio
 B3     4        h     d
 B2     2        q     u
 measure 2
@@ -580,8 +588,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:f98dd1cca4cbf068e07b66a7fc96cde4]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Sarabanda 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Sarabanda
 Violone e Cembalo
 
 Group memberships: score
@@ -589,7 +597,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:3/4  C:22  D:Adagio 
+$  K:2   Q:2   T:3/4  C:22  D:Adagio
 B3     4        h     d
 B2     2        q     u
 measure 2

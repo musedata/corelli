@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata I
 @@@OTL: Preludio
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 1
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n01-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n01-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -293,7 +301,7 @@ G3     4        q     d
 C3     4        q     u
 C4     4        q     d
 measure 5
-f1              6\ 
+f1              6\
 B3     4        q     d
 A3     4        q     d
 f1              6

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata I
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 1
+@@@OMV: 4
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n01-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n01-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -642,8 +650,8 @@ WK#:5,1       MV#:4
 Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in D
 
-Violino solo (2nd voice) 
-1 49 
+Violino solo (2nd voice)
+1 49
 Group memberships: data
 data: part 2 of 3
 &
@@ -751,7 +759,7 @@ rest   2        e
 rest   2        e
 measure 17
 C#4    4        q     u
-D4     4        q     u        
+D4     4        q     u
 A3     4        q     u
 measure 18
 rest  12
@@ -1207,8 +1215,8 @@ measure 38
 f1     2        5
 f1              6
 A2     6        q.    u
-f1     2        5 
-f1              6\ 
+f1     2        5
+f1              6\
 B2     6        q.    u
 measure 39
 f1     2        5

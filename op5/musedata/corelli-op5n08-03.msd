@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata VIII
 @@@OTL: Sarabanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 8
+@@@OMV: 3
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n08-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n08-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -49,8 +57,8 @@ B4     1        e     d
 measure 8
 B4     6        h.    d
 mheavy4 9       :|:
-P  C1:] 
-F#5    2        q     d 
+P  C1:]
+F#5    2        q     d
 B5     3        q.    d
 A5     1        e     d
 measure 10

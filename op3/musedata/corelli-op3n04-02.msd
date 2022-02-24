@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata IV
 @@@OTL: Vivace
+@@@OPS: 3
+@@@ONM: 4
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n04-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n04-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -482,7 +490,7 @@ WK#:3,4       MV#:2
 Augener/Chrysander
 Church Sonatas, Op. 3: Sonata IV
 [Movement 2]
-Violone e Organo 
+Violone e Organo
 0 4
 Group memberships: score
 score: part 3 of 3

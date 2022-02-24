@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata VI
 @@@OTL: Preludio
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 6
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n06-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n06-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -55,7 +63,7 @@ A#4    4        q #   u
 measure 6
 B4    16        w     d
 mdouble 7
-$  Q:2   T:3/4   D:Allegro 
+$  Q:2   T:3/4   D:Allegro
 E5     1        e     d  [
 B4     1        e     d  =
 E5     1        e     d  =
@@ -740,7 +748,7 @@ F#4    2        h     u
 E4     4        w     u
 measure 74
 D#4    6        w.#   u        F
-P    C32:x1y3 
+P    C32:x1y3
 mheavy2
 /END
 /eof

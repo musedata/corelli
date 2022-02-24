@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata V
-@@@OTL: Preludio 
+@@@OTL: Preludio
+@@@OPS: 2
+@@@ONM: 5
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n05-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n05-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:eb63e4d9d12ea336084e36500ad52477]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Preludio 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata V
+Preludio
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:1/1  C:4  D:Adagio 
+$  K:-1   Q:4   T:1/1  C:4  D:Adagio
 Bf4    4        q     d
 C5     3        e.    d  [
 D5     1        s     d  ]\
@@ -107,9 +115,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:2425430cadd862ab0670103f0ab21127]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Preludio 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata V
+Preludio
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -117,7 +125,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:4   T:1/1  C:4  D:Adagio 
+$  K:-1   Q:4   T:1/1  C:4  D:Adagio
 D5     4        q     d
 F5     4        q     d
 Bf4    4        q     d
@@ -199,16 +207,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:f8b8ae41d4778ce8ea61e0900e4d29f1]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Preludio 
-Violone 
+Chamber Sonatas, Op. 2: Sonata V
+Preludio
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:1/1  C:22  D:Adagio 
+$  K:-1   Q:2   T:1/1  C:22  D:Adagio
 Bf3    2        q     d
 A3     2        q     d
 G3     2        q     d
@@ -305,16 +313,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:1c549a7a7ac00a520a6d6a0dbde123b1]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Preludio 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata V
+Preludio
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:1/1  C:22  D:Adagio 
+$  K:-1   Q:2   T:1/1  C:22  D:Adagio
 Bf3    2        q     d
 f1              6
 A3     2        q     d
@@ -495,8 +503,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:0d56f04ba4d3387de43228b209c3bf5e]
 01/09/95 W. Hewlett
 WK#:2,5       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata V 
-Preludio 
+Chamber Sonatas, Op. 2: Sonata V
+Preludio
 Violone e Cembalo
 
 Group memberships: score
@@ -504,7 +512,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:2   T:1/1  C:22  D:Adagio 
+$  K:-1   Q:2   T:1/1  C:22  D:Adagio
 Bf3    2        q     d
 f1              6
 A3     2        q     d

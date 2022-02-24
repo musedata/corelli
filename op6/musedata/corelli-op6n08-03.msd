@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VIII
 @@@OTL: Adagio
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 8
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n08-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n08-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -714,8 +722,8 @@ Bf3    1        s     d  [[
 Bf2    1        s     d  ==
 D3     1        s     d  ==
 Bf2    1        s     d  ]]
-f1              9 
-rest   1        s 
+f1              9
+rest   1        s
 C4     1        s     d  [[
 Ef4    1        s f   d  ==
 C4     1        s     d  ]]
@@ -725,8 +733,8 @@ G3     1        s     d  ==
 Bf3    1        s     d  ==
 G3     1        s     d  ]]
 measure 4
-f1              9 
-rest   1        s 
+f1              9
+rest   1        s
 Af3    1        s f   d  [[
 f1              6
 C4     1        s     d  ==
@@ -736,8 +744,8 @@ Ef4    1        s f   d  [[
 Ef3    1        s f   d  ==
 G3     1        s     d  ==
 Ef3    1        s     d  ]]
-f1              9 
-rest   1        s 
+f1              9
+rest   1        s
 F3     1        s     d  [[
 Af3    1        s     d  ==
 F3     1        s     d  ]]
@@ -759,8 +767,8 @@ Bf2    4        q     u
 rest   4        q
 measure 6
 rest   8        h
-f1              4f 
-rest   1        s 
+f1              4f
+rest   1        s
 Ef3    1        s f   d  [[
 G3     1        s     d  ==
 Ef3    1        s     d  ]]
@@ -770,8 +778,8 @@ Bf2    1        s     d  ==
 D3     1        s     d  ==
 Bf2    1        s     d  ]]
 measure 7
-f2              9 f 
-rest   1        s 
+f2              9 f
+rest   1        s
 C3     1        s     u  [[
 f1              6
 Ef3    1        s f   u  ==
@@ -961,8 +969,8 @@ Bf3    1        s     d  [[
 Bf2    1        s     d  ==
 D3     1        s     d  ==
 Bf2    1        s     d  ]]
-f1              9 
-rest   1        s 
+f1              9
+rest   1        s
 C4     1        s     d  [[
 f1              6
 Ef4    1        s f   d  ==
@@ -973,8 +981,8 @@ G3     1        s     d  ==
 Bf3    1        s     d  ==
 G3     1        s     d  ]]
 measure 25
-f1              9 
-rest   1        s 
+f1              9
+rest   1        s
 Af3    1        s f   d  [[
 f1              6
 C4     1        s     d  ==
@@ -984,8 +992,8 @@ Ef4    1        s f   d  [[
 Ef3    1        s f   d  ==
 G3     1        s     d  ==
 Ef3    1        s     d  ]]
-f1              9 
-rest   1        s 
+f1              9
+rest   1        s
 F3     1        s     d  [[
 f1              6
 Af3    1        s f   d  ==     +
@@ -1008,8 +1016,8 @@ Bf2    4        q     u
 rest   4        q
 measure 27
 rest   8        h
-f1              4f 
-rest   1        s 
+f1              4f
+rest   1        s
 Ef3    1        s f   d  [[
 G3     1        s     d  ==
 Ef3    1        s     d  ]]
@@ -1019,8 +1027,8 @@ Bf2    1        s     d  ==
 D3     1        s     d  ==
 Bf2    1        s     d  ]]
 measure 28
-f2              9 f 
-rest   1        s 
+f2              9 f
+rest   1        s
 C3     1        s     u  [[
 f1              6
 Ef3    1        s f   u  ==
@@ -1383,12 +1391,12 @@ measure 26
 Ef4    2        e     u  [
 D4     2        e     u  =
 C4     3        e.    u  =
-F4     1        s     u  ]\ 
-& 
-Rhythm of preceding beam (adding dotted rhythm in second half) modified to 
-conform with vn1 concertino.  Cf also m.5 in both parts.  
-& 
-D4     2        e     u 
+F4     1        s     u  ]\
+&
+Rhythm of preceding beam (adding dotted rhythm in second half) modified to
+conform with vn1 concertino.  Cf also m.5 in both parts.
+&
+D4     2        e     u
 Bf4    4        q     d
 Af4    2-       e f   u        -
 measure 27
@@ -1994,7 +2002,7 @@ rest   2        q
 f1              7f
 Bf2    1        e     d  [
 Ef3    1        e f   d  =
-f1              4f 
+f1              4f
 Bf3    1        e     d  =
 f1              3
 Bf2    1        e     d  ]
@@ -2083,7 +2091,7 @@ G3     1        e     d  =
 G3     1        e     d  ]
 measure 12
 f1              6
-E3     1        e n   d  [      + 
+E3     1        e n   d  [      +
 E3     1        e     d  =
 E3     1        e     d  =
 E3     1        e     d  ]

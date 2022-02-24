@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata III
 @@@OTL: Grave
+@@@OPS: 3
+@@@ONM: 3
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n03-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n03-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -253,7 +261,7 @@ Bf2    1        e     u
 measure 6
 f2              5 4
 F3     2        q     d
-f2              b 3 
+f2              b 3
 F#3    2        q #   d
 f1              9
 G3     1        e     u  [

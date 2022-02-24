@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata VI
 @@@OTL: Grave
+@@@OPS: 1
+@@@ONM: 6
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n06-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n06-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:d24fa42969bcffa9be0c426c0496e3b6]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:1
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 1]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Grave 
+$  K:2   Q:4   T:1/1  C:4  D:Grave
 F#5    4        q     d
 F#5    4        q     d
 F#5    4        q     d
@@ -106,7 +114,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:28957a67183b8dd9b8b8c60919dfe385]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:1
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 1]
 Violino 2
 
@@ -116,7 +124,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Grave 
+$  K:2   Q:4   T:1/1  C:4  D:Grave
 D5     4        q     d
 C#5    4        q     d
 D5     6        q.    d
@@ -192,7 +200,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:1d3877e1da7c0b87f2ccaca19813df0b]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:1
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 1]
 Violone
 
@@ -201,7 +209,7 @@ sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:1/1  C:22  D:Grave 
+$  K:2   Q:2   T:1/1  C:22  D:Grave
 B3     2        q     d
 A#3    2        q #   d
 B3     3        q.    d
@@ -269,7 +277,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:b7e433f1210631c4471da0d48b8969fd]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:1
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 1]
 Organo
 
@@ -278,7 +286,7 @@ sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Grave 
+$  K:2   Q:4   T:1/1  C:22  D:Grave
 B3     4        q     d
 f1              6
 A#3    4        q #   d
@@ -416,7 +424,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:c240b81d650f257a3b611182ea4774c4]
 08/23/93 S. Rasmussen
 WK#:1,6       MV#:1
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VI 
+Church Sonatas, Op. 1: Sonata VI
 [Movement 1]
 Violone  e  Organo
 
@@ -425,7 +433,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  I:2   D:Grave 
+$  K:2   Q:4   T:1/1  C:22  I:2   D:Grave
 B3     4        q     u
 A#3    4        q #   u
 back   8

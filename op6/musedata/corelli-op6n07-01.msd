@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VII
 @@@OTL: Vivace
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 7
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n07-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n07-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -211,7 +219,7 @@ P   C33:y-10
 rest   4        q
 f1              6
 G#3    4        q #   d         f
-P    C33:y-5 
+P    C33:y-5
 rest   4        q
 measure 6
 A3     4        q     d         p

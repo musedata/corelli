@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata XI
-@@@OTL: Preludio 
+@@@OTL: Preludio
+@@@OPS: 2
+@@@ONM: 11
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n11-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n11-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:00afdbc1ca738776c1f32b2c6272afe6]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Preludio 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata XI
+Preludio
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:4  D:Adagio 
+$  K:-2   Q:4   T:1/1  C:4  D:Adagio
 Bf4    6        q.    d
 rest   1        s
 Ef5    1        s     d
@@ -119,9 +127,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:2867c4a1fc4f180a23d4ecb512bae6ed]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Preludio 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata XI
+Preludio
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -129,7 +137,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:4  D:Adagio 
+$  K:-2   Q:4   T:1/1  C:4  D:Adagio
 G4     6        q.    u
 rest   1        s
 G4     1        s     u
@@ -216,16 +224,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:30ec823ec1a1951ef165133fa128be04]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Preludio 
-Violone 
+Chamber Sonatas, Op. 2: Sonata XI
+Preludio
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:22  D:Adagio 
+$  K:-2   Q:4   T:1/1  C:22  D:Adagio
 Ef3    6        q.    d
 rest   1        s
 G2     1        s     u
@@ -313,16 +321,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:f77e8ea8ffa80a7a4162510df41d48ae]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Preludio 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata XI
+Preludio
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:22  D:Adagio 
+$  K:-2   Q:4   T:1/1  C:22  D:Adagio
 Ef3    6        q.    d
 rest   1        s
 f1              6
@@ -475,8 +483,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:4821d95f353084d845b57887e5f7a256]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Preludio 
+Chamber Sonatas, Op. 2: Sonata XI
+Preludio
 Violone e Cembalo
 
 Group memberships: score
@@ -484,7 +492,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:22  D:Adagio 
+$  K:-2   Q:4   T:1/1  C:22  D:Adagio
 Ef3    6        q.    d
 rest   1        s
 f1              6

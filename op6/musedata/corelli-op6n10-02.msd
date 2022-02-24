@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto II
 @@@OTL: Allemanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 10
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no10
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n10-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n10-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -161,8 +169,8 @@ D4     2        e     u  =
 F#4    2        e #   u  ]
 G3     8        h     u
 mheavy4 16      :|:
-P  C1:] 
-B4     2        e     u  [ 
+P  C1:]
+B4     2        e     u  [
 G4     2        e     u  =
 B4     2        e     u  =
 D5     2        e     u  ]

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata IX
 @@@OTL: Allegro
+@@@OPS: 1
+@@@ONM: 9
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n09-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n09-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:75073d80f30d59fc8b33231372470b2e]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:1  13
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 1]
 Violino 1
 
@@ -23,9 +31,9 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:4  D:Allegro 
-P C0:t4 
-rest   2        q 
+$  K:0   Q:2   T:1/1  C:4  D:Allegro
+P C0:t4
+rest   2        q
 rest   1        e
 G4     1        e     u
 G4     4        h     u
@@ -146,7 +154,7 @@ measure 28
 S   C0:W0
 G5     2        q     d
 rest   2        q
-$  D:Adagio e piano 
+$  D:Adagio e piano
 B4     2        q     d
 measure 29
 rest   2        q
@@ -159,7 +167,7 @@ $  Q:3   T:1/1  D:Allegro
 S   C0:W0
 rest  12
 measure 32
-rest   1        e  3           * 
+rest   1        e  3           *
 A3     1        e  3  u  [
 D4     1        e  3  u  ]     !
 F#4    1        e #3  u  [     *
@@ -175,50 +183,50 @@ measure 33
 D5     6        h     d
 rest   6        h
 measure 34
-rest   1        e  3 
-D4     1        e  3  u  [ 
-F#4    1        e #3  u  ] 
-A4     1        e  3  u  [ 
-F#4    1        e  3  u  = 
-A4     1        e  3  u  ] 
-D5     1        e  3  u  [ 
-F#4    1        e  3  u  = 
-A4     1        e  3  u  ] 
-D5     1        e  3  d  [ 
-A4     1        e  3  d  = 
-D5     1        e  3  d  ] 
+rest   1        e  3
+D4     1        e  3  u  [
+F#4    1        e #3  u  ]
+A4     1        e  3  u  [
+F#4    1        e  3  u  =
+A4     1        e  3  u  ]
+D5     1        e  3  u  [
+F#4    1        e  3  u  =
+A4     1        e  3  u  ]
+D5     1        e  3  d  [
+A4     1        e  3  d  =
+D5     1        e  3  d  ]
 measure 35
 F#5    6        h #   d
 rest   6        h
 measure 36
-rest   1        e  3 
-F#4    1        e #3  u  [ 
-A4     1        e  3  u  ] 
-D5     1        e  3  d  [ 
-A4     1        e  3  d  = 
-D5     1        e  3  d  ] 
-F#5    1        e #3  d  [ 
-A4     1        e  3  d  = 
-D5     1        e  3  d  ] 
-F#5    1        e  3  d  [ 
-D5     1        e  3  d  = 
-F#5    1        e  3  d  ] 
+rest   1        e  3
+F#4    1        e #3  u  [
+A4     1        e  3  u  ]
+D5     1        e  3  d  [
+A4     1        e  3  d  =
+D5     1        e  3  d  ]
+F#5    1        e #3  d  [
+A4     1        e  3  d  =
+D5     1        e  3  d  ]
+F#5    1        e  3  d  [
+D5     1        e  3  d  =
+F#5    1        e  3  d  ]
 measure 37
 A5     6        h     d
 rest   6        h
 measure 38
-rest   1        e  3 
-A4     1        e  3  d  [ 
-D5     1        e  3  d  ] 
-F#5    1        e #3  d  [ 
-D5     1        e  3  d  = 
-F#5    1        e  3  d  ] 
-A5     1        e  3  d  [ 
-F#5    1        e  3  d  = 
-D5     1        e  3  d  ] 
-A4     1        e  3  u  [ 
-F#4    1        e #3  u  = 
-A4     1        e  3  u  ] 
+rest   1        e  3
+A4     1        e  3  d  [
+D5     1        e  3  d  ]
+F#5    1        e #3  d  [
+D5     1        e  3  d  =
+F#5    1        e  3  d  ]
+A5     1        e  3  d  [
+F#5    1        e  3  d  =
+D5     1        e  3  d  ]
+A4     1        e  3  u  [
+F#4    1        e #3  u  =
+A4     1        e  3  u  ]
 measure 39
 S   C0:W0
 D4     6        h     u
@@ -237,7 +245,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:e379a776179c6c38eab8beb0ac626c25]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:1  13
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 1]
 Violino 2
 
@@ -247,11 +255,11 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:3   T:1/1  C:4  D:Allegro 
+$  K:0   Q:3   T:1/1  C:4  D:Allegro
 rest  12
 measure 2
-P  C0:t1 
-rest   1        e  3           * 
+P  C0:t1
+rest   1        e  3           *
 D5     1        e  3  d  [
 B4     1        e  3  d  ]     !
 G4     1        e  3  u  [     *
@@ -267,50 +275,50 @@ measure 3
 G3     6        h     u
 rest   6        h
 measure 4
-rest   1        e  3 
-G5     1        e  3  d  [ 
-D5     1        e  3  d  ] 
-B4     1        e  3  d  [ 
-D5     1        e  3  d  = 
-B4     1        e  3  d  ] 
-G4     1        e  3  u  [ 
-B4     1        e  3  u  = 
-G4     1        e  3  u  ] 
-D4     1        e  3  u  [ 
-G4     1        e  3  u  = 
-D4     1        e  3  u  ] 
+rest   1        e  3
+G5     1        e  3  d  [
+D5     1        e  3  d  ]
+B4     1        e  3  d  [
+D5     1        e  3  d  =
+B4     1        e  3  d  ]
+G4     1        e  3  u  [
+B4     1        e  3  u  =
+G4     1        e  3  u  ]
+D4     1        e  3  u  [
+G4     1        e  3  u  =
+D4     1        e  3  u  ]
 measure 5
 B3     6        h     u
 rest   6        h
 measure 6
-rest   1        e  3 
-B5     1        e  3  d  [ 
-G5     1        e  3  d  ] 
-D5     1        e  3  d  [ 
-G5     1        e  3  d  = 
-D5     1        e  3  d  ] 
-B4     1        e  3  d  [ 
-D5     1        e  3  d  = 
-B4     1        e  3  d  ] 
-G4     1        e  3  u  [ 
-B4     1        e  3  u  = 
-G4     1        e  3  u  ] 
+rest   1        e  3
+B5     1        e  3  d  [
+G5     1        e  3  d  ]
+D5     1        e  3  d  [
+G5     1        e  3  d  =
+D5     1        e  3  d  ]
+B4     1        e  3  d  [
+D5     1        e  3  d  =
+B4     1        e  3  d  ]
+G4     1        e  3  u  [
+B4     1        e  3  u  =
+G4     1        e  3  u  ]
 measure 7
 D4     6        h     u
 rest   6        h
 measure 8
-rest   1        e  3 
-D5     1        e  3  d  [ 
-B4     1        e  3  d  ] 
-G4     1        e  3  u  [ 
-B4     1        e  3  u  = 
-G4     1        e  3  u  ] 
-D4     1        e  3  u  [ 
-G4     1        e  3  u  = 
-D4     1        e  3  u  ] 
-B3     1        e  3  u  [ 
-D4     1        e  3  u  = 
-B3     1        e  3  u  ] 
+rest   1        e  3
+D5     1        e  3  d  [
+B4     1        e  3  d  ]
+G4     1        e  3  u  [
+B4     1        e  3  u  =
+G4     1        e  3  u  ]
+D4     1        e  3  u  [
+G4     1        e  3  u  =
+D4     1        e  3  u  ]
+B3     1        e  3  u  [
+D4     1        e  3  u  =
+B3     1        e  3  u  ]
 measure 9
 G3     6        h     u
 rest   6        h              F
@@ -403,7 +411,7 @@ A4     1        e     u
 measure 28
 B4     2        q     d
 rest   2        q
-$  D:Adagio e piano 
+$  D:Adagio e piano
 D5     2        q     d
 measure 29
 rest   2        q
@@ -456,7 +464,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:4d996576e3a46e9c4fa11f1c58e967d1]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:1  13
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 1]
 Violone, o Arcileuto
 
@@ -466,7 +474,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Allegro 
+$  K:0   Q:2   T:1/1  C:22  D:Allegro
 rest   2        q
 rest   1        e
 G2     1        e     u
@@ -563,7 +571,7 @@ D2     2        q     u
 measure 28
 G2     2        q     u
 rest   2        q
-$  D:Adagio e piano 
+$  D:Adagio e piano
 G3     2        q     d
 measure 29
 rest   2        q
@@ -619,7 +627,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:07537b2d05af4f92bdbc67fab022457e]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:1  13
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 1]
 Organo
 
@@ -629,7 +637,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:1/1  C:22  D:Allegro 
+$  K:0   Q:1   T:1/1  C:22  D:Allegro
 G2     4-       w     u        -
 measure 2
 G2     4-       w     u        -
@@ -741,7 +749,7 @@ D2     2        q     u
 measure 28
 G2     2        q     u
 rest   2        q
-$  D:Adagio e piano 
+$  D:Adagio e piano
 G3     2        q     d
 measure 29
 rest   2        q

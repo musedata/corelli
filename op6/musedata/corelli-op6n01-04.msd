@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto I
 @@@OTL: Largo
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 1
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n01-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n01-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -164,7 +172,7 @@ B4     2        e     d  [
 A#4    2        e #   d  =     (
 D5     2        e     d  ]     )
 measure 15
-C#5    2        e     d  [     + 
+C#5    2        e     d  [     +
 F#5    2        e     d  =
 B4     2        e     d  =
 B4     2        e     d  ]
@@ -599,23 +607,23 @@ measure 7
 B2     1        e     d  [
 B3     1        e     d  =
 f1              4
-P  C1:y10 
-F#4    1        e     d  = 
+P  C1:y10
+F#4    1        e     d  =
 f1              3
-P  C1:y10 
-F#3    1        e     d  ] 
+P  C1:y10
+F#3    1        e     d  ]
 f1              7
-P  C1:y10 
-G3     1        e     d  [ 
+P  C1:y10
+G3     1        e     d  [
 f1              6
-P  C1:y10 
-G2     1        e     d  = 
-f1              4 
-P  C1:y10 
-D3     1        e     d  = 
+P  C1:y10
+G2     1        e     d  =
+f1              4
+P  C1:y10
+D3     1        e     d  =
 f1              3
-P  C1:y10 
-D4     1        e     d  ] 
+P  C1:y10
+D4     1        e     d  ]
 measure 8
 f2              6 5
 G#3    1        e #   d  [
@@ -656,7 +664,7 @@ f2              8 6
 A3     1        e     d  =
 f2              9 7
 B3     1        e     d  =
-f2              8 6/ 
+f2              8 6/
 B2     1        e     d  ]
 f2              7 #
 C#3    1        e     d  [
@@ -683,11 +691,11 @@ f1              7
 A3     1        e     d  [
 D3     1        e     d  =
 f1              4
-P  C1:y10 
-A3     1        e     d  = 
+P  C1:y10
+A3     1        e     d  =
 f1              3
-P  C1:y10 
-A2     1        e     d  ] 
+P  C1:y10
+A2     1        e     d  ]
 measure 13
 D3     1        e     d  [
 D4     1        e     d  =
@@ -769,22 +777,22 @@ B3     1        e     d  [
 f1              6
 G3     1        e     d  =
 f2              9 n
-P  C1:y10 
-A3     1        e     d  = 
+P  C1:y10
+A3     1        e     d  =
 f1              8
-P  C1:y10 
-A2     1        e     d  ]      f 
+P  C1:y10
+A2     1        e     d  ]      f
 P   C33:Y0
 f2              7 #
-P  C1:y10 
-B2     1        e     d  [ 
+P  C1:y10
+B2     1        e     d  [
 E3     1        e     d  =
 f1              4
-P  C1:y10 
-B3     1        e     d  = 
+P  C1:y10
+B3     1        e     d  =
 f1              #
-P  C1:y10 
-B2     1        e     d  ] 
+P  C1:y10
+B2     1        e     d  ]
 measure 19
 f1              #
 E3     1        e     d  [
@@ -824,8 +832,8 @@ rest   2        q
 f1              7
 G3     1        e     u  [
 G2     1        e     u  ]
-f1              (6) 
-rest   2        q 
+f1              (6)
+rest   2        q
 measure 23
 f1              #
 F#3    1        e     u  [
@@ -875,11 +883,11 @@ F#3    1        e     d  ]
 B3     1        e     d  [
 B2     1        e     d  =
 f1              4
-P  C1:y15 
-F#3    1        e     d  = 
+P  C1:y15
+F#3    1        e     d  =
 f1              #
-P  C1:y15 
-F#2    1        e     d  ] 
+P  C1:y15
+F#2    1        e     d  ]
 measure 27
 rest   1        e
 B2     1        e     u  [
@@ -1560,11 +1568,11 @@ f1              7
 A3     1        e     d  [
 D3     1        e     d  =
 f1              4
-P  C1:y10 
-A3     1        e     d  = 
+P  C1:y10
+A3     1        e     d  =
 f1              3
-P  C1:y10 
-A2     1        e     d  ] 
+P  C1:y10
+A2     1        e     d  ]
 measure 13
 D3     2        q     d
 rest   1        e
@@ -1622,21 +1630,21 @@ rest   1        e
 f1              6
 G3     1        e     d  [
 f2              9 n
-P  C1:y10 
-A3     1        e     d  = 
+P  C1:y10
+A3     1        e     d  =
 f1              8
-P  C1:y10 
-A2     1        e     d  ] 
+P  C1:y10
+A2     1        e     d  ]
 f2              7 #
-P  C1:y10 
-B2     1        e     d  [ 
+P  C1:y10
+B2     1        e     d  [
 E3     1        e     d  =
 f1              4
-P  C1:y10 
-B3     1        e     d  = 
+P  C1:y10
+B3     1        e     d  =
 f1              #
-P  C1:y10 
-B2     1        e     d  ] 
+P  C1:y10
+B2     1        e     d  ]
 measure 19
 f1              #
 E3     2        q     d
@@ -1647,14 +1655,14 @@ f3              6/ 4+ 3n
 B3     1        e     d  [
 F#3    1        e     d  =
 f1              4
-P  C1:y10 
-C#4    1        e     d  = 
+P  C1:y10
+C#4    1        e     d  =
 f1              #
-P  C1:y10 
-C#3    1        e     d  ] 
+P  C1:y10
+C#3    1        e     d  ]
 f1              #
-P  C1:y10 
-F#3    2        q     d 
+P  C1:y10
+F#3    2        q     d
 rest   2        q
 measure 21
 rest   4        h
@@ -1669,8 +1677,8 @@ rest   2        q
 f1              7
 G3     1        e     u  [
 G2     1        e     u  ]
-f1              (6) 
-rest   2        q 
+f1              (6)
+rest   2        q
 measure 23
 f1              #
 F#3    2        q     d
@@ -1706,11 +1714,11 @@ F#3    1        e     d  ]
 B3     1        e     d  [
 B2     1        e     d  =
 f1              4
-P  C1:y20 
-F#3    1        e     d  = 
+P  C1:y20
+F#3    1        e     d  =
 f1              #
-P  C1:y20 
-F#2    1        e     d  ] 
+P  C1:y20
+F#2    1        e     d  ]
 measure 27
 rest   1        e
 B2     1        e     u  [

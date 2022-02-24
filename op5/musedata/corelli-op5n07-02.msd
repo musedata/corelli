@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata VII
 @@@OTL: Corrente
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 7
+@@@OMV: 2
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n07-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n07-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -564,7 +572,7 @@ Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in D minor
 Corrente
 Violino solo (2nd voice)
-2 57 
+2 57
 Group memberships: data
 data: part 2 of 3
 $  K:0   Q:2   T:3/4  C:4  D:Allegro
@@ -604,9 +612,9 @@ measure 16
 rest   6
 measure 17
 rest   2        q
-C4     4        h     d 
+C4     4        h     d
 measure 18
-C4     3        q.    d 
+C4     3        q.    d
 rest   1        e
 rest   2        q
 measure 19
@@ -626,12 +634,12 @@ rest   6
 measure 26
 rest   6
 measure 27
-G#4    3        q.#   d 
+G#4    3        q.#   d
 rest   1        e
 rest   2        q
 measure 28
 rest   2        q
-E4     4        h     d 
+E4     4        h     d
 measure 29
 rest   6
 measure 30
@@ -639,14 +647,14 @@ rest   6
 measure 31
 rest   6
 measure 32
-G#4    3        q.#   d 
+G#4    3        q.#   d
 rest   1        e
 rest   2        q
 measure 33
 rest   2        q
-E4     4        h     d 
+E4     4        h     d
 measure 34
-A3     4        h     d 
+A3     4        h     d
 rest   2        q
 measure 35
 rest   6
@@ -680,7 +688,7 @@ measure 49
 rest   2        q
 C5     4        h     d
 measure 50
-A4     3        q.    d 
+A4     3        q.    d
 rest   1        e
 rest   2        q
 measure 51
@@ -722,21 +730,21 @@ rest   6
 measure 69
 rest   6
 measure 70
-A3     3        q.    d 
+A3     3        q.    d
 rest   1        e
 rest   2        q
 measure 71
 rest   2        q
-A3     4        h     d 
+A3     4        h     d
 measure 72
-D4     3        q.    d 
+D4     3        q.    d
 rest   1        e
 rest   2        q
 measure 73
 rest   2        q
-A3     4        h     d 
+A3     4        h     d
 measure 74
-D4     4        h     d 
+D4     4        h     d
 mheavy2
 /END
 /eof

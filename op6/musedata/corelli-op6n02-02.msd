@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto II
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 2
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n02-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n02-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -21,7 +29,7 @@ Group memberships: score
 score: part 1 of 7
 $  K:-1   Q:4   T:1/1  C:4  D:Allegro
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 C5     8        h     d
 D5     8        h     d
 measure 2
@@ -55,7 +63,7 @@ C5     2        e     d  =
 Bf4    2        e     d  ]
 measure 7
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 A4     4        q     u
 F4     4        q     u
 F5     2        e     d  [
@@ -166,7 +174,7 @@ G4     8        h     u
 measure 28
 F4     8        h     u
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F5     8        h     d
 measure 29
 G5     6        q.    d        (t
@@ -186,7 +194,7 @@ A5     8        h     d
 measure 31
 G5     8        h     d
 *               D +     Tutti
-P  C25:f31 
+P  C25:f31
 A5     2        e     d  [
 G5     2        e     d  =
 F5     2        e     d  =
@@ -709,7 +717,7 @@ G3     1        e     d  [
 G3     1        e     d  =
 f1              5
 A3     1        e     d  =
-f1              (6) 
+f1              (6)
 E3     1        e     d  ]
 f2              6 5
 F3     1        e     d  [
@@ -727,8 +735,8 @@ E4     2        q     d
 measure 16
 f1              4
 F4     2        q     d
-f1              (3) 
-rest   2        q 
+f1              (3)
+rest   2        q
 f1     2        4
 f1              3
 C4     4        h     d

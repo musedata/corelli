@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata XII
 @@@OTL: Giga
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 12
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no12
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n12-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n12-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -20,10 +28,10 @@ Violino 1
 Group memberships: score
 score: part 1 of 3
 $  K:2   Q:3   T:12/8  C:4  D:Allegro
-& 
-Q parameter changed from 2 to 3 for score-printing purposes.  
-& 
-F#5    1        e     d  [     ( 
+&
+Q parameter changed from 2 to 3 for score-printing purposes.
+&
+F#5    1        e     d  [     (
 D5     1        e     d  =     )
 B4     1        e     d  ]
 F#4    1        e     u  [     (
@@ -113,7 +121,7 @@ E5     2        q     d
 F#5    1        e     d
 F#5    6        h.    d
 mheavy4 9       :|:
-A5     1        e     d  [     ( 
+A5     1        e     d  [     (
 F#5    1        e     d  =     )
 G5     1        e     d  ]
 A5     1        e     d  [     (

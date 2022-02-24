@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto III
 @@@OTL: Allemanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 11
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n11-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n11-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -114,8 +122,8 @@ F4     2        q     u
 E4     2        q     u
 F4     4        h     u
 mheavy4 16      :|:
-P  C1:] 
-A4     2        q     u 
+P  C1:]
+A4     2        q     u
 C5     2        q     d
 G4     2        q     u
 rest   1        e
@@ -1489,7 +1497,7 @@ measure 26
 C#4    2        e #   u  [
 A3     2        e     u  ]
 D4     8        h     u
-C#4    4        q     u         + 
+C#4    4        q     u         +
 measure 27
 D4     8        h     u
 rest   8        h

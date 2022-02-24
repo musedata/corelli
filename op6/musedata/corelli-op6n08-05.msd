@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VIII
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 8
+@@@OMV: 6
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n08-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n08-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -19,11 +27,11 @@ Violino 1 concertino
 2 15
 Group memberships: score
 score: part 1 of 7
-& 
+&
 This movement was not set separately, but combined with the finale for the sake
 of score-making (non-terminated ties across the final bar line in last 4 parts).
-& 
-$  K:-1   Q:2   T:0/0  C:4  D:Allegro 
+&
+$  K:-1   Q:2   T:0/0  C:4  D:Allegro
 G5     2        q     d
 F#5    2        q #   d
 measure 1
@@ -1129,11 +1137,11 @@ Violino 1 concerto grosso
 2 15
 Group memberships: score
 score: part 4 of 7
-& 
+&
 This movement was not set separately, but combined with the finale for the sake
 of score-making (non-terminated ties across the final bar line in last 4 parts).
-& 
-$  K:-1   Q:2   T:0/0  C:4  D:Allegro 
+&
+$  K:-1   Q:2   T:0/0  C:4  D:Allegro
 rest   4        h
 measure 1
 rest   8

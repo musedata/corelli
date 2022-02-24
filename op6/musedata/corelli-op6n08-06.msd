@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VIII
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 8
+@@@OMV: 5-6
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n08-06.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n08-06.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -11,7 +19,7 @@ FILENAME = 01
 
 
 06/21/10 E. Correia
-WK#:6,8       MV#:5-6 
+WK#:6,8       MV#:5-6
 Augener/Chrysander 1888-1891
 Concerto VIII
 V.
@@ -375,9 +383,9 @@ G4     4        h     u
 F#4    2        q     u
 measure 68
 G4     6        h.    u
-mdouble 69 
-P   C1:] 
-$  K:0   Q:2   T:12/8  C:4  D:Largo 
+mdouble 69
+P   C1:]
+$  K:0   Q:2   T:12/8  C:4  D:Largo
 B4     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -387,7 +395,7 @@ D5     1        e     d         )
 E5     1        e     d  [      (
 D5     1        e     d  =
 C5     1        e     d  ]      )
-measure 70 
+measure 70
 D5     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -397,7 +405,7 @@ D5     1        e     d  =
 B4     1        e     d  ]      )
 A4     2        q     u
 D5     1        e     d
-measure 71 
+measure 71
 B4     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -406,7 +414,7 @@ F#4    2        q #   u         (
 G4     1        e     u         )
 A4     2        q     u         (
 F#4    1        e     u         )
-measure 72 
+measure 72
 B4     2        q     d         (
 A4     1        e     u         )
 B4     1        e     u  [      (
@@ -416,7 +424,7 @@ A4     2        q     u         (
 G4     1        e     u         )
 A4     2        q     u         (
 F#4    1        e #   u         )
-measure 73 
+measure 73
 G4     1        e     u  [      (
 A4     1        e     u  =
 F#4    1        e #   u  ]      )
@@ -426,17 +434,17 @@ F#4    2        q     u         (
 G4     1        e     u         )
 A4     2        q     u         (
 F#4    1        e     u         )
-measure 74 
+measure 74
 G5     6        h.    d
 G5     6        h.    d
-measure 75 
+measure 75
 G5     6        h.    d
 G5     3        q.    d
 F#5    3        q.#   d
-measure 76 
+measure 76
 G5     3        q.    d
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 rest   1        e
 rest   1        e
 B5     1        e     d
@@ -445,7 +453,7 @@ B5     1        e     d  =
 A5     1        e     d  ]      )
 D6     2        q     d
 D5     1        e     d
-measure 77 
+measure 77
 G5     2        q     d
 G4     1        e     u
 rest   1        e
@@ -456,7 +464,7 @@ G5     1        e     d  =
 F#5    1        e #   d  ]      )
 B5     2        q     d
 B4     1        e     d
-measure 78 
+measure 78
 E5     2        q     d
 E4     1        e     u
 rest   1        e
@@ -467,12 +475,12 @@ E5     1        e     d  =
 D5     1        e     d  ]      )
 G5     2        q     d
 G5     1        e     d
-measure 79 
+measure 79
 G5     3        q.    d
 rest   1        e
 rest   1        e
 *               D +     [Tutti]
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 F#5    1        e #   d
 B4     1        e     d  [      (
 C#5    1        e #   d  =
@@ -480,7 +488,7 @@ D5     1        e     d  ]      )
 A4     1        e     d  [      (
 D5     1        e     d  =
 C#5    1        e     d  ]      )
-measure 80 
+measure 80
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -490,7 +498,7 @@ A4     1        e     u         )
 B4     1        e     u  [      (
 A4     1        e     u  =
 G4     1        e     u  ]      )
-measure 81 
+measure 81
 A4     2        q     u
 F#4    1        e #   u
 rest   1        e
@@ -501,7 +509,7 @@ D5     1        e     d         )
 E5     1        e     d  [      (
 D5     1        e     d  =
 C5     1        e     d  ]      )
-measure 82 
+measure 82
 D5     2        q     d
 B4     1        e     d
 rest   1        e
@@ -511,27 +519,27 @@ G5     2        q     d         (
 C5     1        e     d         )
 F#5    2        q #   d         (
 B4     1        e     d         )
-measure 83 
+measure 83
 E5     2        q     d         (
 A4     1        e     u         )
 D5     2        q     d         (
 G4     1        e     u         )
 C5     3        q.    d
 B4     3        q.    d
-measure 84 
+measure 84
 A4     3        q.    u
 rest   1        e
 rest   1        e
 D6     1        e     d
 C6     6        h.    d
-measure 85 
+measure 85
 B5     3        q.    d
 Bf5    3        q.f   d
 A5     6        h.    d
-measure 86 
+measure 86
 A5     6        h.    d
 A5     6        h.    d
-measure 87 
+measure 87
 A5     3        q.    d
 rest   1        e
 rest   1        e
@@ -540,7 +548,7 @@ C5     1        e     d  [      (
 D5     1        e     d  =
 B4     1        e     d  ]      )
 A4     3        q.    u
-measure 88 
+measure 88
 G4     2        q     u
 D5     1        e     d
 G5     3        q.    d
@@ -548,7 +556,7 @@ rest   1        e
 rest   1        e
 E5     1        e     d
 A5     3        q.    d
-measure 89 
+measure 89
 rest   1        e
 rest   1        e
 F#5    1        e #   d
@@ -557,7 +565,7 @@ rest   1        e
 rest   1        e
 G5     1        e     d
 C6     3        q.    d
-measure 90 
+measure 90
 rest   1        e
 rest   1        e
 B5     1        e     d
@@ -568,7 +576,7 @@ rest   1        e
 G5     1        e     d
 F#5    2        q #   d         (
 B5     1        e     d         )
-measure 91 
+measure 91
 rest   1        e
 rest   1        e
 E5     1        e     d
@@ -578,7 +586,7 @@ C5     3        q.    d
 rest   1        e
 rest   1        e
 B4     1        e     d
-measure 92 
+measure 92
 E4     1        e     u  [      (
 F#4    1        e #   u  =
 G4     1        e     u  ]      )
@@ -586,15 +594,15 @@ D4     2        q     u
 F#4    1        e     u
 G4     3        q.    u
 E5     3        q.    d
-measure 93 
-rest   2        q               F 
-P    C33:x-2 
-rest   1        e 
+measure 93
+rest   2        q               F
+P    C33:x-2
+rest   1        e
 D5     3        q.    d         p
 P    C33:Y60
 rest   6        h               F
 P    C33:x2
-measure 94 
+measure 94
 C5     2        q     d         f
 P   C33:Y69
 B4     1        e     d
@@ -603,7 +611,7 @@ G4     3        q.    u
 rest   1        e
 rest   1        e
 B4     1        e     d
-measure 95 
+measure 95
 B4     3        q.    d
 B4     3        q.    d
 B4     3        q.    d
@@ -611,7 +619,7 @@ rest   1        e
 rest   1        e
 C5     1        e     d         p
 P    C33:Y64
-measure 96 
+measure 96
 B4     3        q.    d
 C5     3        q.    d
 B4     3        q.    d
@@ -619,16 +627,16 @@ rest   1        e
 rest   1        e
 D5     1        e     d         f
 P   C33:Y63
-measure 97 
+measure 97
 C#5    3        q.#   d
 D5     3        q.    d
 C#5    3        q.    d
 rest   1        e
 rest   1        e
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    1        e #   d
-measure 98 
+measure 98
 F#5    2        q #   d         (
 E5     1        e     d         )
 E5     2        q     d
@@ -638,30 +646,30 @@ D5     1        e     d         )
 rest   1        e
 rest   1        e
 D5     1        e     d
-measure 99 
+measure 99
 D5     2        q     d         (
 C5     1        e     d         )+
 C5     2        q     d
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 B4     1        e     d
 A#4    2        q #   u
 F#4    1        e #   u
 B4     3-       q.    d        -
-measure 100 
+measure 100
 B4     3        q.    d
 A#4    3        q.#   u
 B4     2        q     d
 F#5    1        e #   d
 B5     3-       q.    d        -
-measure 101 
+measure 101
 B5     2        q     d
 F#5    1        e #   d
 B5     3-       q.    d        -
 B5     2        q     d
 F#5    1        e     d
 B5     3-       q.    d        -
-measure 102 
+measure 102
 B5     2        q     d
 B4     1        e     d
 E5     3-       q.    d        -
@@ -669,11 +677,11 @@ E5     2        q     d
 F#5    1        e #   d
 D5     2        q     d
 C#5    1        e #   d
-measure 103 
+measure 103
 D5     3        q.    d
 C#5    3        q.#   d
 B4     6        h.    d
-measure 104 
+measure 104
 B4     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -683,7 +691,7 @@ D5     1        e     d         )
 E5     1        e     d  [      (
 D5     1        e     d  =
 C5     1        e     d  ]      )
-measure 105 
+measure 105
 D5     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -693,7 +701,7 @@ D5     1        e     d  =
 B4     1        e     d  ]      )
 A4     2        q     u
 D5     1        e     d
-measure 106 
+measure 106
 B4     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -702,7 +710,7 @@ F#4    2        q #   u         (
 G4     1        e     u         )
 A4     2        q     u         &1(
 F#4    1        e     u         &1)
-measure 107 
+measure 107
 B4     2        q     d         (
 A4     1        e     u         )
 B4     1        e     u  [      (
@@ -712,7 +720,7 @@ A4     2        q     u         (
 G4     1        e     u         )
 A4     2        q     u         (
 F#4    1        e #   u         )
-measure 108 
+measure 108
 G4     1        e     u  [      (
 A4     1        e     u  =
 F#4    1        e #   u  ]      )
@@ -722,17 +730,17 @@ F#4    2        q     u         (
 G4     1        e     u         )
 A4     2        q     u         (
 F#4    1        e     u         )
-measure 109 
+measure 109
 G5     6        h.    d
 G5     6        h.    d
-measure 110 
+measure 110
 G5     6        h.    d
 G5     3        q.    d
 F#5    3        q.#   d
-measure 111 
+measure 111
 G5     3        q.    d
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 rest   1        e
 rest   1        e
 B5     1        e     d
@@ -741,7 +749,7 @@ B5     1        e     d  =
 A5     1        e     d  ]      )
 D6     2        q     d
 D5     1        e     d
-measure 112 
+measure 112
 G5     2        q     d
 G4     1        e     u
 rest   1        e
@@ -752,7 +760,7 @@ G5     1        e     d  =
 F#5    1        e #   d  ]      &1)
 B5     2        q     d
 B4     1        e     d
-measure 113 
+measure 113
 E5     2        q     d
 E4     1        e     u
 rest   1        e
@@ -763,12 +771,12 @@ E5     1        e     d  =
 D5     1        e     d  ]      )
 G5     2        q     d
 G5     1        e     d
-measure 114 
+measure 114
 G5     3        q.    d
 rest   1        e
 rest   1        e
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    1        e #   d
 B4     1        e     d  [      (
 C#5    1        e #   d  =
@@ -776,17 +784,17 @@ D5     1        e     d  ]      )
 A4     1        e     d  [      (
 D5     1        e     d  =
 C#5    1        e     d  ]      )
-measure 115 
+measure 115
 D5    12-       w.    d        -
-measure 116 
+measure 116
 D5    12-       w.    d        -
-measure 117 
+measure 117
 D5     6-       h.    d        -
 D5     1        e     d  [
 C5     1        e     d  =
 B4     1        e     d  ]
 C5     3-       q.    d        -
-measure 118 
+measure 118
 C#5    1        e     d  [      (
 B4     1        e     d  =
 A4     1        e     d  ]      )
@@ -794,28 +802,28 @@ B4     3-       q.    d        -
 B4     2        q     d
 E4     1        e     u
 A4     3-       q.    u        -
-measure 119 
+measure 119
 A4     2        q     u
 D4     1        e     u
 G4     6        h.    u
 F#4    3        q.#   u         f
 P    C33:Y63
-measure 120 
+measure 120
 G4     6        h.    u
  G3    6        h.    u
 G4     6        h.    u
  G3    6        h.    u
-measure 121 
+measure 121
 G4     6        h.    u
  G3    6        h.    u
 G4     6        h.    u
  G3    6        h.    u
-measure 122 
+measure 122
 G4     6        h.    u
  G3    6        h.    u
 G4     6        h.    u
  G3    6        h.    u
-measure 123 
+measure 123
 F#4    3        q.#   u         p
 P    C33:Y58
 G4     3        q.    u
@@ -823,7 +831,7 @@ G4     3        q.    u
 rest   1        e
 rest   1        e
 F#4    1        e     u
-measure 124 
+measure 124
 G4     3        q.    u
 rest   2        q
 rest   1        e
@@ -831,7 +839,7 @@ A4     3        q.    u         pp
 P    C33:Y57
 rest   2        q
 rest   1        e
-measure 125 
+measure 125
 B4     3        q.    d
 rest   2        q
 rest   1        e
@@ -847,7 +855,7 @@ FILENAME = 02
 
 
 06/21/10 E. Correia
-WK#:6,8       MV#:5-6 
+WK#:6,8       MV#:5-6
 Augener/Chrysander 1888-1891
 Concerto VIII
 V.
@@ -1144,7 +1152,7 @@ Bf4    2        q     d
 A4     4        h     u
 measure 68
 G4     6        h.    u
-mdouble 69 
+mdouble 69
 $  K:0   Q:2   T:12/8  C:4  D:Largo
 G4     2        q     u         (
 A4     1        e     u         )
@@ -1155,7 +1163,7 @@ B4     1        e     d         )
 C5     1        e     d  [      (
 B4     1        e     d  =
 A4     1        e     d  ]      )
-measure 70 
+measure 70
 B4     2        q     d         (
 A4     1        e     u         )
 B4     2        q     d         (
@@ -1166,7 +1174,7 @@ G4     1        e     u  ]
 D4     1        e     u  [
 G4     1        e     u  =
 F#4    1        e     u  ]
-measure 71 
+measure 71
 G4     2        q     u         (
 A4     1        e     u         )
 B4     2        q     d         (
@@ -1175,7 +1183,7 @@ D4     2        q     u         (
 E4     1        e     u         )
 F#4    2        q #   u         (
 D4     1        e     u         )
-measure 72 
+measure 72
 G4     2        q     u         (
 F#4    1        e #   u         )
 G4     1        e     u  [      (
@@ -1185,7 +1193,7 @@ F#4    2        q     u         (
 E4     1        e     u         )
 F#4    2        q     u         (
 D4     1        e     u         )
-measure 73 
+measure 73
 B3     1        e     u  [      (
 C#4    1        e #   u  =
 D4     1        e     u  ]      )
@@ -1196,7 +1204,7 @@ D4     2        q     u         (
 E4     1        e     u         )
 F#4    2        q #   u         (
 D4     1        e     u         )
-measure 74 
+measure 74
 B4     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -1206,7 +1214,7 @@ D5     1        e     d         )
 E5     1        e     d  [      (
 D5     1        e     d  =
 C5     1        e     d  ]      )
-measure 75 
+measure 75
 D5     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -1216,7 +1224,7 @@ D5     1        e     d  =
 E5     1        e     d  ]      )
 A4     2        q     u
 D5     1        e     d
-measure 76 
+measure 76
 B4     3        q.    d
 rest   1        e
 rest   1        e
@@ -1225,7 +1233,7 @@ A5     3        q.    d
 rest   1        e
 rest   1        e
 D6     1        e     d
-measure 77 
+measure 77
 B5     2        q     d
 B4     1        e     d
 rest   1        e
@@ -1235,7 +1243,7 @@ F#5    3        q.#   d
 rest   1        e
 rest   1        e
 B5     1        e     d
-measure 78 
+measure 78
 G5     2        q     d
 G4     1        e     u
 rest   1        e
@@ -1245,7 +1253,7 @@ D5     3        q.    d
 rest   1        e
 rest   1        e
 E5     1        e     d
-measure 79 
+measure 79
 A4     3        q.    u
 rest   1        e
 rest   1        e
@@ -1254,7 +1262,7 @@ G5     1        e     d  [      (
 A5     1        e     d  =
 F#5    1        e #   d  ]      )
 E5     3        q.    d
-measure 80 
+measure 80
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -1264,7 +1272,7 @@ F#4    1        e     u         )
 G4     1        e     u  [      (
 F#4    1        e     u  =
 E4     1        e     u  ]      )
-measure 81 
+measure 81
 F#4    2        q #   u
 D4     1        e     u
 rest   1        e
@@ -1275,7 +1283,7 @@ B4     1        e     d         )
 C5     1        e     d  [      (
 B4     1        e     d  =
 A4     1        e     d  ]      )
-measure 82 
+measure 82
 B4     2        q     d
 G4     1        e     u
 rest   1        e
@@ -1286,7 +1294,7 @@ C5     1        e     d         )
 rest   1        e
 rest   1        e
 B4     1        e     d
-measure 83 
+measure 83
 B4     2        q     d         (
 A4     1        e     u         )
 rest   1        e
@@ -1295,22 +1303,22 @@ D4     1        e     u
 E4     2        q     u
 F#4    1        e #   u
 G4     3        q.    u
-measure 84 
+measure 84
 F#4    3        q.#   u
 rest   1        e
 rest   1        e
 B5     1        e     d
 B5     3        q.    d
 A5     3-       q.    d        -
-measure 85 
+measure 85
 A5     3        q.    d
 G5     6        h.    d
 G5     3-       q.    d        -
-measure 86 
+measure 86
 G5     3        q.    d
 G5     6        h.    d
 G5     3        q.    d
-measure 87 
+measure 87
 F#5    3        q.#   d
 rest   1        e
 rest   1        e
@@ -1320,7 +1328,7 @@ F#4    1        e #   u  =
 G4     1        e     u  ]      )
 G4     2        q     u
 F#4    1        e     u
-measure 88 
+measure 88
 G4     3        q.    u
 rest   1        e
 rest   1        e
@@ -1329,7 +1337,7 @@ E5     3        q.    d
 rest   1        e
 rest   1        e
 E5     1        e     d
-measure 89 
+measure 89
 F#5    3        q.#   d
 rest   1        e
 rest   1        e
@@ -1338,7 +1346,7 @@ G5     3        q.    d
 rest   1        e
 rest   1        e
 A5     1        e     d
-measure 90 
+measure 90
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -1348,7 +1356,7 @@ C5     1        e     d         )
 rest   1        e
 rest   1        e
 B4     1        e     d
-measure 91 
+measure 91
 E5     2        q     d         (
 A4     1        e     u         )
 rest   1        e
@@ -1358,7 +1366,7 @@ F#4    3        q.#   u
 rest   1        e
 rest   1        e
 D5     1        e     d
-measure 92 
+measure 92
 C5     1        e     d  [      (
 D5     1        e     d  =
 B4     1        e     d  ]      )
@@ -1366,7 +1374,7 @@ A4     2        q     u
 D5     1        e     d
 B4     3        q.    d
 G4     3        q.    u
-measure 93 
+measure 93
 rest   2        q               F
 P    C33:x-2
 rest   1        e
@@ -1374,7 +1382,7 @@ G4     3        q.    u         p
 P    C33:Y57
 rest   6        h               F
 P    C33:x2
-measure 94 
+measure 94
 F#4    2        q #   u         f
 P    C33:Y63
 G4     1        e     u
@@ -1384,7 +1392,7 @@ G4     3        q.    u
 rest   1        e
 rest   1        e
 G4     1        e     u
-measure 95 
+measure 95
 F#4    3        q.#   u
 G4     3        q.    u
 F#4    3        q.    u
@@ -1392,7 +1400,7 @@ rest   1        e
 rest   1        e
 E4     1        e     u         p
 P    C33:Y62
-measure 96 
+measure 96
 E4     3        q.    u
 E4     3        q.    u
 E4     3        q.    u
@@ -1400,21 +1408,21 @@ rest   1        e
 rest   1        e
 F#4    1        e #   u         f
 P    C33:Y63
-measure 97 
+measure 97
 F#4    3        q.#   u
 F#4    3        q.    u
 F#4    3        q.    u
 rest   1        e
 rest   1        e
 A#4    1        e #   u
-measure 98 
+measure 98
 B4     3        q.    d
 C#5    3        q.#   d
 F#4    3        q.#   u
 rest   1        e
 rest   1        e
 F#5    1        e #   d
-measure 99 
+measure 99
 G5     3        q.    d
 rest   1        e
 rest   1        e
@@ -1422,32 +1430,32 @@ G5     1        e     d
 F#5    3        q.#   d
 F#5    2        q     d
 G5     1        e     d
-measure 100 
+measure 100
 D5     3        q.    d
 C#5    3        q.#   d
 B4     3        q.    d
 rest   1        e
 rest   1        e
 F#5    1        e #   d
-measure 101 
+measure 101
 B5     3-       q.    d        -
 B5     2        q     d
 F#5    1        e #   d
 B5     3-       q.    d        -
 B5     2        q     d
 F#5    1        e     d
-measure 102 
+measure 102
 G5     3        q.    d
 rest   1        e
 rest   1        e
 G5     1        e     d
 A#4    3        q.#   u
 B4     3-       q.    d        -
-measure 103 
+measure 103
 B4     3        q.    d
 A#4    3        q.#   u
 B4     6        h.    d
-measure 104 
+measure 104
 G4     2        q     u         (
 A4     1        e     u         )
 B4     2        q     d         (
@@ -1457,7 +1465,7 @@ B4     1        e     d         )
 C5     1        e     d  [      (
 B4     1        e     d  =
 A4     1        e     d  ]      )
-measure 105 
+measure 105
 B4     2        q     d         (
 A4     1        e     u         )
 B4     2        q     d         (
@@ -1468,7 +1476,7 @@ G4     1        e     u  ]      )
 D4     1        e     u  [      (
 G4     1        e     u  =
 F#4    1        e     u  ]      )
-measure 106 
+measure 106
 G4     2        q     u         (
 A4     1        e     u         )
 B4     2        q     d         (
@@ -1477,7 +1485,7 @@ D4     2        q     u         (
 E4     1        e     u         )
 F#4    2        q #   u         (
 D4     1        e     u         )
-measure 107 
+measure 107
 G4     2        q     u         (
 F#4    1        e #   u         )
 G4     1        e     u  [      (
@@ -1487,7 +1495,7 @@ F#4    2        q     u         (
 E4     1        e     u         )
 F#4    2        q     u         (
 D4     1        e     u         )
-measure 108 
+measure 108
 B3     1        e     u  [      (
 C#4    1        e #   u  =
 D4     1        e     u  ]      )
@@ -1498,7 +1506,7 @@ D4     2        q     u         (
 E4     1        e     u         )
 F#4    2        q #   u         (
 D4     1        e     u         )
-measure 109 
+measure 109
 B4     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -1508,7 +1516,7 @@ D5     1        e     d         )
 E5     1        e     d  [      (
 D5     1        e     d  =
 C5     1        e     d  ]      )
-measure 110 
+measure 110
 D5     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -1518,7 +1526,7 @@ D5     1        e     d  =
 E5     1        e     d  ]      )
 A4     2        q     u
 D5     1        e     d
-measure 111 
+measure 111
 B4     3        q.    d
 rest   1        e
 rest   1        e
@@ -1527,7 +1535,7 @@ A5     3        q.    d
 rest   1        e
 rest   1        e
 D6     1        e     d
-measure 112 
+measure 112
 B5     2        q     d
 B4     1        e     d
 rest   1        e
@@ -1537,7 +1545,7 @@ F#5    3        q.#   d
 rest   1        e
 rest   1        e
 B5     1        e     d
-measure 113 
+measure 113
 G5     2        q     d
 G4     1        e     u
 rest   1        e
@@ -1547,7 +1555,7 @@ D5     3        q.    d
 rest   1        e
 rest   1        e
 E5     1        e     d
-measure 114 
+measure 114
 A4     3        q.    u
 rest   1        e
 rest   1        e
@@ -1556,7 +1564,7 @@ G5     1        e     d  [      (
 A5     1        e     d  =
 F#5    1        e #   d  ]      )
 E5     3        q.    d
-measure 115 
+measure 115
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -1565,7 +1573,7 @@ A4     2        q     u
 G4     1        e     u
 A4     2        q     u
 F#4    1        e #   u
-measure 116 
+measure 116
 B4     2        q     d
 C5     1        e     d
 D5     2        q     d
@@ -1574,7 +1582,7 @@ A4     2        q     u
 G4     1        e     u
 A4     2        q     u
 F#4    1        e #   u
-measure 117 
+measure 117
 B4     2        q     d
 C5     1        e     d
 D5     2        q     d
@@ -1584,7 +1592,7 @@ P    C33:Y57
 rest   1        e
 rest   1        e
 A4     1        e     u
-measure 118 
+measure 118
 D4     3        q.    u
 rest   1        e
 rest   1        e
@@ -1594,7 +1602,7 @@ P    C33:Y58
 rest   1        e
 rest   1        e
 E5     1        e     d
-measure 119 
+measure 119
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -1604,7 +1612,7 @@ D5     1        e     d  =
 B4     1        e     d  ]      )
 A4     2        q     u
 D5     1        e     d
-measure 120 
+measure 120
 B4     3        q.    d
 rest   1        e
 rest   1        e
@@ -1614,7 +1622,7 @@ E4     2        q     u         (
 D4     1        e     u         )
 E4     2        q     u         (
 C4     1        e     u         )
-measure 121 
+measure 121
 D4     2        q     u         (
 C4     1        e     u         )
 D4     2        q     u         (
@@ -1624,7 +1632,7 @@ D4     1        e     u         )
 E4     1        e     u  [      (
 D4     1        e     u  =
 C4     1        e     u  ]      )
-measure 122 
+measure 122
 D4     2        q     u         (
 C4     1        e     u         )
 D4     2        q     u         (
@@ -1633,7 +1641,7 @@ E4     2        q     u         (
 D4     1        e     u         )
 C4     2        q     u         (
 B3     1        e     u         )
-measure 123 
+measure 123
 A3     3        q.    u         p
 P    C33:Y81
 B3     3        q.    u
@@ -1641,7 +1649,7 @@ A3     3        q.    u
 rest   1        e
 rest   1        e
 D4     1        e     u
-measure 124 
+measure 124
 B3     3        q.    u
 rest   2        q
 rest   1        e
@@ -1649,7 +1657,7 @@ F#4    3        q.#   u         pp
 P    C33:Y58
 rest   2        q
 rest   1        e
-measure 125 
+measure 125
 G4     3        q.    u
 rest   2        q
 rest   1        e
@@ -1665,7 +1673,7 @@ FILENAME = 03
 
 
 06/21/10 E. Correia
-WK#:6,8       MV#:5-6 
+WK#:6,8       MV#:5-6
 Augener/Chrysander 1888-1891
 Concerto VIII
 V.
@@ -2076,37 +2084,37 @@ D3     1        q     d
 f1              #
 D2     1        q     u
 measure 68
-G2     3        h.    u         ( 
+G2     3        h.    u         (
 mdouble 69
 $  K:0   Q:2   T:12/8  C:22  D:Largo
-G3     6        h.    d         ) 
+G3     6        h.    d         )
 f2              6 4
 G3     6        h.    d
-measure 70 
+measure 70
 f2              5 3
 G3     6        h.    d
 C3     3        q.    u
 f1              #
 D3     3        q.    d
-measure 71 
+measure 71
 G2     3        q.    u
 rest   2        q
 rest   1        e
 f1              #
 D3     6        h.    d
-measure 72 
+measure 72
 f2              6 4
 D3     6        h.    d
 f2              5 #
 D3     6        h.    d
-measure 73 
+measure 73
 G2     3        q.    u
 f1              #
 A2     3        q.    u
 D2     3        q.    u
 rest   2        q
 rest   1        e
-measure 74 
+measure 74
 G2     2        q     u
 A2     1        e     u
 B2     2        q     u
@@ -2116,7 +2124,7 @@ B2     1        e     u
 C3     1        e     u  [
 B2     1        e     u  =
 A2     1        e     u  ]
-measure 75 
+measure 75
 f1              6
 B2     2        q     u
 A2     1        e     u
@@ -2129,14 +2137,14 @@ C3     1        e     u  ]
 f1              #
 D3     2        q     d
 D2     1        e     u
-measure 76 
+measure 76
 G2     3        q.    u
 f1     3        5
 f2              4 2
 G4     6        h.    d
 f1              6
 F#4    3-       q.#   d        -
-measure 77 
+measure 77
 f2              4 2
 F#4    3        q.    d
 f1     3        6
@@ -2144,7 +2152,7 @@ f2              4 2#
 E4     6        h.    d
 f1              6
 D4     3-       q.    d        -
-measure 78 
+measure 78
 f2              4 2
 D4     3        q.    d
 f1     3        6
@@ -2153,7 +2161,7 @@ C4     6        h.    d
 f1              6
 B3     2        q     d
 E4     1        e     d
-measure 79 
+measure 79
 f2              6 5
 C#4    1        e #   d  [
 B3     1        e     d  =
@@ -2168,19 +2176,19 @@ f1              4
 A3     2        q     d
 f1              #
 A2     1        e     u
-measure 80 
+measure 80
 f1              #
 D3     3        q.    d
 D4     3        q.    d
 f2              6 4
 D4     6        h.    d
-measure 81 
+measure 81
 f1              #
 D4     3        q.    d
 G3     3        q.    d
 f2              6 4
 G3     6        h.    d
-measure 82 
+measure 82
 f1              5
 G3     2        q     d
 A3     1        e     d
@@ -2192,7 +2200,7 @@ E3     3        q.    d
 f2     2        7 #
 f1              6
 D3     3        q.    d
-measure 83 
+measure 83
 f1     2        7
 f1              6
 C3     3        q.    u
@@ -2203,7 +2211,7 @@ f1     2        5
 f1              6/
 A2     3        q.    u
 G2     3        q.    u
-measure 84 
+measure 84
 f1              #
 D3     3        q.    d
 rest   1        e
@@ -2213,18 +2221,18 @@ f2              6 5
 E4     3        q.    d
 f1              5
 F#4    3        q.#   d
-measure 85 
+measure 85
 f2     3        9 3
 f2              8 f
 G4     6        h.    d
 f2              6 5
 C#4    6        h.#   d
-measure 86 
+measure 86
 f2              5 4
 D4     6        h.    d
 f2              6 5
 C#4    6        h.#   d
-measure 87 
+measure 87
 D4     3        q.    d
 rest   1        e
 rest   1        e
@@ -2236,7 +2244,7 @@ f2              6 5
 C3     2        q     u
 f1              #
 D3     1        e     d
-measure 88 
+measure 88
 G2     2        q     u
 A2     1        e     u
 B2     2        q     u
@@ -2247,7 +2255,7 @@ f1              6
 rest   1        e
 rest   1        e
 C#3    1        e #   u
-measure 89 
+measure 89
 f1              #
 D3     2        q     d
 D2     1        e     u
@@ -2261,7 +2269,7 @@ f1              6
 rest   1        e
 rest   1        e
 F#3    1        e #   d
-measure 90 
+measure 90
 f1              4
 G3     2        q     d
 f1              6
@@ -2275,7 +2283,7 @@ E4     3        q.    d
 f1     2        7
 f1              6
 D4     3        q.    d
-measure 91 
+measure 91
 f1     2        7
 f1              6
 C4     3        q.    d
@@ -2287,7 +2295,7 @@ A3     3        q.    d
 rest   1        e
 rest   1        e
 G3     1        e     d
-measure 92 
+measure 92
 C3     2        q     u
 G2     1        e     u
 f1              4
@@ -2296,7 +2304,7 @@ f1              #
 D2     1        e     u
 G2     3        q.    u
 C3     3        q.    u
-measure 93 
+measure 93
 rest   2        q               F
 P    C33:x-2
 rest   1        e
@@ -2305,7 +2313,7 @@ B2     3        q.    u         p
 P    C33:Y57
 rest   6        h               F
 P    C33:x2
-measure 94 
+measure 94
 f1              6/
 A2     2        q     u         f
 P    C33:Y63
@@ -2318,7 +2326,7 @@ G2     3        q.    u
 rest   1        e
 rest   1        e
 E4     1        e     d
-measure 95 
+measure 95
 f1              6
 D#4    2        q #   d
 B3     1        e     d
@@ -2331,7 +2339,7 @@ rest   1        e
 rest   1        e
 A3     1        e     d         p
 P    C33:Y57
-measure 96 
+measure 96
 f1              6
 G#3    2        q #   d
 E3     1        e     d
@@ -2344,19 +2352,19 @@ rest   1        e
 rest   1        e
 B3     1        e     d         f
 P    C33:Y61
-measure 97 
+measure 97
 f1              6
 A#3    2        q #   d
 F#3    1        e #   d
 B2     2        q     u
-B3     1        e     d 
+B3     1        e     d
 f1              6
 A#3    2        q     d
 F#3    1        e     d
 rest   1        e
 rest   1        e
 F#3    1        e     d
-measure 98 
+measure 98
 f1              7
 G#3    3        q.#   d
 f1              5
@@ -2365,7 +2373,7 @@ f1              4
 B3     3        q.    d
 f1              6
 D3     3        q.    d
-measure 99 
+measure 99
 f1              7
 E3     3        q.    d
 f1     3        6
@@ -2374,7 +2382,7 @@ E4     6        h.    d
 f1              6
 D4     2        q     d
 E4     1        e     d
-measure 100 
+measure 100
 f2              6 4
 F#4    2        q #   d
 E4     1        e     d
@@ -2384,7 +2392,7 @@ F#3    1        e #   d
 B3     3        q.    d
 f3              6 4 2
 A3     3        q.    d
-measure 101 
+measure 101
 f3              7 5 3
 G3     3        q.    d
 f3              8 6 4
@@ -2393,7 +2401,7 @@ f3              9 7 5
 E3     3        q.    d
 f1              6
 D3     3        q.    d
-measure 102 
+measure 102
 f1              9
 E3     3        q.    d
 f1              8
@@ -2403,34 +2411,34 @@ E3     1        e     d
 f2              7 #
 F#3    3        q.#   d
 B2     3        q.    u
-measure 103 
+measure 103
 f2              6 4
 F#3    3        q.#   d
 f2              5+ #
 F#2    3        q.#   u
 B2     6        h.    u
-measure 104 
+measure 104
 G3     6        h.    d
 f2              6 4
 G3     6        h.    d
-measure 105 
+measure 105
 f1              5
 G3     6        h.    d
 C3     3        q.    u
 f1              #
 D3     3        q.    d
-measure 106 
+measure 106
 G2     3        q.    u
 rest   2        q
 rest   1        e
 f1              #
 D3     6        h.    d
-measure 107 
+measure 107
 f2              6 4
 D3     6        h.    d
 f2              5 #
 D3     6        h.    d
-measure 108 
+measure 108
 G2     3        q.    u
 f1              #
 A2     3        q.    u
@@ -2438,7 +2446,7 @@ f1              #
 D2     3        q.    u
 rest   2        q
 rest   1        e
-measure 109 
+measure 109
 G2     2        q     u
 A2     1        e     u
 B2     2        q     u
@@ -2448,7 +2456,7 @@ B2     1        e     u
 C3     1        e     u  [
 B2     1        e     u  =
 A2     1        e     u  ]
-measure 110 
+measure 110
 f1              6
 B2     2        q     u
 A2     1        e     u
@@ -2461,14 +2469,14 @@ C3     1        e     u  ]
 f1              #
 D3     2        q     d
 D2     1        e     u
-measure 111 
+measure 111
 G2     3        q.    u
 f1     3        5
 f2              4 2
 G4     6        h.    d
 f1              6
 F#4    3-       q.#   d        -
-measure 112 
+measure 112
 f2              4 2
 F#4    3        q.    d
 f1     3        6
@@ -2476,7 +2484,7 @@ f2              4 2+
 E4     6        h.    d
 f1              6
 D4     3-       q.    d        -
-measure 113 
+measure 113
 f2              4 2
 D4     3        q.    d
 f1     3        6
@@ -2485,7 +2493,7 @@ C4     6        h.    d
 f1              6
 B3     2        q     d
 E4     1        e     d
-measure 114 
+measure 114
 f2              6 5
 C#4    1        e #   d  [
 B3     1        e     d  =
@@ -2500,7 +2508,7 @@ f1              4
 A3     2        q     d
 f1              #
 A2     1        e     u
-measure 115 
+measure 115
 D3     3        q.    d
 rest   1        e
 rest   1        e
@@ -2510,7 +2518,7 @@ F#3    2        q #   d
 E3     1        e     d
 F#3    2        q     d
 D3     1        e     d
-measure 116 
+measure 116
 G3     2        q     d
 A3     1        e     d
 B3     2        q     d
@@ -2520,7 +2528,7 @@ F#3    2        q #   d
 E3     1        e     d
 F#3    2        q     d
 D3     1        e     d
-measure 117 
+measure 117
 G3     2        q     d
 A3     1        e     d
 B3     2        q     d
@@ -2532,7 +2540,7 @@ rest   1        e
 rest   1        e
 f2              6 5
 F#3    1        e #   d
-measure 118 
+measure 118
 f1              4
 G3     3        q.    d
 rest   1        e
@@ -2546,7 +2554,7 @@ rest   1        e
 rest   1        e
 f1              6
 C3     1        e     u
-measure 119 
+measure 119
 f1              7
 B2     3        q.    u
 rest   1        e
@@ -2558,7 +2566,7 @@ G2     1        e     u
 f1              #
 D3     2        q     d
 D2     1        e     u
-measure 120 
+measure 120
 G2     3        q.    u
 rest   1        e
 rest   1        e
@@ -2569,7 +2577,7 @@ C3     2        q     u
 B2     1        e     u
 C3     2        q     u
 A2     1        e     u
-measure 121 
+measure 121
 f1              6
 B2     2        q     u
 A2     1        e     u
@@ -2580,7 +2588,7 @@ B2     1        e     u
 C3     1        e     u  [
 B2     1        e     u  =
 A2     1        e     u  ]
-measure 122 
+measure 122
 f1              6
 B2     2        q     u
 A2     1        e     u
@@ -2590,7 +2598,7 @@ C3     2        q     u
 B2     1        e     u
 A2     2        q     u
 G2     1        e     u
-measure 123 
+measure 123
 f1              #
 D3     3        q.    d         p
 P    C33:Y68
@@ -2601,7 +2609,7 @@ rest   1        e
 rest   1        e
 f1              #
 D2     1        e     u
-measure 124 
+measure 124
 G2     3        q.    u
 rest   2        q
 rest   1        e
@@ -2610,7 +2618,7 @@ D2     3        q.    u         pp
 P    C33:Y76
 rest   2        q
 rest   1        e
-measure 125 
+measure 125
 G2     3        q.    u
 rest   2        q
 rest   1        e
@@ -2626,7 +2634,7 @@ FILENAME = 04
 
 
 06/21/10 E. Correia
-WK#:6,8       MV#:5-6 
+WK#:6,8       MV#:5-6
 Augener/Chrysander 1888-1891
 Concerto VIII
 V.
@@ -2887,64 +2895,64 @@ F#4    2        q #   u
 G4     4        h     u
 F#4    2        q     u
 measure 68
-G4     6-       h.    u         - 
-mdouble 69 
+G4     6-       h.    u         -
+mdouble 69
 $  K:0   Q:2   T:12/8  C:4  D:Largo
 G4     6        h.    u
  G3    6        h.    u
 G4     6        h.    u
  G3    6        h.    u
-measure 70 
+measure 70
 G4     6        h.    u
  G3    6        h.    u
 C4     3        q.    u
 D4     3        q.    u
-measure 71 
+measure 71
 G3     3        q.    u
 rest   2        q
 rest   1        e
 D5     6        h.    u
  D4    6        h.    u
-measure 72 
+measure 72
 D5     6        h.    u
  D4    6        h.    u
 D5     6        h.    u
  D4    6        h.    u
-measure 73 
+measure 73
 G3     3        q.    u
 A3     3        q.    u
 D4     3        q.    u
 rest   2        q
 rest   1        e
-measure 74 
+measure 74
 G5     6        h.    d
 G5     6        h.    d
-measure 75 
+measure 75
 G5     6        h.    d
 G5     3        q.    d
 F#5    3        q.#   d         +
-measure 76 
+measure 76
 G5     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 77 
+measure 77
 rest  12
-measure 78 
+measure 78
 rest  12
-measure 79 
+measure 79
 rest   2        q
 rest   1        e
-rest   1        e 
-rest   1        e 
-F#5    1        e     d 
+rest   1        e
+rest   1        e
+F#5    1        e     d
 B4     1        e     d  [
 C#5    1        e #   d  =
 D5     1        e     d  ]
 A4     1        e     d  [
 D5     1        e     d  =
 C#5    1        e     d  ]
-measure 80 
+measure 80
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -2954,7 +2962,7 @@ A4     1        e     u         )
 B4     1        e     u  [      (
 A4     1        e     u  =
 G4     1        e     u  ]      )
-measure 81 
+measure 81
 A4     2        q     u
 F#4    1        e     u
 rest   1        e
@@ -2965,7 +2973,7 @@ D5     1        e     d         )
 E5     1        e     d  [      (
 D5     1        e     d  =
 C5     1        e     d  ]      )
-measure 82 
+measure 82
 D5     2        q     d
 B4     1        e     d
 rest   1        e
@@ -2975,23 +2983,23 @@ G5     2        q     d         (
 C5     1        e     d         )
 F#5    2        q     d         (
 B4     1        e     d         )
-measure 83 
+measure 83
 E5     2        q     d         (
 A4     1        e     u         )
 D5     2        q     d         (
 G4     1        e     u         )
 C5     3        q.    d
 B4     3        q.    d
-measure 84 
+measure 84
 A4     3        q.    u
 rest   2        q
 rest   1        e
 rest   6        h
-measure 85 
+measure 85
 rest  12
-measure 86 
+measure 86
 rest  12
-measure 87 
+measure 87
 rest   2        q
 rest   1        e
 rest   1        e
@@ -3001,7 +3009,7 @@ C5     1        e     d  [      (
 D5     1        e     d  =
 B4     1        e     d  ]      )
 A4     3        q.    u
-measure 88 
+measure 88
 G4     2        q     u
 D5     1        e     d
 G5     3        q.    d
@@ -3009,7 +3017,7 @@ rest   1        e
 rest   1        e
 E5     1        e     d
 A5     3        q.    d
-measure 89 
+measure 89
 rest   1        e
 rest   1        e
 F#5    1        e     d
@@ -3018,21 +3026,21 @@ rest   1        e
 rest   1        e
 G5     1        e     d
 C6     3        q.    d
-measure 90 
+measure 90
 rest   1        e
 rest   1        e
 G4     1        e     u
 F#4    3        q.    u
 E4     3        q.    u
 D4     3        q.    u
-measure 91 
+measure 91
 C4     3        q.    u
 B3     3        q.    u
 A3     3        q.    u
 rest   1        e
 rest   1        e
 B4     1        e     d
-measure 92 
+measure 92
 E4     1        e     u  [      (
 F#4    1        e     u  =
 G4     1        e     u  ]      )
@@ -3040,7 +3048,7 @@ D4     2        q     u
 F#4    1        e     u
 G4     3        q.    u
 E5     3        q.    d
-measure 93 
+measure 93
 rest   2        q               F
 P    C33:x-2
 rest   1        e
@@ -3048,7 +3056,7 @@ D5     3        q.    d         p
 P    C33:Y60
 rest   6        h               F
 P    C33:x2
-measure 94 
+measure 94
 C5     2        q     d         f
 P   C33:Y69
 B4     1        e     d
@@ -3057,7 +3065,7 @@ G4     3        q.    u
 rest   1        e
 rest   1        e
 B4     1        e     d
-measure 95 
+measure 95
 B4     3        q.    d
 B4     3        q.    d
 B4     3        q.    d
@@ -3065,7 +3073,7 @@ rest   1        e
 rest   1        e
 C5     1        e     d         p
 P    C33:Y64
-measure 96 
+measure 96
 B4     3        q.    d
 C5     3        q.    d
 B4     3        q.    d
@@ -3073,15 +3081,15 @@ rest   1        e
 rest   1        e
 D5     1        e     d         f
 P   C33:Y63
-measure 97 
+measure 97
 C#5    3        q.#   d
 D5     3        q.    d
 C#5    3        q.    d
 rest   2        q
 rest   1        e
-measure 98 
+measure 98
 rest  12
-measure 99 
+measure 99
 rest   2        q
 rest   1        e
 rest   1        e
@@ -3090,19 +3098,19 @@ B4     1        e     d
 A#4    2        q #   u
 F#4    1        e     u
 B4     3        q.    d
-measure 100 
+measure 100
 B4     3        q.    d
 A#4    3        q.#   u
 B4     3        q.    d
 rest   2        q
 rest   1        e
-measure 101 
+measure 101
 rest   6        h
 rest   1        e
 rest   1        e
 F#5    1        e     d
 B5     3        q.    d
-measure 102 
+measure 102
 rest   1        e
 rest   1        e
 B4     1        e     d
@@ -3111,54 +3119,54 @@ E5     2        q     d
 F#5    1        e     d
 D5     2        q     d
 C#5    1        e #   d
-measure 103 
+measure 103
 D5     3        q.    d
 C#5    3        q.#   d
 B4     6        h.    d
-measure 104 
+measure 104
 G4     6        h.    u
  G3    6        h.    u
 G4     6        h.    u
  G3    6        h.    u
-measure 105 
+measure 105
 G4     6        h.    u
  G3    6        h.    u
 C4     3        q.    u
 D4     3        q.    u
-measure 106 
+measure 106
 G3     3        q.    u
 rest   2        q
 rest   1        e
 D5     6        h.    u
  D4    6        h.    u
-measure 107 
+measure 107
 D5     6        h.    u
  D4    6        h.    u
 D5     6        h.    u
  D4    6        h.    u
-measure 108 
+measure 108
 G3     3        q.    u
 A3     3        q.    u
 D4     3        q.    u
 rest   2        q
 rest   1        e
-measure 109 
+measure 109
 G5     6        h.    d
 G5     6        h.    d
-measure 110 
+measure 110
 G5     6        h.    d
 G5     3        q.    d
 F#5    3        q.    d
-measure 111 
+measure 111
 G5     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 112 
+measure 112
 rest  12
-measure 113 
+measure 113
 rest  12
-measure 114 
+measure 114
 rest   2        q
 rest   1        e
 rest   1        e
@@ -3170,17 +3178,17 @@ D5     1        e     d  ]      )
 A4     1        e     d  [      (
 D5     1        e     d  =
 C#5    1        e     d  ]      )
-measure 115 
+measure 115
 D5    12-       w.    d        -
-measure 116 
+measure 116
 D5    12-       w.    d        -
-measure 117 
+measure 117
 D5     6-       h.    d        -
 D5     1        e     d  [
 C5     1        e     d  =
 B4     1        e     d  ]
 C5     3-       q.    d        -
-measure 118 
+measure 118
 C5     1        e     d  [      (
 B4     1        e     d  =
 A4     1        e     d  ]      )
@@ -3188,28 +3196,28 @@ B4     3-       q.    d        -
 B4     2        q     d
 E4     1        e     u
 A4     3-       q.    u        -
-measure 119 
+measure 119
 A4     2        q     u
 D4     1        e     u
 G4     6        h.    u
 F#4    3        q.    u         f
 P    C33:Y63
-measure 120 
+measure 120
 G4     6        h.    u
  G3    6        h.    u
 G4     6        h.    u
  G3    6        h.    u
-measure 121 
+measure 121
 G4     6        h.    u
  G3    6        h.    u
 G4     6        h.    u
  G3    6        h.    u
-measure 122 
+measure 122
 G4     6        h.    u
  G3    6        h.    u
 G4     6        h.    u
  G3    6        h.    u
-measure 123 
+measure 123
 F#4    3        q.    u         p
 P    C33:Y58
 G4     3        q.    u
@@ -3217,7 +3225,7 @@ G4     3        q.    u
 rest   1        e
 rest   1        e
 F#4    1        e     u
-measure 124 
+measure 124
 G4     3        q.    u
 rest   2        q
 rest   1        e
@@ -3225,7 +3233,7 @@ A4     3        q.    u         pp
 P    C33:Y57
 rest   2        q
 rest   1        e
-measure 125 
+measure 125
 B4     3        q.    d
 rest   2        q
 rest   1        e
@@ -3241,7 +3249,7 @@ FILENAME = 05
 
 
 06/21/10 E. Correia
-WK#:6,8       MV#:5-6 
+WK#:6,8       MV#:5-6
 Augener/Chrysander 1888-1891
 Concerto VIII
 V.
@@ -3497,56 +3505,56 @@ C5     2        q     d
 Bf4    2        q     d
 A4     4        h     u
 measure 68
-G4     6-       h.    u         - 
-mdouble 69 
+G4     6-       h.    u         -
+mdouble 69
 $  K:0   Q:2   T:12/8  C:4  D:Largo
 G4     3        q.    u
 rest   2        q
 rest   1        e
 G4     6        h.    u
  G3    6        h.    u
-measure 70 
+measure 70
 G4     6        h.    u
  G3    6        h.    u
 C4     3        q.    u
 D4     3        q.    u
-measure 71 
+measure 71
 G3     3        q.    u
 rest   2        q
 rest   1        e
 D5     6        h.    u
  D4    6        h.    u
-measure 72 
+measure 72
 D5     6        h.    u
  D4    6        h.    u
 D5     6        h.    u
  D4    6        h.    u
-measure 73 
+measure 73
 G3     3        q.    u
 A3     3        q.    u
 D4     3        q.    u
 rest   2        q
 rest   1        e
-measure 74 
+measure 74
 rest   6        h
 G5     6        h.    d
-measure 75 
+measure 75
 G5     6        h.    d
 E5     1        e     d  [      (
 D5     1        e     d  =
 E5     1        e     d  ]      )
 A4     2        q     u
 D5     1        e     d
-measure 76 
+measure 76
 B4     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 77 
+measure 77
 rest  12
-measure 78 
+measure 78
 rest  12
-measure 79 
+measure 79
 rest   2        q
 rest   1        e
 rest   1        e
@@ -3556,7 +3564,7 @@ G5     1        e     d  [      (
 A5     1        e     d  =
 F#5    1        e #   d  ]      )
 E5     3        q.    d
-measure 80 
+measure 80
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -3566,7 +3574,7 @@ F#4    1        e     u         )
 G4     1        e     u  [      (
 F#4    1        e     u  =
 E4     1        e     u  ]      )
-measure 81 
+measure 81
 F#4    2        q #   u
 D4     1        e     u
 rest   1        e
@@ -3577,7 +3585,7 @@ B4     1        e     d         )
 C5     1        e     d  [      (
 B4     1        e     d  =
 A4     1        e     d  ]      )
-measure 82 
+measure 82
 B4     2        q     d
 G4     1        e     u
 rest   1        e
@@ -3588,7 +3596,7 @@ C5     1        e     d         )
 rest   1        e
 rest   1        e
 B4     1        e     d
-measure 83 
+measure 83
 B4     2        q     d         (
 A4     1        e     u         )
 rest   1        e
@@ -3597,16 +3605,16 @@ D4     1        e     u
 E4     2        q     u
 F#4    1        e #   u
 G4     3        q.    u
-measure 84 
+measure 84
 F#4    3        q.#   u
 rest   2        q
 rest   1        e
 rest   6        h
-measure 85 
+measure 85
 rest  12
-measure 86 
-rest  12 
-measure 87 
+measure 86
+rest  12
+measure 87
 rest   2        q
 rest   1        e
 rest   1        e
@@ -3617,7 +3625,7 @@ F#4    1        e #   u  =
 G4     1        e     u  ]      )
 G4     2        q     u
 F#4    1        e     u
-measure 88 
+measure 88
 G4     3        q.    u
 rest   1        e
 rest   1        e
@@ -3626,7 +3634,7 @@ E5     3        q.    d
 rest   1        e
 rest   1        e
 E5     1        e     d
-measure 89 
+measure 89
 F#5    3        q.#   d
 rest   1        e
 rest   1        e
@@ -3635,20 +3643,20 @@ G5     3        q.    d
 rest   1        e
 rest   1        e
 A5     1        e     d
-measure 90 
+measure 90
 D5     2        q     d
 G4     1        e     u
 F#4    3        q.#   u
 E4     3        q.    u
 D4     3        q.    u
-measure 91 
+measure 91
 C4     3        q.    u
 B3     3        q.    u
 A3     3        q.    u
 rest   1        e
 rest   1        e
 D5     1        e     d
-measure 92 
+measure 92
 C5     1        e     d  [      (
 D5     1        e     d  =
 B4     1        e     d  ]      )
@@ -3656,7 +3664,7 @@ A4     2        q     u
 D5     1        e     d
 B4     3        q.    d
 G4     3        q.    u
-measure 93 
+measure 93
 rest   2        q               F
 P    C33:x-2
 rest   1        e
@@ -3664,7 +3672,7 @@ G4     3        q.    u         p
 P    C33:Y57
 rest   6        h               F
 P    C33:x2
-measure 94 
+measure 94
 F#4    2        q #   u         f
 P    C33:Y63
 G4     1        e     u
@@ -3674,7 +3682,7 @@ G4     3        q.    u
 rest   1        e
 rest   1        e
 G4     1        e     u
-measure 95 
+measure 95
 F#4    3        q.#   u
 G4     3        q.    u
 F#4    3        q.    u
@@ -3682,7 +3690,7 @@ rest   1        e
 rest   1        e
 E4     1        e     u         p
 P    C33:Y62
-measure 96 
+measure 96
 E4     3        q.    u
 E4     3        q.    u
 E4     3        q.    u
@@ -3690,15 +3698,15 @@ rest   1        e
 rest   1        e
 F#4    1        e #   u         f
 P    C33:Y63
-measure 97 
+measure 97
 F#4    3        q.#   u
 F#4    3        q.    u
 F#4    3        q.    u
 rest   2        q
 rest   1        e
-measure 98 
+measure 98
 rest  12
-measure 99 
+measure 99
 rest   2        q
 rest   1        e
 rest   1        e
@@ -3707,56 +3715,56 @@ G5     1        e     d
 F#5    3        q.#   d
 F#5    2        q     d
 G5     1        e     d
-measure 100 
+measure 100
 D5     3        q.    d
 C#5    3        q.#   d
 B4     3        q.    d
 rest   2        q
 rest   1        e
-measure 101 
+measure 101
 rest   6        h
 rest   2        q
 rest   1        e
 rest   1        e
 rest   1        e
 F#5    1        e #   d
-measure 102 
+measure 102
 G5     3        q.    d
 rest   1        e
 rest   1        e
 G5     1        e     d
 A#4    3        q.#   u
 B4     3-       q.    d        -
-measure 103 
+measure 103
 B4     3        q.    d
 A#4    3        q.#   u
 B4     6        h.    d
-measure 104 
+measure 104
 rest   6        h
 G4     6        h.    u
  G3    6        h.    u
-measure 105 
+measure 105
 G4     6        h.    u
  G3    6        h.    u
 C4     3        q.    u
 D4     3        q.    u
-measure 106 
+measure 106
 G3     3        q.    u
 rest   2        q
 rest   1        e
 rest   6        h
-measure 107 
+measure 107
 D5     6        h.    u
  D4    6        h.    u
 D5     6        h.    u
  D4    6        h.    u
-measure 108 
+measure 108
 G3     3        q.    u
 A3     3        q.    u
 D4     3        q.    u
 rest   2        q
 rest   1        e
-measure 109 
+measure 109
 B4     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -3766,7 +3774,7 @@ D5     1        e     d         )
 E5     1        e     d  [      (
 D5     1        e     d  =
 C5     1        e     d  ]      )
-measure 110 
+measure 110
 D5     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -3776,16 +3784,16 @@ D5     1        e     d  =
 E5     1        e     d  ]      )
 A4     2        q     u
 D5     1        e     d
-measure 111 
+measure 111
 B4     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 112 
+measure 112
 rest  12
-measure 113 
+measure 113
 rest  12
-measure 114 
+measure 114
 rest   2        q
 rest   1        e
 rest   1        e
@@ -3795,7 +3803,7 @@ G5     1        e     d  [      (
 A5     1        e     d  =
 F#5    1        e #   d  ]      )
 E5     3        q.    d
-measure 115 
+measure 115
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -3804,7 +3812,7 @@ A4     2        q     u
 G4     1        e     u
 A4     2        q     u
 F#4    1        e #   u
-measure 116 
+measure 116
 B4     2        q     d
 C5     1        e     d
 D5     2        q     d
@@ -3813,7 +3821,7 @@ A4     2        q     u
 G4     1        e     u
 A4     2        q     u
 F#4    1        e #   u
-measure 117 
+measure 117
 B4     2        q     d
 C5     1        e     d
 D5     2        q     d
@@ -3823,7 +3831,7 @@ P    C33:Y57
 rest   1        e
 rest   1        e
 A4     1        e     u
-measure 118 
+measure 118
 D4     3        q.    u
 rest   1        e
 rest   1        e
@@ -3833,7 +3841,7 @@ P    C33:Y58
 rest   1        e
 rest   1        e
 E5     1        e     d
-measure 119 
+measure 119
 D5     3        q.    d
 rest   1        e
 rest   1        e
@@ -3843,7 +3851,7 @@ D5     1        e     d  =
 B4     1        e     d  ]      )
 A4     2        q     u
 D5     1        e     d
-measure 120 
+measure 120
 B4     3        q.    d
 rest   1        e
 rest   1        e
@@ -3853,7 +3861,7 @@ E4     2        q     u         (
 D4     1        e     u         )
 E4     2        q     u         (
 C4     1        e     u         )
-measure 121 
+measure 121
 D4     2        q     u         (
 C4     1        e     u         )
 D4     2        q     u         (
@@ -3863,7 +3871,7 @@ D4     1        e     u         )
 E4     1        e     u  [      (
 D4     1        e     u  =
 C4     1        e     u  ]      )
-measure 122 
+measure 122
 D4     2        q     u         (
 C4     1        e     u         )
 D4     2        q     u         (
@@ -3872,7 +3880,7 @@ E4     2        q     u         (
 D4     1        e     u         )
 C4     2        q     u         (
 B3     1        e     u         )
-measure 123 
+measure 123
 A3     3        q.    u         p
 P    C33:Y81
 B3     3        q.    u
@@ -3880,7 +3888,7 @@ A3     3        q.    u
 rest   1        e
 rest   1        e
 D4     1        e     u
-measure 124 
+measure 124
 B3     3        q.    u
 rest   2        q
 rest   1        e
@@ -3888,7 +3896,7 @@ F#4    3        q.#   u         pp
 P    C33:Y58
 rest   2        q
 rest   1        e
-measure 125 
+measure 125
 G4     3        q.    u
 rest   2        q
 rest   1        e
@@ -3904,7 +3912,7 @@ FILENAME = 06
 
 
 06/21/10 E. Correia
-WK#:6,8       MV#:5-6 
+WK#:6,8       MV#:5-6
 Augener/Chrysander 1888-1891
 Concerto VIII
 V.
@@ -4164,41 +4172,41 @@ C4     1        e     u  ]
 D4     3        q.    d
 D4     1        e     d
 measure 68
-D4     6-       h.    d         - 
-mdouble 69 
+D4     6-       h.    d         -
+mdouble 69
 $  K:0   Q:2   T:12/8  C:13  D:Largo
 D4     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 70 
+measure 70
 rest  12
-measure 71 
+measure 71
 rest  12
-measure 72 
+measure 72
 rest  12
-measure 73 
+measure 73
 rest  12
-measure 74 
+measure 74
 G4     6        h.    d
  G3    6        h.    d
 G4     6        h.    d
  G3    6        h.    d
-measure 75 
+measure 75
 G4     6        h.    d
  G3    6        h.    d
 C4     3        q.    d
 D4     3        q.    d
-measure 76 
+measure 76
 G3     3        q.    u
 rest   2        q
 rest   1        e
 rest   6        h
-measure 77 
+measure 77
 rest  12
-measure 78 
+measure 78
 rest  12
-measure 79 
+measure 79
 rest   2        q
 rest   1        e
 rest   1        e
@@ -4208,21 +4216,21 @@ D4     2        q     d
 F#4    1        e #   d
 A4     2        q     d
 A4     1        e     d
-measure 80 
+measure 80
 F#4    3        q.#   d
 rest   1        e
 rest   1        e
 D4     1        e     d
 D4     3        q.    d
 D4     3        q.    d
-measure 81 
+measure 81
 D4     3        q.    d
 rest   1        e
 rest   1        e
 G4     1        e     d
 G4     3        q.    d
 G4     3        q.    d
-measure 82 
+measure 82
 G4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4231,23 +4239,23 @@ G4     3        q.    d
 rest   1        e
 rest   1        e
 D4     1        e     d
-measure 83 
+measure 83
 E4     3        q.    d
 rest   1        e
 rest   1        e
 B3     1        e     u
 C4     3        q.    d
 D4     3        q.    d
-measure 84 
+measure 84
 D4     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 85 
+measure 85
 rest  12
-measure 86 
+measure 86
 rest  12
-measure 87 
+measure 87
 rest   2        q
 rest   1        e
 rest   1        e
@@ -4257,7 +4265,7 @@ A4     2        q     d
 B4     1        e     d
 E4     2        q     d
 D4     1        e     d
-measure 88 
+measure 88
 D4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4266,7 +4274,7 @@ G4     3        q.    d
 rest   1        e
 rest   1        e
 A4     1        e     d
-measure 89 
+measure 89
 A4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4275,26 +4283,26 @@ B4     3        q.    d
 rest   1        e
 rest   1        e
 D4     1        e     d
-measure 90 
+measure 90
 D4     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 91 
+measure 91
 rest   6        h
 rest   2        q
 rest   1        e
 rest   1        e
 rest   1        e
 G4     1        e     d
-measure 92 
+measure 92
 G4     2        q     d
 B3     1        e     u
 D4     2        q     d
 D4     1        e     d
 D4     3        q.    d
 C4     3        q.    d
-measure 93 
+measure 93
 rest   2        q               F
 P    C33:x-2
 rest   1        e
@@ -4302,7 +4310,7 @@ G3     3        q.    u         p
 P    C33:Y58
 rest   6        h               F
 P    C33:x2
-measure 94 
+measure 94
 A3     2        q     u         f
 P    C33:Y62
 B3     1        e     u
@@ -4312,7 +4320,7 @@ B3     3        q.    u
 rest   1        e
 rest   1        e
 E4     1        e     d
-measure 95 
+measure 95
 B4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4322,7 +4330,7 @@ rest   1        e
 rest   1        e
 A3     1        e     u         p
 P    C33:Y57
-measure 96 
+measure 96
 E4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4332,7 +4340,7 @@ rest   1        e
 rest   1        e
 B3     1        e     u         f
 P    C33:Y62
-measure 97 
+measure 97
 F#4    3        q.#   d
 rest   1        e
 rest   1        e
@@ -4340,9 +4348,9 @@ B3     1        e     u
 F#4    3        q.    d
 rest   2        q
 rest   1        e
-measure 98 
+measure 98
 rest  12
-measure 99 
+measure 99
 rest   2        q
 rest   1        e
 rest   1        e
@@ -4350,20 +4358,20 @@ rest   1        e
 G4     1        e     d
 C4     3        q.    d
 B3     3        q.    u
-measure 100 
+measure 100
 F#4    3        q.#   d
 F#4    3        q.    d
 F#4    3        q.    d
 rest   2        q
 rest   1        e
-measure 101 
+measure 101
 rest   6        h
 rest   2        q
 rest   1        e
 rest   1        e
 rest   1        e
 B4     1        e     d
-measure 102 
+measure 102
 B4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4372,40 +4380,40 @@ C#4    3        q.#   d
 rest   1        e
 rest   1        e
 F#4    1        e #   d
-measure 103 
+measure 103
 F#4    3        q.#   d
 F#4    3        q.    d
 F#4    6        h.    d
-measure 104 
+measure 104
 rest  12
-measure 105 
+measure 105
 rest  12
-measure 106 
+measure 106
 rest  12
-measure 107 
+measure 107
 rest  12
-measure 108 
+measure 108
 rest  12
-measure 109 
+measure 109
 G4     6        h.    d
  G3    6        h.    d
 G4     6        h.    d
  G3    6        h.    d
-measure 110 
+measure 110
 G4     6        h.    d
  G3    6        h.    d
 C4     3        q.    d
 D4     3        q.    d
-measure 111 
+measure 111
 G3     3        q.    u
 rest   2        q
 rest   1        e
 rest   6        h
-measure 112 
+measure 112
 rest  12
-measure 113 
+measure 113
 rest  12
-measure 114 
+measure 114
 rest   2        q
 rest   1        e
 rest   1        e
@@ -4415,21 +4423,21 @@ D4     2        q     d
 F#4    1        e #   d
 A4     2        q     d
 A4     1        e     d
-measure 115 
+measure 115
 F#4    3        q.#   d
 rest   1        e
 rest   1        e
 G4     1        e     d
 D5     3        q.    d
 D4     3        q.    d
-measure 116 
+measure 116
 D4     3        q.    d
 rest   1        e
 rest   1        e
 G4     1        e     d
 D5     3        q.    d
 D4     3        q.    d
-measure 117 
+measure 117
 D4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4439,7 +4447,7 @@ P    C33:Y57
 rest   1        e
 rest   1        e
 D4     1        e     d
-measure 118 
+measure 118
 D4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4449,7 +4457,7 @@ P    C33:Y68
 rest   1        e
 rest   1        e
 C4     1        e     d
-measure 119 
+measure 119
 D4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4457,7 +4465,7 @@ G4     1        e     d
 E4     2        q     d
 D4     1        e     d
 D4     3        q.    d
-measure 120 
+measure 120
 D4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4465,14 +4473,14 @@ G4     1        e     d         f
 P    C33:Y61
 G4     3        q.    d
 G4     3        q.    d
-measure 121 
+measure 121
 G4     3        q.    d
 rest   1        e
 rest   1        e
 G4     1        e     d
 G4     3        q.    d
 G4     3        q.    d
-measure 122 
+measure 122
 G4     3        q.    d
 rest   1        e
 rest   1        e
@@ -4481,7 +4489,7 @@ C4     3        q.    d
 rest   1        e
 rest   1        e
 C4     1        e     d
-measure 123 
+measure 123
 D4     3        q.    d         p
 P    C33:Y64
 D4     3        q.    d
@@ -4489,7 +4497,7 @@ D4     3        q.    d
 rest   1        e
 rest   1        e
 D4     1        e     d
-measure 124 
+measure 124
 D4     3        q.    d
 rest   2        q
 rest   1        e
@@ -4497,7 +4505,7 @@ D4     3        q.    d         pp
 P    C33:Y64
 rest   2        q
 rest   1        e
-measure 125 
+measure 125
 D4     3        q.    d
 rest   2        q
 rest   1        e
@@ -4861,22 +4869,22 @@ D3     1        q     d
 f1              #
 D2     1        q     u
 measure 68
-G2     3-       h.    u         - 
+G2     3-       h.    u         -
 mdouble 69
 $  K:0   Q:2   T:12/8  C:22  D:Largo
 G2     3        q.    u
 rest   2        q
 rest   1        e
 rest   6        h
-measure 70 
+measure 70
 rest  12
-measure 71 
+measure 71
 rest  12
-measure 72 
+measure 72
 rest  12
-measure 73 
+measure 73
 rest  12
-measure 74 
+measure 74
 G2     2        q     u
 A2     1        e     u
 B2     2        q     u
@@ -4886,7 +4894,7 @@ B2     1        e     u
 C3     1        e     u  [
 B2     1        e     u  =
 A2     1        e     u  ]
-measure 75 
+measure 75
 f1              6
 B2     2        q     u
 A2     1        e     u
@@ -4899,16 +4907,16 @@ C3     1        e     u  ]
 f1              #
 D3     2        q     d
 D2     1        e     u
-measure 76 
+measure 76
 G2     3        q.    u
 rest   2        q
 rest   1        e
 rest   6        h
-measure 77 
+measure 77
 rest  12
-measure 78 
+measure 78
 rest  12
-measure 79 
+measure 79
 rest   2        q
 rest   1        e
 rest   1        e
@@ -4922,19 +4930,19 @@ f1              4
 A3     2        q     d
 f1              #
 A2     1        e     u
-measure 80 
+measure 80
 f1              #
 D3     3        q.    d
 D4     3        q.    d
 f2              6 4
 D4     6        h.    d
-measure 81 
+measure 81
 f1              #
 D4     3        q.    d
 G3     3        q.    d
 f2              6 4
 G3     6        h.    d
-measure 82 
+measure 82
 f1              5
 G3     2        q     d
 A3     1        e     d
@@ -4946,7 +4954,7 @@ E3     3        q.    d
 f2     2        7 #
 f1              6
 D3     3        q.    d
-measure 83 
+measure 83
 f1     2        7
 f1              6
 C3     3        q.    u
@@ -4957,17 +4965,17 @@ f1     2        5
 f1              6/
 A2     3        q.    u
 G2     3        q.    u
-measure 84 
+measure 84
 f1              #
 D3     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 85 
+measure 85
 rest  12
-measure 86 
+measure 86
 rest  12
-measure 87 
+measure 87
 rest   2        q
 rest   1        e
 rest   1        e
@@ -4980,7 +4988,7 @@ f2              6 5
 C3     2        q     u
 f1              #
 D3     1        e     d
-measure 88 
+measure 88
 G2     2        q     u
 A2     1        e     u
 B2     2        q     u
@@ -4991,7 +4999,7 @@ f1              6
 rest   1        e
 rest   1        e
 C#3    1        e #   u
-measure 89 
+measure 89
 f1              #
 D3     2        q     d
 D2     1        e     u
@@ -5005,20 +5013,20 @@ f1              6
 rest   1        e
 rest   1        e
 F#3    1        e #   d
-measure 90 
+measure 90
 f1              4
 G3     3        q.    d
 rest   2        q
 rest   1        e
 rest   6        h
-measure 91 
+measure 91
 rest   6        h
 rest   2        q
 rest   1        e
 rest   1        e
 rest   1        e
 G3     1        e     d
-measure 92 
+measure 92
 C3     2        q     u
 G2     1        e     u
 f1              4
@@ -5027,7 +5035,7 @@ f1              #
 D2     1        e     u
 G2     3        q.    u
 C3     3        q.    u
-measure 93 
+measure 93
 rest   2        q               F
 P    C33:x-2
 rest   1        e
@@ -5036,7 +5044,7 @@ B2     3        q.    u         p
 P    C33:Y57
 rest   6        h               F
 P    C33:x2
-measure 94 
+measure 94
 f1              6/
 A2     2        q     u         f
 P    C33:Y63
@@ -5049,7 +5057,7 @@ G2     3        q.    u
 rest   1        e
 rest   1        e
 E4     1        e     d
-measure 95 
+measure 95
 f1              6
 D#4    2        q #   d
 B3     1        e     d
@@ -5062,7 +5070,7 @@ rest   1        e
 rest   1        e
 A3     1        e     d         p
 P    C33:Y57
-measure 96 
+measure 96
 f1              6
 G#3    2        q #   d
 E3     1        e     d
@@ -5075,7 +5083,7 @@ rest   1        e
 rest   1        e
 B3     1        e     d         f
 P    C33:Y61
-measure 97 
+measure 97
 f1              6
 A#3    2        q #   d
 F#3    1        e #   d
@@ -5086,9 +5094,9 @@ A#3    2        q     d
 F#3    1        e     d
 rest   2        q
 rest   1        e
-measure 98 
+measure 98
 rest  12
-measure 99 
+measure 99
 rest   2        q
 rest   1        e
 rest   1        e
@@ -5099,7 +5107,7 @@ E3     3        q.    d
 f1              6
 D3     2        q     d
 E3     1        e     d
-measure 100 
+measure 100
 f2              6 4
 F#3    2        q #   d
 E3     1        e     d
@@ -5109,7 +5117,7 @@ F#2    1        e #   u
 B2     3        q.    u
 rest   2        q
 rest   1        e
-measure 101 
+measure 101
 rest   6        h
 rest   2        q
 rest   1        e
@@ -5117,7 +5125,7 @@ rest   1        e
 rest   1        e
 f1              6
 D3     1        e     d
-measure 102 
+measure 102
 f1              9
 E3     3        q.    d
 f1              8
@@ -5127,23 +5135,23 @@ E3     1        e     d
 f2              7 #
 F#3    3        q.#   d
 B2     3        q.    u
-measure 103 
+measure 103
 f2              6 4
 F#3    3        q.#   d
 f2              5+ #
 F#2    3        q.#   u
 B2     6        h.    u
-measure 104 
+measure 104
 rest  12
-measure 105 
+measure 105
 rest  12
-measure 106 
+measure 106
 rest  12
-measure 107 
+measure 107
 rest  12
-measure 108 
+measure 108
 rest  12
-measure 109 
+measure 109
 G2     2        q     u
 A2     1        e     u
 B2     2        q     u
@@ -5153,7 +5161,7 @@ B2     1        e     u
 C3     1        e     u  [
 B2     1        e     u  =
 A2     1        e     u  ]
-measure 110 
+measure 110
 f1              6
 B2     2        q     u
 A2     1        e     u
@@ -5166,16 +5174,16 @@ C3     1        e     u  ]
 f1              #
 D3     2        q     d
 D2     1        e     u
-measure 111 
+measure 111
 G2     3        q.    u
 rest   2        q
 rest   1        e
 rest   6        h
-measure 112 
+measure 112
 rest  12
-measure 113 
+measure 113
 rest  12
-measure 114 
+measure 114
 rest   2        q
 rest   1        e
 rest   1        e
@@ -5189,7 +5197,7 @@ f1              4
 A3     2        q     d
 f1              #
 A2     1        e     u
-measure 115 
+measure 115
 D3     3        q.    d
 rest   1        e
 rest   1        e
@@ -5199,7 +5207,7 @@ F#3    2        q #   d
 E3     1        e     d
 F#3    2        q     d
 D3     1        e     d
-measure 116 
+measure 116
 G3     2        q     d
 A3     1        e     d
 B3     2        q     d
@@ -5209,7 +5217,7 @@ F#3    2        q #   d
 E3     1        e     d
 F#3    2        q     d
 D3     1        e     d
-measure 117 
+measure 117
 G3     2        q     d
 A3     1        e     d
 B3     2        q     d
@@ -5221,7 +5229,7 @@ rest   1        e
 rest   1        e
 f2              6 5
 F#3    1        e #   d
-measure 118 
+measure 118
 f1              4
 G3     3        q.    d
 rest   1        e
@@ -5235,7 +5243,7 @@ rest   1        e
 rest   1        e
 f1              6
 C3     1        e     u
-measure 119 
+measure 119
 f1              7
 B2     3        q.    u
 rest   1        e
@@ -5247,7 +5255,7 @@ G2     1        e     u
 f1              #
 D3     2        q     d
 D2     1        e     u
-measure 120 
+measure 120
 G2     3        q.    u
 rest   1        e
 rest   1        e
@@ -5258,7 +5266,7 @@ C3     2        q     u
 B2     1        e     u
 C3     2        q     u
 A2     1        e     u
-measure 121 
+measure 121
 f1              6
 B2     2        q     u
 A2     1        e     u
@@ -5269,7 +5277,7 @@ B2     1        e     u
 C3     1        e     u  [
 B2     1        e     u  =
 A2     1        e     u  ]
-measure 122 
+measure 122
 f1              6
 B2     2        q     u
 A2     1        e     u
@@ -5279,7 +5287,7 @@ C3     2        q     u
 B2     1        e     u
 A2     2        q     u
 G2     1        e     u
-measure 123 
+measure 123
 f1              #
 D3     3        q.    d         p
 P    C33:Y68
@@ -5290,7 +5298,7 @@ rest   1        e
 rest   1        e
 f1              #
 D2     1        e     u
-measure 124 
+measure 124
 G2     3        q.    u
 rest   2        q
 rest   1        e
@@ -5299,7 +5307,7 @@ D2     3        q.    u         pp
 P    C33:Y76
 rest   2        q
 rest   1        e
-measure 125 
+measure 125
 G2     3        q.    u
 rest   2        q
 rest   1        e

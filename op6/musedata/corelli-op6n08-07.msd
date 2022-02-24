@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VIII
 @@@OTL: Pastorale ad libitum
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 8
+@@@OMV: 6
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n08-07.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n08-07.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -14,16 +22,16 @@ FILENAME = 01
 WK#:6,8       MV#:6
 Augener/Chrysander 1888-1891
 Concerto VIII
-VI. Pastorale ad libitum 
+VI. Pastorale ad libitum
 Violino 1 concertino
 2 15
 Group memberships: score
 score: part 1 of 7
-& 
-Though a separate movement, this pastorale was appended to mvt. "05" to 
-facilitate score-making.  The combined movement is numbered "06".  
-& 
-$  K:0   Q:2   T:12/8  C:4  D:Largo 
+&
+Though a separate movement, this pastorale was appended to mvt. "05" to
+facilitate score-making.  The combined movement is numbered "06".
+&
+$  K:0   Q:2   T:12/8  C:4  D:Largo
 B4     2        q     d         (
 C5     1        e     d         )
 D5     2        q     d         (
@@ -82,7 +90,7 @@ F#5    3        q.#   d
 measure 8
 G5     3        q.    d
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 rest   1        e
 rest   1        e
 B5     1        e     d
@@ -118,7 +126,7 @@ G5     3        q.    d
 rest   1        e
 rest   1        e
 *               D +     [Tutti]
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 F#5    1        e #   d
 B4     1        e     d  [      (
 C#5    1        e #   d  =
@@ -233,9 +241,9 @@ F#4    1        e     u
 G4     3        q.    u
 E5     3        q.    d
 measure 25
-rest   2        q               F 
-P    C33:x-2 
-rest   1        e 
+rest   2        q               F
+P    C33:x-2
+rest   1        e
 D5     3        q.    d         p
 P    C33:Y60
 rest   6        h               F
@@ -272,7 +280,7 @@ C#5    3        q.    d
 rest   1        e
 rest   1        e
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    1        e #   d
 measure 30
 F#5    2        q #   d         (
@@ -289,7 +297,7 @@ D5     2        q     d         (
 C5     1        e     d         )+
 C5     2        q     d
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 B4     1        e     d
 A#4    2        q #   u
 F#4    1        e #   u
@@ -378,7 +386,7 @@ F#5    3        q.#   d
 measure 43
 G5     3        q.    d
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 rest   1        e
 rest   1        e
 B5     1        e     d
@@ -414,7 +422,7 @@ G5     3        q.    d
 rest   1        e
 rest   1        e
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    1        e #   d
 B4     1        e     d  [      (
 C#5    1        e #   d  =
@@ -496,7 +504,7 @@ FILENAME = 02
 WK#:6,8       MV#:6
 Augener/Chrysander 1888-1891
 Concerto VIII
-VI. Pastorale ad libitum 
+VI. Pastorale ad libitum
 Violino 2 concertino
 2 15
 Group memberships: score
@@ -1024,13 +1032,13 @@ FILENAME = 03
 WK#:6,8       MV#:6
 Augener/Chrysander 1888-1891
 Concerto VIII
-VI. Pastorale ad libitum 
+VI. Pastorale ad libitum
 Violoncello concertino
 2 15
 Group memberships: score
 score: part 3 of 7
 $  K:0   Q:2   T:12/8  C:22  D:Largo
-G3     6        h.    d 
+G3     6        h.    d
 f2              6 4
 G3     6        h.    d
 measure 2
@@ -1300,8 +1308,8 @@ f1              6
 A#3    2        q #   d
 F#3    1        e #   d
 B2     2        q     u
-B3     1        e     d 
-f1              6     d 
+B3     1        e     d
+f1              6     d
 A#3    2        q     d
 F#3    1        e     d
 rest   1        e
@@ -1580,7 +1588,7 @@ FILENAME = 04
 WK#:6,8       MV#:6
 Augener/Chrysander 1888-1891
 Concerto VIII
-VI. Pastorale ad libitum 
+VI. Pastorale ad libitum
 Violino 1 concerto grosso
 2 15
 Group memberships: score
@@ -1939,7 +1947,7 @@ FILENAME = 05
 WK#:6,8       MV#:6
 Augener/Chrysander 1888-1891
 Concerto VIII
-VI. Pastorale ad libitum 
+VI. Pastorale ad libitum
 Violino 2 concerto grosso
 2 15
 Group memberships: score
@@ -2352,7 +2360,7 @@ FILENAME = 06
 WK#:6,8       MV#:6
 Augener/Chrysander 1888-1891
 Concerto VIII
-VI. Pastorale ad libitum 
+VI. Pastorale ad libitum
 Viola
 2 15
 Group memberships: score
@@ -2707,7 +2715,7 @@ FILENAME = 07
 WK#:6,8       MV#:6
 Augener/Chrysander 1888-1891
 Concerto VIII
-VI. Pastorale ad libitum 
+VI. Pastorale ad libitum
 Basso concerto grosso
 2 15
 Group memberships: score

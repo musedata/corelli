@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata IX
 @@@OTL: Allegro
+@@@OPS: 1
+@@@ONM: 9
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n09-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n09-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:a053df010de8c76aa5e0a3950971e335]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:4  12
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 4]
 Violino 1
 
@@ -24,7 +32,7 @@ score: part 1 of 4
 Stage 2 complete
 SEE FOOTNOTE.
 &
-$  K:0   Q:2   T:3/4  C:4  D:Allegro 
+$  K:0   Q:2   T:3/4  C:4  D:Allegro
 rest   6
 measure 2
 rest   6
@@ -324,7 +332,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:fe9299def997fc32f810f0a5061dfe41]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:4  12
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 4]
 Violino 2
 
@@ -334,7 +342,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:3/4  C:4  D:Allegro 
+$  K:0   Q:2   T:3/4  C:4  D:Allegro
 G4     4        h     u
 rest   1        e
 G4     1        e     u
@@ -623,7 +631,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:793858035af122d6c34ad216eb06b69f]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:4  12
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 4]
 Violone, o Arcileuto
 
@@ -633,7 +641,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:3/4  C:22  D:Allegro 
+$  K:0   Q:2   T:3/4  C:22  D:Allegro
 G3     4        h     d
 rest   2        q
 measure 2
@@ -836,7 +844,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:392609bbac1dae733cc8f772627422b0]
 09/15/93 S. Rasmussen
 WK#:1,9       MV#:4  12
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata IX 
+Church Sonatas, Op. 1: Sonata IX
 [Movement 4]
 Organo
 
@@ -846,7 +854,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:3/4  C:22  D:Allegro 
+$  K:0   Q:2   T:3/4  C:22  D:Allegro
 G3     4        h     d
 rest   2        q
 measure 2

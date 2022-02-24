@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto IV
 @@@OTL: Giga
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 12
+@@@OMV: 5
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no12
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n12-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n12-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -228,8 +236,8 @@ measure 35
 A4     6-       q.    u        -
 A4     4        q     u
 mheavy4 36      :|:
-P  C1:] 
-A5     4        q     d 
+P  C1:]
+A5     4        q     d
 D5     2        e     d
 F5     4        q     d
 A5     2        e     d

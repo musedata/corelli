@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata XI
-@@@OTL: Giga 
+@@@OTL: Giga
+@@@OPS: 2
+@@@ONM: 11
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n11-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n11-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:a705a53059d17532d3d54da420739938]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Giga 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata XI
+Giga
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:12/8  C:4  D:Allegro 
+$  K:-2   Q:2   T:12/8  C:4  D:Allegro
 rest   1        e
 rest   1        e
 mheavy3                   |:
@@ -241,9 +249,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:2fe3a7155bdd7d3fc6b4ed18cd312610]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Giga 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata XI
+Giga
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -251,10 +259,10 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:12/8  C:4  D:Allegro 
-rest   1        e 
-rest   1        e 
-mheavy3                   |: 
+$  K:-2   Q:2   T:12/8  C:4  D:Allegro
+rest   1        e
+rest   1        e
+mheavy3                   |:
 G4     1        e     u
 Bf4    2        q     d
 G4     1        e     u
@@ -432,16 +440,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:76e9d5d71ea340355746d6bbb0395095]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Giga 
-Violone 
+Chamber Sonatas, Op. 2: Sonata XI
+Giga
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:12/8  C:22  D:Allegro 
+$  K:-2   Q:2   T:12/8  C:22  D:Allegro
 rest   2        q
 mheavy3                   |:
 rest   1        e
@@ -548,16 +556,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:22078c55593e8cde8892867a2c0008af]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Giga 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata XI
+Giga
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:12/8  C:22  D:Allegro 
+$  K:-2   Q:2   T:12/8  C:22  D:Allegro
 rest   2        q
 mheavy3                   |:
 rest   1        e
@@ -743,8 +751,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:615542101479b8ea375dcc239311f679]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Giga 
+Chamber Sonatas, Op. 2: Sonata XI
+Giga
 Violone e Cembalo
 
 Group memberships: score
@@ -752,7 +760,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:2   T:12/8  C:22  D:Allegro 
+$  K:-2   Q:2   T:12/8  C:22  D:Allegro
 rest   2        q
 mheavy3                   |:
 rest   1        e

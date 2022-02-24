@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto IV
 @@@OTL: Sarabanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 12
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no12
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n12-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n12-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -51,8 +59,8 @@ D5    16        h     d
 measure 8
 C5    24        h.    d
 mheavy4 9       :|:
-P  C1:] 
-F5     8        q     d 
+P  C1:]
+F5     8        q     d
 A5    16        h     d
 measure 10
 D5     8        q     d

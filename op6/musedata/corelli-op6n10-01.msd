@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto II
 @@@OTL: Preludio
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 10
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no10
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n10-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n10-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -1259,8 +1267,8 @@ rest   2        e
 A4     2        e     d
 measure 23
 D4     2        e     d  [
-E4     2        e     d  = 
-G4     3        e.    d  = 
+E4     2        e     d  =
+G4     3        e.    d  =
 G4     1        s     d  ]\
 G4     4        q     d
 rest   2        e
@@ -1324,7 +1332,7 @@ B3     1        e     d  [
 G3     1        e     d  =
 C4     1        e     d  =
 B3     1        e     d  ]
-f1              6/ 
+f1              6/
 A3     1        e     d  [
 G3     1        e     d  =
 f1              4

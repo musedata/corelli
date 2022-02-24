@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata VIII
-@@@OTL: Allemanda 
+@@@OTL: Allemanda
+@@@OPS: 2
+@@@ONM: 8
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n08-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n08-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:5aafc3339ac90959581a5e3560e2aeb8]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Allemanda 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata VIII
+Allemanda
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Largo 
+$  K:2   Q:4   T:1/1  C:4  D:Largo
 rest   1        s
 B4     1        s     d
 measure 1
@@ -242,9 +250,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:7c55b7af75f70d844340b533e2b62192]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Allemanda 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata VIII
+Allemanda
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -252,7 +260,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Largo 
+$  K:2   Q:4   T:1/1  C:4  D:Largo
 rest   1        s
 D5     1        s     d
 measure 1
@@ -444,16 +452,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:f6eaeb50b9fa7de36d36285a6acb4371]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Allemanda 
-Violone 
+Chamber Sonatas, Op. 2: Sonata VIII
+Allemanda
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Largo 
+$  K:2   Q:4   T:1/1  C:22  D:Largo
 rest   1        s
 B3     1        s     d
 measure 1
@@ -700,16 +708,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:74a2d3cab9ae5734caaa5e4d242e12e9]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Allemanda 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata VIII
+Allemanda
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Largo 
+$  K:2   Q:4   T:1/1  C:22  D:Largo
 rest   1        s
 B3     1        s     d
 measure 1
@@ -1080,8 +1088,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:b2c41ec1d17f26b20035c9f8662e428e]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Allemanda 
+Chamber Sonatas, Op. 2: Sonata VIII
+Allemanda
 Violone e Cembalo
 
 Group memberships: score
@@ -1089,7 +1097,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Largo 
+$  K:2   Q:4   T:1/1  C:22  D:Largo
 rest   1        s
 B3     1        s     d
 measure 1

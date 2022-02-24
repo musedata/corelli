@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata I
 @@@OTL: Grave
+@@@OPS: 1
+@@@ONM: 1
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n01-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n01-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:e7e9531bf7fa032131dd2a91e2f36967]
 08/16/93 S. Rasmussen
 WK#:1,1       MV#:1
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata I 
+Church Sonatas, Op. 1: Sonata I
 [Movement 1]
-Violino 1 
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete.
 &
-$  K:-1   Q:4   T:1/1  C:4  D:Grave 
+$  K:-1   Q:4   T:1/1  C:4  D:Grave
 C6     4        q     d
 Bf5    4        q     d
 A5     6        q.    d
@@ -129,9 +137,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:15fab19b48d48ef06716735743860c90]
 08/16/93 S. Rasmussen
 WK#:1,1       MV#:1
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata I 
+Church Sonatas, Op. 1: Sonata I
 [Movement 1]
-Violino 2 
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -139,7 +147,7 @@ score: part 2 of 3
 &
 Stage 2 complete.
 &
-$  K:-1   Q:4   T:1/1  C:4  D:Grave 
+$  K:-1   Q:4   T:1/1  C:4  D:Grave
 A5     4        q     d
 G5     4        q     d
 F5     6        q.    d
@@ -525,16 +533,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:350d8549ec1709329551fc1458988e21]
 08/16/93 S. Rasmussen
 WK#:1,1       MV#:1
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata I 
+Church Sonatas, Op. 1: Sonata I
 [Movement 1]
-Violone e Organo 
+Violone e Organo
 
 Group memberships: score
 score: part 3 of 3
 &
 Stage 2 complete.
 &
-$  K:-1   Q:4   T:1/1  C:22  D:Grave 
+$  K:-1   Q:4   T:1/1  C:22  D:Grave
 F3     4        q     u
 G3     4        q     u
 A3     2        e     u  [

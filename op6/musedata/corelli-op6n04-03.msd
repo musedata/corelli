@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto IV
 @@@OTL: Vivace
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 4
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n04-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n04-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -21,7 +29,7 @@ Group memberships: score
 score: part 1 of 7
 $  K:2   Q:4   T:3/4  C:4  D:Vivace
 *               D +     Soli
-P  C25:f31  C17:Y-20 
+P  C25:f31  C17:Y-20
 F#5    4        q     d
 A5     8        h     d
 measure 2
@@ -37,7 +45,7 @@ measure 4
 C#5   12        h.    d
 measure 5
 *               D +     Tutti
-P  C25:f31  C17:Y-25 
+P  C25:f31  C17:Y-25
 F#5    4        q     d
 A5     8        h     d
 measure 6
@@ -51,8 +59,8 @@ B4     8        h     d
 measure 8
 A4    12        h.    u
 mheavy4 9       :|:
-P  C1:] 
-A5     4        q     d 
+P  C1:]
+A5     4        q     d
 C5     6        q.n   d
 C5     2        e     d
 measure 10

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata VII
 @@@OTL: Giga
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 7
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n07-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n07-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -20,10 +28,10 @@ Violino 1
 Group memberships: score
 score: part 1 of 3
 $  K:-1   Q:3   T:12/8  C:4  D:Allegro
-& 
+&
 Q parameter changed from 2 to 3 to enable printing with trs. in different meter.  -EC
-& 
-F5     1        e     d  [     ( 
+&
+F5     1        e     d  [     (
 A5     1        e     d  =     )
 F5     1        e     d  ]
 C5     1        e     d  [     (
@@ -517,7 +525,7 @@ D3     2        q     d
 f2              6 5
 E3     2        q     d
 F3     4        h     d
-measure 3 
+measure 3
 f1              6
 E3     4        h     d
 f1              7

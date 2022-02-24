@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VII
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 7
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n07-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n07-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -22,7 +30,7 @@ score: part 1 of 7
 $  K:2   Q:12   T:3/4  C:4  D:Allegro
 P  C0:t2
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 D4     6        e     u  [
 D4     6        e     u  =
 F#4    6        e     u  =
@@ -74,7 +82,7 @@ rest  12        q
 rest  12        q
 measure 9
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 D4     6        e     u  [
 D4     6        e     u  =
 F#4    6        e     u  =
@@ -434,8 +442,8 @@ D4     3        s     u  ==
 F#4    3        s     u  ]]
 measure 43
 B4    24        h     d
-$  D:Adagio 
-rest  12        q 
+$  D:Adagio
+rest  12        q
 measure 44
 rest  12        q
 rest  12        q               F
@@ -471,31 +479,31 @@ measure 52
 D5    36        h.    d
 measure 53
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5   12        q     d
 E5    12        q     d
 rest  12        q
 measure 54
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5   12        q     d
 E5    12        q     d
 rest  12        q
 measure 55
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 D5    12        q     d
 C#5   12        q     d
 rest  12        q
 measure 56
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 D5    12        q     d
 C#5   12        q     d
 rest  12        q
 measure 57
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5   12        q     d
 F#5   18        q.    d
 F#5    6        e     d
@@ -857,8 +865,8 @@ F#4    3        s     u  ==
 A4     3        s     u  ]]
 measure 43
 E4    24        h     u
-$  D:Adagio 
-rest  12        q 
+$  D:Adagio
+rest  12        q
 measure 44
 rest  12        q
 rest  12        q               F
@@ -1587,8 +1595,8 @@ A4     1        s     u  ==
 A4     1        s     u  ]]
 measure 43
 B4     8        h     d
-$  D:Adagio 
-rest   4        q 
+$  D:Adagio
+rest   4        q
 measure 44
 rest   4        q
 rest   4        q               F
@@ -1904,8 +1912,8 @@ F#4    1        s     u  ==
 F#4    1        s     u  ]]
 measure 43
 E4     8        h     u
-$  D:Adagio 
-rest   4        q 
+$  D:Adagio
+rest   4        q
 measure 44
 rest   4        q
 rest   4        q               F
@@ -2169,8 +2177,8 @@ D4     1        s     d  ==
 D4     1        s     d  ]]
 measure 43
 B3     8        h     u
-$  D:Adagio 
-rest   4        q 
+$  D:Adagio
+rest   4        q
 measure 44
 rest   4        q
 rest   4        q               F

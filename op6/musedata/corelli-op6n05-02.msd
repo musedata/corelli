@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto V
 @@@OTL: Adagio
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 5
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n05-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n05-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -14,8 +22,8 @@ FILENAME = 01
 WK#:6,5       MV#:2
 Augener/Chrysander 1888-1891
 Concerto V
-II 
-Violino 1 concertino 
+II
+Violino 1 concertino
 5 16
 Group memberships: score
 score: part 1 of 7
@@ -205,8 +213,8 @@ FILENAME = 02
 WK#:6,5       MV#:2
 Augener/Chrysander 1888-1891
 Concerto V
-II 
-Violino 2 concertino 
+II
+Violino 2 concertino
 5 16
 Group memberships: score
 score: part 2 of 7
@@ -392,8 +400,8 @@ FILENAME = 03
 WK#:6,5       MV#:2
 Augener/Chrysander 1888-1891
 Concerto V
-II 
-Violoncello concertino 
+II
+Violoncello concertino
 1 16
 Group memberships: score
 score: part 3 of 7
@@ -625,8 +633,8 @@ FILENAME = 04
 WK#:6,5       MV#:2
 Augener/Chrysander 1888-1891
 Concerto V
-II 
-Violino 1 concerto grosso 
+II
+Violino 1 concerto grosso
 5 16
 Group memberships: score
 score: part 4 of 7
@@ -775,8 +783,8 @@ FILENAME = 05
 WK#:6,5       MV#:2
 Augener/Chrysander 1888-1891
 Concerto V
-II 
-Violino 2 concerto grosso 
+II
+Violino 2 concerto grosso
 5 16
 Group memberships: score
 score: part 5 of 7
@@ -913,7 +921,7 @@ FILENAME = 06
 WK#:6,5       MV#:2
 Augener/Chrysander 1888-1891
 Concerto V
-II 
+II
 Viola
 5 16
 Group memberships: score
@@ -1054,8 +1062,8 @@ FILENAME = 07
 WK#:6,5       MV#:2
 Augener/Chrysander 1888-1891
 Concerto V
-II 
-Basso concerto grosso 
+II
+Basso concerto grosso
 5 16
 Group memberships: score
 score: part 7 of 7

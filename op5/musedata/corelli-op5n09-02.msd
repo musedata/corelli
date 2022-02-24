@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata IX
 @@@OTL: Giga
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 9
+@@@OMV: 2
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n09-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n09-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -525,8 +533,8 @@ WK#:5,9       MV#:2
 Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in A
 Giga
-Violino solo (2nd voice) 
-3 53 
+Violino solo (2nd voice)
+3 53
 Group memberships: data
 data: part 2 of 3
 $  K:2   Q:2   T:12/8  C:4  D:Allegro

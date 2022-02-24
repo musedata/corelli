@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata X
 @@@OTL: Sarabanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 10
+@@@OMV: 3
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no10
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n10-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n10-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -146,7 +154,7 @@ Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in F
 Sarabanda
 Violino solo (2nd voice)
-1 60 
+1 60
 Group memberships: data
 data: part 2 of 3
 $  K:-1   Q:2   T:3/4  C:4  D:Largo

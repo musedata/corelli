@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto I
 @@@OTL: Largo
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 1
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n01-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n01-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -21,7 +29,7 @@ Group memberships: score
 score: part 1 of 7
 $  K:2   Q:2   T:3/4  C:4  D:Largo
 *               D +     Soli
-P  C25:f31 
+P  C25:f31
 A5     2        q     d
 F#5    1        e     d  [     (
 E5     1        e     d  =     )
@@ -58,7 +66,7 @@ measure 8
 D5     6        h.    d
 measure 9
 *               D +     Tutti
-P  C25:f31 
+P  C25:f31
 A5     2        q     d
 F#5    1        e     d  [     (
 E5     1        e     d  =     )
@@ -95,7 +103,7 @@ measure 16
 D5     6        h.    d
 measure 17
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    2        q     d
 B4     2        q     d
 A5     2        q     d
@@ -113,7 +121,7 @@ G#5    1        e #   d  ]     )
 A#5    4        h #   d
 measure 21
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    2        q     d
 D5     2        q     d
 B4     2        q     d
@@ -149,7 +157,7 @@ measure 28
 F#4    6        h.    u
 measure 29
 *               D +     Soli
-P  C25:f31 
+P  C25:f31
 A5     2        q     d
 F#5    1        e     d  [     (
 E5     1        e     d  =     )
@@ -200,7 +208,7 @@ measure 39
 F#5    1        e     d  [     (
 G5     1        e     d  ]     )
 E5     4        h     d
-mdouble 
+mdouble
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata XI
-@@@OTL: Allemanda 
+@@@OTL: Allemanda
+@@@OPS: 2
+@@@ONM: 11
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n11-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n11-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:f13a504455fd2a08e48ad8493002a24f]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Allemanda 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata XI
+Allemanda
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:4  D:Presto 
+$  K:-2   Q:4   T:1/1  C:4  D:Presto
 rest   1        s
 Bf4    1        s     d
 measure 1
@@ -265,9 +273,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:f8bfd9b2971919a26a8342ea092291f9]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Allemanda 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata XI
+Allemanda
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -275,7 +283,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:4  D:Presto 
+$  K:-2   Q:4   T:1/1  C:4  D:Presto
 rest   1        s
 G4     1        s     u
 measure 1
@@ -464,16 +472,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:40ebe2f95d15335e6093fb1678a1cdb4]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Allemanda 
-Violone 
+Chamber Sonatas, Op. 2: Sonata XI
+Allemanda
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:22  D:Presto 
+$  K:-2   Q:4   T:1/1  C:22  D:Presto
 rest   1        s
 Ef3    1        s     d
 measure 1
@@ -615,16 +623,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:95f000f508f178b784e2465ae9489290]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Allemanda 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata XI
+Allemanda
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:22  D:Presto 
+$  K:-2   Q:4   T:1/1  C:22  D:Presto
 rest   1        s
 Ef3    1        s     d
 measure 1
@@ -864,8 +872,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:ea9e7f799354f42c048f920c23de733f]
 01/09/95 W. Hewlett
 WK#:2,11      MV#:2
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata XI 
-Allemanda 
+Chamber Sonatas, Op. 2: Sonata XI
+Allemanda
 Violone e Cembalo
 
 Group memberships: score
@@ -873,7 +881,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:-2   Q:4   T:1/1  C:22  D:Presto 
+$  K:-2   Q:4   T:1/1  C:22  D:Presto
 rest   1        s
 Ef3    1        s     d
 measure 1

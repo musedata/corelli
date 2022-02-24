@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata III
 @@@OTL: [Third Movement]
+@@@OPS: 2
+@@@ONM: 3
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n03-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n03-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:99feaa48cbe8c86e4483b51aaf083d18]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 Adagio
-Violino 1 
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:3/2  C:4  D:Adagio 
+$  K:0   Q:2   T:3/2  C:4  D:Adagio
 rest   4        h
 rest   4        h
 E5     4        h     d
@@ -158,9 +166,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:87ebcc6bb39227b501a64f9a54739482]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 [Third Movement]
-Violino 2 
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -168,7 +176,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:3/2  C:4  D:Adagio 
+$  K:0   Q:1   T:3/2  C:4  D:Adagio
 rest   2        h
 rest   2        h
 C5     2        h     d
@@ -286,16 +294,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:35a2b8b612f559d1d6d81ceaf958eb3c]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 [Third Movement]
-Violone 
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:3/2  C:22  D:Adagio 
+$  K:0   Q:1   T:3/2  C:22  D:Adagio
 rest   2        h
 rest   2        h
 A3     2        h     d
@@ -407,16 +415,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:67c14a37838d857fe83559ecadf01736]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 [Third Movement]
-Cembalo 
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:3/2  C:22  D:Adagio 
+$  K:0   Q:1   T:3/2  C:22  D:Adagio
 rest   2        h
 rest   2        h
 A3     2        h     d
@@ -623,7 +631,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:ebb2572b750326ea223979dd41e10b1a]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:3
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
+Chamber Sonatas, Op. 2: Sonata III
 [Third Movement]
 Violone e Cembalo
 
@@ -632,7 +640,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:1   T:3/2  C:22  D:Adagio 
+$  K:0   Q:1   T:3/2  C:22  D:Adagio
 rest   2        h
 rest   2        h
 A3     2        h     d

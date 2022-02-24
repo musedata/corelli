@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata I
 @@@OTL: Grave
+@@@OPS: 3
+@@@ONM: 1
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n01-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n01-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -283,9 +291,9 @@ G3     2        e     d  =
 f1              4
 P    C1:Y75
 C4     2        e     d  =
-f1     1        b 
-f1              3 
-P    C1:Y80 
+f1     1        b
+f1              3
+P    C1:Y80
 C3     2        e     d  ]
 F3     8        h     d
 measure 5
@@ -381,8 +389,8 @@ E3     2        e     d  =
 f2              5 4
 P    C1:Y80
 A3     2        e     d  =
-f1     1        b 
-f2              b # 
+f1     1        b
+f2              b #
 P    C1:Y80
 A2     2        e     d  ]
 D3     4        q     d
@@ -434,8 +442,8 @@ G3     2        e     d  =
 f2              5 4
 P    C1:Y75
 C4     2        e     d  =
-f1     1        b 
-f2              b 3 
+f1     1        b
+f2              b 3
 P    C1:Y75
 C3     2        e     d  ]
 measure 17

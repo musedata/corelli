@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata IV
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 4
+@@@OMV: 2
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n04-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n04-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -902,8 +910,8 @@ WK#:5,4       MV#:2
 Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in F
 
-Violino solo (2nd voice) 
-1 49 
+Violino solo (2nd voice)
+1 49
 Group memberships: data
 data: part 2 of 3
 $  K:-1   Q:4   T:1/1  C:4  D:Allegro
@@ -921,7 +929,7 @@ E4     2        e     d  =
 E4     2        e     d  ]
 A4     2        e     d  [
 A4     2        e     d  ]
-B4     4        q n   d 
+B4     4        q n   d
 measure 4
 irest  8
 D5     6        q.    d
@@ -931,10 +939,10 @@ E5     2        e     d  [
 C5     2        e     d  =
 F5     2        e     d  =
 A4     2        e     d  ]
-G4     8        h     d 
- C4    8        h     d 
+G4     8        h     d
+ C4    8        h     d
 measure 6
-A4     6        q.    d 
+A4     6        q.    d
 C5     2        e     d
 D5     2        e     d  [
 D5     2        e     d  ]
@@ -953,8 +961,8 @@ Bf5    2        e     d  [
 A5     1        s     d  =[
 G5     1        s     d  ]]
 measure 8
-rest   2        e     
-F4     2        e     d  [ 
+rest   2        e
+F4     2        e     d  [
 F4     2        e     d  =
 F4     2        e     d  ]
 E4     2        e     d  [
@@ -964,11 +972,11 @@ E4     2        e     d  ]
 measure 9
 A4     2        e     d  [
 A4     2        e     d  ]
-D5     4        q     d 
+D5     4        q     d
 D5     2        e     d  [
 G4     2        e     d  =
-C5     2        e     d  = 
-G5     2        e     d  ] 
+C5     2        e     d  =
+G5     2        e     d  ]
 measure 10
 rest  16
 measure 11
@@ -980,7 +988,7 @@ A3     2        e     d  =
 A3     2        e     d  ]
 D4     2        e     d  [
 D4     2        e     d  ]
-E4     4        q     d 
+E4     4        q     d
 measure 13
 rest  16
 measure 14
@@ -989,16 +997,16 @@ measure 15
 rest  16
 measure 16
 irest  6
-A3     2        e     d 
-G3     8        h     d 
+A3     2        e     d
+G3     8        h     d
 measure 17
-A3     4        q     d 
-irest 12 
+A3     4        q     d
+irest 12
 measure 18
 rest  16
 measure 19
 irest  8        h
-C4     8        h     d 
+C4     8        h     d
 measure 20
 rest  16
 measure 21
@@ -1030,14 +1038,14 @@ E5     1        s     d  ==
 D5     1        s     d  ]]
 measure 27
 C#5    2        e #   d  [
-D5     2        e     d  ] 
-D5     2        e     d  [ 
+D5     2        e     d  ]
+D5     2        e     d  [
 C#5    2        e     d  ]
 irest  8        h
-back  12 
-A4     4        q     d 
-irest  8 
-measure 28 
+back  12
+A4     4        q     d
+irest  8
+measure 28
 rest  16
 measure 29
 rest  16
@@ -1048,7 +1056,7 @@ rest  16
 measure 32
 rest  16
 measure 33
-A4     4        q     d 
+A4     4        q     d
 irest  6
 D5     2        e     d  [
 D5     2        e     d  =
@@ -1080,18 +1088,18 @@ Bf4    4        q     d
 rest   2        e
 Bf4    2        e     d
 measure 40
-A4     4        q     d 
+A4     4        q     d
 irest  2
-A4     2        e     d 
-G4     4        q     d 
+A4     2        e     d
+G4     4        q     d
 irest  2
 C5     2        e     d
 measure 41
-F4     4        q     d 
-E4     4        q     d 
-D4     8        h     d 
+F4     4        q     d
+E4     4        q     d
+D4     8        h     d
 measure 42
-C4     4        q     d 
+C4     4        q     d
 irest 12
 measure 43
 rest  16
@@ -1103,42 +1111,42 @@ measure 46
 irest 12
 D5     4        q     d
 measure 47
-G5     4        q     d 
-irest  2        e 
-G5     2        e     d 
-F#5    4        q #   d 
-irest  2 
-F#5    2        e     d 
-back  16 
-D4     4        q     u 
-irest 12 
-back  16 
-G3     4        q     d 
-irest 12 
-measure 48 
-G5     4        q     d 
-irest  2        e 
-G5     2        e     d 
-F#5    4        q #   d 
-irest  2 
-F#5    2        e     d 
+G5     4        q     d
+irest  2        e
+G5     2        e     d
+F#5    4        q #   d
+irest  2
+F#5    2        e     d
+back  16
+D4     4        q     u
+irest 12
+back  16
+G3     4        q     d
+irest 12
+measure 48
+G5     4        q     d
+irest  2        e
+G5     2        e     d
+F#5    4        q #   d
+irest  2
+F#5    2        e     d
 measure 49
-G5     4        q     d 
-irest  2        e 
-G5     2        e     d 
-E5     4        q #   d 
-irest  2 
-E5     2        e     d 
+G5     4        q     d
+irest  2        e
+G5     2        e     d
+E5     4        q #   d
+irest  2
+E5     2        e     d
 measure 50
-F5     4        q     d 
-irest  2        e 
-F5     2        e     d 
-E5     4        q #   d 
-irest  2 
-E5     2        e     d 
+F5     4        q     d
+irest  2        e
+F5     2        e     d
+E5     4        q #   d
+irest  2
+E5     2        e     d
 measure 51
-F5     4        q     d 
-irest 12 
+F5     4        q     d
+irest 12
 measure 52
 rest  16
 measure 53
@@ -1161,29 +1169,29 @@ A4     2        e     d  =
 A4     2        e     d  =
 A4     2        e     d  ]
 measure 57
-G4     4        q     d 
+G4     4        q     d
 rest  10
 D5     2        e     u
 measure 58
-E4     4        q     d 
-E4     4        q     d 
-D4     4        q     d 
-D4     4        q     d 
+E4     4        q     d
+E4     4        q     d
+D4     4        q     d
+D4     4        q     d
 measure 59
-C4     4        q     d 
-F4     4        q     d 
-Bf3    4        q     d 
-D4     4        q     d 
+C4     4        q     d
+F4     4        q     d
+Bf3    4        q     d
+D4     4        q     d
 measure 60
-E4     4        q     d 
+E4     4        q     d
 irest  4
-D4     2        e     d  [        ( 
-E4     2        e     d  ]        ) 
-A3     4        q     d 
+D4     2        e     d  [        (
+E4     2        e     d  ]        )
+A3     4        q     d
 measure 61
-G3     4        q     d 
-Bf3    4        q     d 
-C4     8        h     d 
+G3     4        q     d
+Bf3    4        q     d
+C4     8        h     d
 mheavy2
 /END
 /eof

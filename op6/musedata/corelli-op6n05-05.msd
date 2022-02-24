@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto V
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 5
+@@@OMV: 5
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n05-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n05-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -129,8 +137,8 @@ G5     4        e  3  d  [      (
 A5     4        e  3  d  =
 G5     4        e  3  d  ]      )
 measure 13
-P   C1:] 
-D5    12        q     d 
+P   C1:]
+D5    12        q     d
 C5    12        q     d
 Bf4   12        q     d
 A4    12        q     u
@@ -174,8 +182,8 @@ measure 18
 G5    24        h     d
 F5    24        h     d
 mheavy4 19      :|:
-P   C1:] 
-C5    12        q     d 
+P   C1:]
+C5    12        q     d
 C5    12        q     d
 C5    12        q     d
 C5    12        q     d
@@ -960,11 +968,11 @@ G3     1        q     d
 measure 29
 f1              6
 Ef3    1        q f   d
-f1              (f) 
+f1              (f)
 F3     1        q     d
 f2              7 n
 G3     1        q     d
-f1              (f) 
+f1              (f)
 C3     1        q     u
 measure 30
 f1              4

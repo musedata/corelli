@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto II
 @@@OTL: Vivace
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 2
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n02-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n02-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -351,8 +359,8 @@ E5     4        q     d
 E5     4        q     d
 measure 56
 E5     8        h     d         t
-rest   2        e 
-*               D +     Tutti 
+rest   2        e
+*               D +     Tutti
 P  C25:f33  C25:f31  C17:Y-15
 G4     2        e     u
 measure 57
@@ -365,8 +373,8 @@ G5     4        q     d
 G5     4        q     d
 measure 59
 G5     8        h     d         t
-rest   2        e 
-*               D +     Tutti 
+rest   2        e
+*               D +     Tutti
 P  C25:f33  C25:f31  C17:Y-15
 E4     2        e     u
 measure 60
@@ -3390,7 +3398,7 @@ $  D:Adagio
 F4     4        q     d
 F4     8        h     d
 measure 101
-$  Q:4   T:1/1   D:Largo andante 
+$  Q:4   T:1/1   D:Largo andante
 G4     4        q     d
 rest   4        q
 rest   8        h
@@ -3448,7 +3456,7 @@ FILENAME = 07
 
 
 03/19/10 E. Correia
-WK#:6,2       MV#:1  12 
+WK#:6,2       MV#:1  12
 Augener/Chrysander 1888-1891
 Concerto II
 
@@ -3475,9 +3483,9 @@ measure 6
 rest   4        q
 rest   4        q
 rest   2        e
-F3     2        e     d 
+F3     2        e     d
 measure 7
-F3    12        h.    d 
+F3    12        h.    d
 measure 8
 rest  12
 measure 9
@@ -3488,7 +3496,7 @@ rest  12
 measure 11
 rest  12
 measure 12
-rest  12 
+rest  12
 measure 13
 F3     2        e     d  [
 C3     2        e     d  =
@@ -3743,7 +3751,7 @@ rest  12
 measure 64
 rest  12
 measure 65
-rest  12 
+rest  12
 measure 66
 C3     2        e     u  [
 G2     2        e     u  =
@@ -3857,7 +3865,7 @@ A2     4        q     u
 rest   4        q
 measure 84
 f1              #
-A3     6        q.    d         &1f 
+A3     6        q.    d         &1f
 P   C33:y-12
 f1              6
 F3     2        e     d
@@ -3943,14 +3951,14 @@ D3     8        h     d
 measure 101
 $  Q:4  T:1/1  D:Largo andante
 C3     4        q     u
-rest   4        q 
-rest   8        h 
+rest   4        q
+rest   8        h
 measure 102
-rest  16 
+rest  16
 measure 103
-rest  16 
+rest  16
 measure 104
-rest  16 
+rest  16
 measure 105
 rest   4        q
 rest   2        e

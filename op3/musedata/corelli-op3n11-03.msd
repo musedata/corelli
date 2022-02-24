@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata XI
 @@@OTL: Adagio
-@@@SMS: Augener/Chrysander
+@@@OPS: 3
+@@@ONM: 11
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n11-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n11-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -324,7 +332,7 @@ G3     2-       h     d        -
 measure 18
 f2              4 2
 G3     2        h     d
-f1              5 
+f1              5
 F#3    4        w #   d
 measure 19
 f2     2        5 4

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata III
 @@@OTL: Tempo di Gavotta
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 3
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n03-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n03-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -86,8 +94,8 @@ A4     1        q     u
 G#4    1        q #   u
 A4     2        h     u
 mheavy4 15      :|:
-P  C1:] 
-C#5    1        q     d 
+P  C1:]
+C#5    1        q     d
 G#4    1        q #   u
 A4     1        q     u
 E#4    1        q #   u

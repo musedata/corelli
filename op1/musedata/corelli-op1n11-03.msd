@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata XI
 @@@OTL: Adagio
+@@@OPS: 1
+@@@ONM: 11
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no11
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n11-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n11-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:3c3df033769027600c5b3509d0eb00b5]
 09/16/93 S. Rasmussen
 WK#:1,11      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XI 
+Church Sonatas, Op. 1: Sonata XI
 [Movement 3]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:1   T:3/2  C:4  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:4  D:Adagio
 rest   2        h
 F5     2        h     d
 G5     2        h     d
@@ -154,7 +162,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:ce1019b41189d1a5799bd900eb1b97b5]
 09/16/93 S. Rasmussen
 WK#:1,11      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XI 
+Church Sonatas, Op. 1: Sonata XI
 [Movement 3]
 Violino 2
 
@@ -164,7 +172,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:1   T:3/2  C:4  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:4  D:Adagio
 rest   2        h
 D5     2        h     d
 E5     2        h     d
@@ -288,7 +296,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:5bbd4f4f31c668a81d2c1d9b1dbe718b]
 09/16/93 S. Rasmussen
 WK#:1,11      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XI 
+Church Sonatas, Op. 1: Sonata XI
 [Movement 3]
 Violone, o Arcileuto
 
@@ -297,7 +305,7 @@ sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:1   T:3/2  C:22  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:22  D:Adagio
 D3     6        w.    d
 measure 2
 D3     3        h.    d
@@ -414,7 +422,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:400b975a67059e9bd76a366140dafaaf]
 09/16/93 S. Rasmussen
 WK#:1,11      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XI 
+Church Sonatas, Op. 1: Sonata XI
 [Movement 3]
 Organo
 
@@ -423,7 +431,7 @@ sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:1   T:3/2  C:22  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:22  D:Adagio
 f1     4        b
 f2              4 2
 D3     6        w.    d
@@ -642,7 +650,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:8cd25269d5666f4b6fb14d0f428ff151]
 09/16/93 S. Rasmussen
 WK#:1,11      MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata XI 
+Church Sonatas, Op. 1: Sonata XI
 [Movement 3]
 Violone  e  Organo
 
@@ -651,7 +659,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:-1   Q:1   T:3/2  C:22  I:2  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:22  I:2  D:Adagio
 *               D +     unis.
 P     C25:f31
 f1     4        b

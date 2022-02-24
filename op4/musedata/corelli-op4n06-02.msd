@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata VI
 @@@OTL: Allemanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 6
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n06-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n06-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -76,8 +84,8 @@ D#5    4        q #   d
 C#5    4        q     d
 B4     8        h     d
 mheavy4 9       :|:
-P  C1:] 
-F#5    6        q.    d 
+P  C1:]
+F#5    6        q.    d
 rest   1        s
 E5     1        s     d
 D#5    3        e.#   d  [

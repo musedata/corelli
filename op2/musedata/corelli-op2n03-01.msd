@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata III
-@@@OTL: Preludio 
+@@@OTL: Preludio
+@@@OPS: 2
+@@@ONM: 3
+@@@OMV: 1
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n03-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n03-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:4c2a19bc5c4577aa4d059ccd27b31938]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
-Preludio 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata III
+Preludio
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:1/1  C:4  D:Largo 
+$  K:0   Q:4   T:1/1  C:4  D:Largo
 G5     1        s     d
 measure 1
 G5     3        e.    d  [
@@ -122,9 +130,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:6c6d5355b170b217539fea6e80fabcef]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
-Preludio 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata III
+Preludio
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -132,7 +140,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:1/1  C:4  D:Largo 
+$  K:0   Q:4   T:1/1  C:4  D:Largo
 E5     1        s     d
 measure 1
 E5     3        e.    d  [
@@ -232,16 +240,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:58bd50dcaf8892b5f606a3255cc8ab52]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
-Preludio 
-Violone 
+Chamber Sonatas, Op. 2: Sonata III
+Preludio
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:1/1  C:22  D:Largo 
+$  K:0   Q:4   T:1/1  C:22  D:Largo
 C3     1        s     u
 measure 1
 C3     4        q     u
@@ -334,16 +342,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:0d5aaf6155b4be4148345509aafac2dd]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
-Preludio 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata III
+Preludio
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:1/1  C:22  D:Largo 
+$  K:0   Q:4   T:1/1  C:22  D:Largo
 C3     1        s     u
 measure 1
 C3     4        q     u
@@ -516,8 +524,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:f595dfa45a4fc81e3038b2a58a2d2157]
 01/09/95 W. Hewlett
 WK#:2,3       MV#:1
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata III 
-Preludio 
+Chamber Sonatas, Op. 2: Sonata III
+Preludio
 Violone e Cembalo
 
 Group memberships: score
@@ -525,7 +533,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:1/1  C:22  D:Largo 
+$  K:0   Q:4   T:1/1  C:22  D:Largo
 C3     1        s     u
 measure 1
 C3     4        q     u

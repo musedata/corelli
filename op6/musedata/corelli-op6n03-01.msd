@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto III
 @@@OTL: Largo
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 3
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n03-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n03-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -50,7 +58,7 @@ Bf4    2        s     d  ]\
 Bf4    8        q     d
 rest   4        e
 *               D +     Soli
-P  C25:f31  C17:x-13Y-28 
+P  C25:f31  C17:x-13Y-28
 Bf5    4        e     d
 measure 5
 C6     4        e     d  [
@@ -63,7 +71,7 @@ Ef5   16        h     d
 D5    12        q.    d
 rest   2        s
 *               D +     Tutti
-P  C25:f31  C17:x-19Y-28 
+P  C25:f31  C17:x-19Y-28
 Bf5    2        s     d
 measure 7
 Bf5    6        e.    d  [
@@ -146,7 +154,7 @@ D5     4        e     d  [     (
 C5     4        e     d  ]     )
 rest   4        e
 *               D +     Soli
-P  C25:f31  C17:Y-20x-13 
+P  C25:f31  C17:Y-20x-13
 G5     4        e     d
 Af5    8        q f   d
 B4     8        q n   d
@@ -165,7 +173,7 @@ Ef5    4        e     d  ]     )
 rest   4        e
 rest   2        s
 *               D +     Tutti
-P  C25:f31  C17:x-19Y-30 
+P  C25:f31  C17:x-19Y-30
 G5     2        s     d
 Af5    6        e.f   d  [
 G5     2        s     d  ]\
@@ -489,7 +497,7 @@ G3     1        s     d
 measure 11
 D3     6        q.    d
 rest   1        s
-f1              (#) 
+f1              (#)
 D4     1        s     d
 f1              7
 Ef4    3        e.    d  [
@@ -587,7 +595,7 @@ f1     2        6
 f1              5
 Af3    6        q.f   d
 rest   1        s
-f1              (6) 
+f1              (6)
 Ef3    1        s     d
 f1              f
 F3     4        q     d

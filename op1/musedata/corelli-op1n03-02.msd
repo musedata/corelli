@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata III
 @@@OTL: Allegro
+@@@OPS: 1
+@@@ONM: 3
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n03-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n03-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 3&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:bc95a8f848579333c977f195f9150a35]
 08/19/93 S. Rasmussen
 WK#:1,3       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata III 
+Church Sonatas, Op. 1: Sonata III
 [Movement 2]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Allegro 
+$  K:2   Q:4   T:1/1  C:4  D:Allegro
 rest  16
 measure 2
 rest   2        e
@@ -429,7 +437,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:062ecf4f5e141419b3f75e68ffcdbf97]
 08/19/93 S. Rasmussen
 WK#:1,3       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata III 
+Church Sonatas, Op. 1: Sonata III
 [Movement 2]
 Violino 2
 
@@ -439,7 +447,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:4  D:Allegro 
+$  K:2   Q:4   T:1/1  C:4  D:Allegro
 rest   2        e
 A4     2        e     u  [
 C#5    2        e     u  =
@@ -849,7 +857,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:28b5b7073dccc63a45d60130e654ecd7]
 08/19/93 S. Rasmussen
 WK#:1,3       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata III 
+Church Sonatas, Op. 1: Sonata III
 [Movement 2]
 Violone
 
@@ -859,7 +867,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Allegro 
+$  K:2   Q:4   T:1/1  C:22  D:Allegro
 A2     4        q     u
 A3     8        h     d
 G#3    4        q #   d
@@ -1254,7 +1262,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:ab1adedbd45f6cbf466b268141bebe20]
 08/19/93 S. Rasmussen
 WK#:1,3       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata III 
+Church Sonatas, Op. 1: Sonata III
 [Movement 2]
 Organo
 
@@ -1264,7 +1272,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:4   T:1/1  C:22  D:Allegro 
+$  K:2   Q:4   T:1/1  C:22  D:Allegro
 A2     4        q     u
 f1     4        5
 f2              4 2

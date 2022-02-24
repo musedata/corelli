@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata IX
 @@@OTL: Tempo di Gavotta
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 9
+@@@OMV: 4
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n09-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n09-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -179,8 +187,8 @@ Bf4    2        q     d
 A4     2        q     u
 Bf4    4        h     d
 mheavy4 29      :|:
-P  C1:] 
-A4     1        e     d  [ 
+P  C1:]
+A4     1        e     d  [
 D5     1        e     d  =
 C5     1        e     d  =
 D5     1        e     d  ]

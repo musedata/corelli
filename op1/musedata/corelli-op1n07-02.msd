@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata VII
 @@@OTL: Grave
+@@@OPS: 1
+@@@ONM: 7
+@@@OMV: 2
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n07-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n07-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:ba7d646ccf6367591f54cfc9bf5cb9bf]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 2]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:4  D:Grave 
+$  K:0   Q:2   T:1/1  C:4  D:Grave
 E5     2        q     d
 E5     2        q     d
 E5     3        q.    d
@@ -97,7 +105,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:bab3c9d698628306cc66cf37ed950413]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 2]
 Violino 2
 
@@ -107,7 +115,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:4  D:Grave 
+$  K:0   Q:2   T:1/1  C:4  D:Grave
 C5     2        q     d
 B4     2        q     d
 C5     3        q.    d
@@ -184,7 +192,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:cb24f18248572f549f66321b3d0ecfd0]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 2]
 Violone (o Arcileuto)
 
@@ -193,7 +201,7 @@ sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Grave 
+$  K:0   Q:2   T:1/1  C:22  D:Grave
 A3     2        q     d
 G#3    2        q #   d
 A3     3        q.    d
@@ -271,7 +279,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:412a89970f1a7b12557ec3305456983f]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 2]
 Organo
 
@@ -280,7 +288,7 @@ sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  D:Grave 
+$  K:0   Q:2   T:1/1  C:22  D:Grave
 A3     2        q     d
 f1              6
 G#3    2        q #   d
@@ -436,7 +444,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:bc119b029b4862f1b252019d537a8ab3]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:2
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 2]
 Violone  e  Organo
 
@@ -445,7 +453,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:0   Q:2   T:1/1  C:22  I:2   D:Grave 
+$  K:0   Q:2   T:1/1  C:22  I:2   D:Grave
 A3     2        q     u
 G#3    2        q #   u
 back   4

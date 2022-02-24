@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata II
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 2
+@@@OMV: 2
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n02-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n02-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -18,7 +26,7 @@ Sonata for violin in Bb
 Violino solo
 5 49
 Group memberships: score
-score: part 1 of 2 
+score: part 1 of 2
 $  K:-1   Q:4   T:1/1  C:4  D:Allegro
 F5     6        q.    d
 F5     2        e     d
@@ -735,7 +743,7 @@ Gasparo Pietra Santa, Roma 1700/1979
 Sonata for violin in Bb
 
 Violino solo (2nd voice)
-5 49 
+5 49
 Group memberships: data
 data: part 3 of 4
 $  K:-1   Q:4   T:1/1  C:4  D:Allegro
@@ -748,7 +756,7 @@ C5     2        e     d  =
 D5     2        e     d  =
 E5     2        e     d  ]
 measure 3
-A4     4        q     d 
+A4     4        q     d
 rest   2        e
 F5     2        e     d
 F5     4        q     d
@@ -760,8 +768,8 @@ C5     8        h     d
 measure 5
 rest  16
 measure 6
-F4     6        q.    d 
-F4     2        e     d 
+F4     6        q.    d
+F4     2        e     d
 G4     2        e     d  [
 F4     2        e     d  =
 G4     2        e     d  =
@@ -771,29 +779,29 @@ Bf3    2        e     d  [
 C4     2        e     d  =
 D4     2        e     d  =
 C4     2        e     d  ]
-Bf3    4        q     d 
-Bf4    4        q     d 
+Bf3    4        q     d
+Bf4    4        q     d
 measure 8
-A4     4        q     d 
-A4     4        q     d 
-G4     4        q     d 
-G4     4        q     d 
+A4     4        q     d
+A4     4        q     d
+G4     4        q     d
+G4     4        q     d
 measure 9
-F4     4        q     d 
-D4     4        q     d 
-C4     4        q     d 
-C4     4        q     d 
+F4     4        q     d
+D4     4        q     d
+C4     4        q     d
+C4     4        q     d
 measure 10
-Bf3    4        q     d 
+Bf3    4        q     d
 irest  4
 D5     2        e     d  [
 E5     2        e     d  =
 A4     2        e     d  =
 A4     2        e     d  ]
 measure 11
-Bf4    8        h     d 
- G4    8        h     d 
-F4     6        q.    d 
+Bf4    8        h     d
+ G4    8        h     d
+F4     6        q.    d
 F5     2        e     d
 measure 12
 Ef5    2        e f   d  [
@@ -809,17 +817,17 @@ C5     2        e     d  =
 A4     2        e     d  ]
 Bf4    4        q     d
 rest   1        s
-D5     1        s     d  [[       ( 
+D5     1        s     d  [[       (
 C5     1        s     d  ==
-Bf4    1        s     d  ]]       ) 
+Bf4    1        s     d  ]]       )
 measure 14
-C5     8        h     d 
- F4    8        h     d 
+C5     8        h     d
+ F4    8        h     d
 irest  8
 measure 15
 irest  8
-Ef4    8        h     d 
- C4    8        h f   d 
+Ef4    8        h     d
+ C4    8        h f   d
 measure 16
 rest  16
 measure 17
@@ -833,19 +841,19 @@ D5     2        e     d  [
 C5     2        e     d  =
 D5     2        e     d  =
 E5     2        e     d  ]
-A4     4        q     d 
+A4     4        q     d
 rest   2        e
-A4     2        e     d 
+A4     2        e     d
 measure 20
-Bf4    8        h     d 
- G4    8        h     d 
-F4     4        q     d 
+Bf4    8        h     d
+ G4    8        h     d
+F4     4        q     d
 F5     4-       q     d        -
 measure 21
 F5     4        q     d
-Ef5    4-       q f   d        - 
-Ef5    4        q     d 
-D5     4        q     d 
+Ef5    4-       q f   d        -
+Ef5    4        q     d
+D5     4        q     d
 measure 22
 C5     4        q     d
 C5     4        q     d
@@ -855,14 +863,14 @@ measure 23
 C5     8        h     d
 Bf4    8        h     d
 measure 24
-A4     8        h     d 
-G3     4        q     d 
-G4     4        q     d 
+A4     8        h     d
+G3     4        q     d
+G4     4        q     d
 measure 25
-F4     8        h     d 
-Ef4    8        h f   d 
+F4     8        h     d
+Ef4    8        h f   d
 measure 26
-D4     8        h     d 
+D4     8        h     d
 Ef4    2        e f   d  [
 F4     2        e     d  =
 Ef4    2        e     d  =
@@ -884,42 +892,42 @@ Bf4    2        e     d  ]
 A4     2        e     d  [
 F4     2        e     d  ]
 rest   2        e
-F4     2        e     d 
+F4     2        e     d
 measure 29
-*               D       Arpeggio 
-P  C25:f33 
-G4     4        q     d 
-G4     4        q     d 
-F4     4        q     d 
-F4     4        q     d 
+*               D       Arpeggio
+P  C25:f33
+G4     4        q     d
+G4     4        q     d
+F4     4        q     d
+F4     4        q     d
 measure 30
-Ef4    4        q f   d 
-Ef4    4        q     d 
-D4     4        q     d 
-D4     4        q     d 
+Ef4    4        q f   d
+Ef4    4        q     d
+D4     4        q     d
+D4     4        q     d
 measure 31
-C4     4        q     d 
-C4     4        q     d 
-Bf3    4        q     d 
+C4     4        q     d
+C4     4        q     d
+Bf3    4        q     d
 Bf4    4        q     d
 measure 32
-Bf4    4        q     d 
- F4    4        q     d 
-A4     4        q     d 
-C4     4        q     d 
+Bf4    4        q     d
+ F4    4        q     d
+A4     4        q     d
+C4     4        q     d
 C5     4        q     d
 measure 33
-G3     4        q     d 
-back   4 
-C5     4        q     d 
-Bf4    4        q     d 
-D4     4        q     d 
+G3     4        q     d
+back   4
+C5     4        q     d
+Bf4    4        q     d
+D4     4        q     d
 D5     4        q     d
 measure 34
 D5     4        q     d
  A4    4        q     d
 rest   2        e
-A4     2        e     d 
+A4     2        e     d
 B4     2        e n   d  [
 A4     2        e     d  =
 B4     2        e     d  =
@@ -927,28 +935,28 @@ C#5    2        e #   d  ]
 measure 35
 D5     2        e     d  [
 A4     2        e     d  ]
-D5     4-       q     d        - 
-D5     4        q     d 
-C#5    4        q #   d 
+D5     4-       q     d        -
+D5     4        q     d
+C#5    4        q #   d
 measure 36
-*               D       Arpeggio 
-P  C25:f33 
-D4     8        h     d 
-G4     8        h     d 
+*               D       Arpeggio
+P  C25:f33
+D4     8        h     d
+G4     8        h     d
 measure 37
-C4     8        h     d 
-A3     8        h     d 
+C4     8        h     d
+A3     8        h     d
 measure 38
-Bf3    8        h     d 
-Ef4    4        q f   d 
-Ef4    4        q     d 
+Bf3    8        h     d
+Ef4    4        q f   d
+Ef4    4        q     d
 measure 39
-Ef4    4        q f   d 
-D4     4        q     d 
-C4     4        q     d 
-C4     4        q     d 
+Ef4    4        q f   d
+D4     4        q     d
+C4     4        q     d
+C4     4        q     d
 measure 40
-Bf3    4        q     d 
+Bf3    4        q     d
 irest  4
 rest   2        e
 Bf4    2        e     d  [
@@ -958,9 +966,9 @@ measure 41
 A4     2        e     d  [
 F4     2        e     d  ]
 rest   2        e
-D4     2        e     d 
-Ef4    8        h f   d 
- C4    8        h     d 
+D4     2        e     d
+Ef4    8        h f   d
+ C4    8        h     d
 measure 42
 rest  16
 measure 43
@@ -975,21 +983,21 @@ measure 46
 Bf4    4        q     d
 irest 12
 measure 47
-D4     4        q     d 
+D4     4        q     d
 irest 12
 measure 48
-G4     4        q     d 
+G4     4        q     d
 irest  8
 rest   2        e
-D4     2        e     d 
+D4     2        e     d
 measure 49
-C4     4        q     d 
-A4     4        q     d 
-G4     8        h     d 
+C4     4        q     d
+A4     4        q     d
+G4     8        h     d
 measure 50
-F4     4        q     d 
+F4     4        q     d
 rest   2        e
-F4     2        e     d 
+F4     2        e     d
 G4     2        e     d  [
 F4     2        e     d  =
 G4     2        e     d  =
@@ -997,24 +1005,24 @@ A4     2        e     d  ]
 measure 51
 Bf4    2        e     d  [
 F4     2        e     d  ]
-Bf4    4-       q     d        - 
-Bf4    4        q     d 
+Bf4    4-       q     d        -
+Bf4    4        q     d
 A4     4-       q     d        -
 measure 52
-A4     4        q     d 
-G4     4-       q     d        - 
-G4     4        q     d 
-F#4    4        q #   d 
+A4     4        q     d
+G4     4-       q     d        -
+G4     4        q     d
+F#4    4        q #   d
 measure 53
-G3     6        q.    d 
+G3     6        q.    d
 Bf4    2        e     d
 A4     2        e     d  [
 Bf4    2        e     d  =
 A4     2        e     d  =
 G4     2        e     d  ]
 measure 54
-F4     6        q.    d 
-F4     2        e     d 
+F4     6        q.    d
+F4     2        e     d
 Ef4    2        e f   d  [
 F4     2        e     d  =
 Ef4    2        e     d  =
@@ -1022,29 +1030,29 @@ D4     2        e     d  ]
 measure 55
 A4     2        e     u  [
 F4     2        e     d  ]
-A4     4        q     d 
-G4     8        h     d 
+A4     4        q     d
+G4     8        h     d
 measure 56
-F4     8        h     d 
-Ef4    8        h f   d 
+F4     8        h     d
+Ef4    8        h f   d
 measure 57
-D4     8        h     d 
-Ef4    8        h     d 
- C4    8        h f   d 
+D4     8        h     d
+Ef4    8        h     d
+ C4    8        h f   d
 measure 58
-Bf3    4        q     d 
+Bf3    4        q     d
 D5     4        q     d
-G4     4        q     d 
+G4     4        q     d
 Bf4    4        q     d
 measure 59
-A4     6        q.    d 
-F4     2        e     d 
+A4     6        q.    d
+F4     2        e     d
 G4     2        e     d  [
 F4     2        e     d  =
 G4     2        e     d  =
 G4     2        e     d  ]
 measure 60
-irest  4        
+irest  4
 F4     2        e     d  [
 F4     2        e     d  ]
 G4     2        e     d  [
@@ -1052,9 +1060,9 @@ A4     2        e     d  =
 D4     2        e     d  =
 Ef4    2        e f   d  ]
 measure 61
-F4     4        q     d 
-Ef4    4        q f   d 
-Bf3    8        h     d 
+F4     4        q     d
+Ef4    4        q f   d
+Bf3    8        h     d
 mheavy2
 /END
 /eof

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata III
 @@@OTL: Allegro
+@@@OPS: 1
+@@@ONM: 3
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n03-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n03-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:354fa9150a73969d52ffd3f984c9d4fe]
 08/19/93 S. Rasmussen
 WK#:1,3       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata III 
+Church Sonatas, Op. 1: Sonata III
 [Movement 4]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:3/4  C:4  D:Allegro 
+$  K:2   Q:2   T:3/4  C:4  D:Allegro
 A4     4        h     u
 A5     2        q     d
 measure 2
@@ -479,7 +487,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:13f7e748862d3618cff599b04fc27465]
 08/19/93 S. Rasmussen
 WK#:1,3       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata III 
+Church Sonatas, Op. 1: Sonata III
 [Movement 4]
 Violino 2
 
@@ -489,7 +497,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:3/4  C:4  D:Allegro 
+$  K:2   Q:2   T:3/4  C:4  D:Allegro
 rest   6
 measure 2
 rest   6
@@ -892,7 +900,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:ec8c5c142acd36f3d44731039138a855]
 08/19/93 S. Rasmussen
 WK#:1,3       MV#:4
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata III 
+Church Sonatas, Op. 1: Sonata III
 [Movement 4]
 Violone
 
@@ -902,7 +910,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:3/4  C:22  D:Allegro 
+$  K:2   Q:2   T:3/4  C:22  D:Allegro
 rest   6
 measure 2
 rest   6

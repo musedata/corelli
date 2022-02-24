@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata V
 @@@OTL: Adagio
+@@@OPS: 1
+@@@ONM: 5
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n05-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n05-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:2f4870d38d1eccb367eac18e8a95e654]
 08/20/93 S. Rasmussen
 WK#:1,5       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata V 
+Church Sonatas, Op. 1: Sonata V
 [Movement 3]
 Violino 1
 
@@ -24,7 +32,7 @@ score: part 1 of 4
 Stage 2 complete
 SEE FOOTNOTE
 &
-$  K:-1   Q:1   T:3/2  C:4  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:4  D:Adagio
 rest   2        h
 rest   2        h
 D5     2        h     d
@@ -163,7 +171,7 @@ G5     8        h     d
 S   C0:W0
 F5     8        h     d
 mdouble 28
-$  Q:1   T:3/2  D:Adagio e piano 
+$  Q:1   T:3/2  D:Adagio e piano
 S   C0:W0
 rest   2        h
 rest   2        h
@@ -191,7 +199,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:67e0940d35841606504166b2f9a1293c]
 08/20/93 S. Rasmussen
 WK#:1,5       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata V 
+Church Sonatas, Op. 1: Sonata V
 [Movement 3]
 Violino 2
 
@@ -201,7 +209,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:1   T:3/2  C:4  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:4  D:Adagio
 rest   2        h
 rest   2        h
 Bf4    2        h     d
@@ -319,7 +327,7 @@ F5     4        q     d
 E5     4        q     d
 F5     8        h     d
 mdouble 28
-$  Q:1   T:3/2  D:Adagio e piano 
+$  Q:1   T:3/2  D:Adagio e piano
 rest   2        h
 rest   2        h
 F4     2-       h     u        -
@@ -342,7 +350,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:0873f49c110e53407668d25ec29130ec]
 08/20/93 S. Rasmussen
 WK#:1,5       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata V 
+Church Sonatas, Op. 1: Sonata V
 [Movement 3]
 Violone
 
@@ -352,7 +360,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:1   T:3/2  C:22  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:22  D:Adagio
 rest   2        h
 rest   2        h
 G3     2        h     d
@@ -473,7 +481,7 @@ measure 27
 C3     8        h     u
 F2     8        h     u
 mdouble 28
-$  Q:1   T:3/2  D:Adagio e piano 
+$  Q:1   T:3/2  D:Adagio e piano
 rest   2        h
 rest   2        h
 D3     2-       h     d        -
@@ -496,7 +504,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:32fb8c1f5ffc918e4e1f9aea5c42dea5]
 08/20/93 S. Rasmussen
 WK#:1,5       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata V 
+Church Sonatas, Op. 1: Sonata V
 [Movement 3]
 Organo
 
@@ -506,7 +514,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:-1   Q:1   T:3/2  C:22  D:Adagio 
+$  K:-1   Q:1   T:3/2  C:22  D:Adagio
 rest   2        h
 rest   2        h
 G3     2        h     d
@@ -655,7 +663,7 @@ f2              b 3
 C3     8        h     u
 F2     8        h     u
 mdouble 28
-$  Q:1   T:3/2  D:Adagio e piano 
+$  Q:1   T:3/2  D:Adagio e piano
 rest   2        h
 rest   2        h
 f1              6

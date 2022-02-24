@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VII
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 7
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n07-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n07-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -53,7 +61,7 @@ E5     4        q     d
 measure 6
 D5     8        h     d
 *               D +     Soli
-P  C25:f31  C17:Y-25 
+P  C25:f31  C17:Y-25
 A5     4        q     d
 rest   4        q
 measure 7
@@ -77,7 +85,7 @@ B5     8        h     d
 measure 10
 A5     8        h     d
 *               D +     Tutti
-P  C25:f31 
+P  C25:f31
 A5     4        q     d
 rest   4        q
 measure 11
@@ -109,7 +117,7 @@ E5     8        h     d
 D5     8        h     d
 measure 16
 *               D +     Soli
-P  C25:f31 
+P  C25:f31
 A5     6        q.    d
 F#5    2        e     d
 B5     2        e     d  [      (
@@ -120,9 +128,9 @@ measure 17
 E5     8        h     d
 D5     8        h     d
 mheavy4 18      :|:
-P   C1:] 
-*               D +     Tutti 
-P  C25:f31  C17:Y-15 
+P   C1:]
+*               D +     Tutti
+P  C25:f31  C17:Y-15
 F#5    4        q     d
 rest   4        q
 E5     4        q     d
@@ -143,7 +151,7 @@ E5     4        q     d
 F#5    8        h     d
 measure 22
 *               D +     Soli
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 F#5    6        q.    d
 F#5    2        e     d
 F#5    4        q     d

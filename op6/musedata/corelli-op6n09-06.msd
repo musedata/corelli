@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto II
 @@@OTL: Vivace
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 9
+@@@OMV: 6
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n09-06.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n09-06.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -52,8 +60,8 @@ F5     8        q     d
 measure 8
 E5    12        q.    d
 mheavy4 9       :|:
-P  C1:] 
-C6     4        e     d  [ 
+P  C1:]
+C6     4        e     d  [
 Bf5    2        s     d  =[     (
 A5     2        s     d  ==
 G5     2        s     d  ==
@@ -93,8 +101,8 @@ G5     8        q     d
 measure 20
 F5    12        q.    d
 mdouble 21
-P  C1:] 
-E5     2        s     d  [[ 
+P  C1:]
+E5     2        s     d  [[
 A4     2        s     d  ==
 C#5    2        s #   d  ==
 E5     2        s     d  ==
@@ -238,8 +246,8 @@ F5     8        q     d
 measure 52
 E5    12        q.    d
 mheavy4 53      :|:
-P  C1:] 
-C6     4        e     d  [ 
+P  C1:]
+C6     4        e     d  [
 Bf5    2        s     d  =[     (
 A5     2        s     d  ==
 G5     2        s     d  ==
@@ -712,7 +720,7 @@ E2     2        e     u  ]
 measure 44
 A2     6        q.    u
 mheavy3 45      |:
-F3     2        e     d         &0f 
+F3     2        e     d         &0f
 C3     4        q     u
 measure 46
 D3     4        q     d

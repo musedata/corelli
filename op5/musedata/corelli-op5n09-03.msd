@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata IX
 @@@OTL: Adagio
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 9
+@@@OMV: 3
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no09
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n09-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n09-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -52,7 +60,7 @@ B4     3        h.    d
 C#5    1        q     d
 measure 8
 C#5    6        w.    d
-mdouble 
+mdouble
 /END
 /eof
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -106,7 +114,7 @@ D3     6        w.    d
 measure 8
 f1              #
 C#3    6        w.    u
-mdouble 
+mdouble
 /END
 /eof
 //

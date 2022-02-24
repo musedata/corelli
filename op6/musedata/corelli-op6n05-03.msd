@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto V
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 5
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no05
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n05-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n05-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -216,7 +224,7 @@ D5     8        w     d
 C5     4        h     d
 measure 43
 *               D +     Soli
-P  C25:f31  C17:Y-45 
+P  C25:f31  C17:Y-45
 D6     2        q     d        (
 C6     2        q     d        )
 Bf5    2        q     d        (
@@ -240,7 +248,7 @@ F5     2        q     d        )
 Ef5    2        q f   d        (
 D5     2        q     d        )
 *               D +     Tutti
-P  C25:f31  C17:Y-15 
+P  C25:f31  C17:Y-15
 C5     6        h.    d
 C5     2        q     d
 measure 46
@@ -335,7 +343,7 @@ D5     4        h     d
 measure 62
 C5     8        w     d
 rest   4        h               F
-P    C33:x3 
+P    C33:x3
 $   D:Adagio
 F5     4        h     d
 measure 63
@@ -692,7 +700,7 @@ WK#:6,5       MV#:3
 Augener/Chrysander 1888-1891
 Concerto V
 III
-Violoncello concertino 
+Violoncello concertino
 5 15
 Group memberships: score
 score: part 3 of 7
@@ -2135,7 +2143,7 @@ WK#:6,5       MV#:3
 Augener/Chrysander 1888-1891
 Concerto V
 III
-Basso concerto grosso 
+Basso concerto grosso
 5 15
 Group memberships: score
 score: part 7 of 7

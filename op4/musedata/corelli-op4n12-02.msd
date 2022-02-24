@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata XII
 @@@OTL: Allemanda
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 12
+@@@OMV: 2
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no12
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n12-02.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n12-02.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -718,7 +726,7 @@ rest   2        q
 f1              6\
 B3     2-       q     d        -
 measure 24
-f2              4+ 2 
+f2              4+ 2
 B3     2        q     d
 f1              6
 A3     2        q     d

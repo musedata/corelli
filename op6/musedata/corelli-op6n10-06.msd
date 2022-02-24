@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Chamber Concerto II
 @@@OTL: Minuetto
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 10
+@@@OMV: 6
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no10
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n10-06.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n10-06.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -55,8 +63,8 @@ G5     2        e     d  ]      )
 measure 8
 D5     6        q.    d
 mheavy4 9       :|:
-P  C1:] 
-D5     2        e     d  [ 
+P  C1:]
+D5     2        e     d  [
 D5     2        e     d  =
 E5     2        e     d  ]
 measure 10
@@ -112,8 +120,8 @@ D5     4        q     d
 measure 20
 C5     6        q.    d
 mdouble 21
-P  C1:] 
-B4     1        s     u  [[ 
+P  C1:]
+B4     1        s     u  [[
 E4     1        s     u  ==
 G#4    1        s #   u  ==
 B4     1        s     u  ==
@@ -299,8 +307,8 @@ G5     2        e     d  ]      )
 measure 52
 D5     6        q.    d
 mheavy4 53      :|:
-P  C1:] 
-D5     2        e     d  [ 
+P  C1:]
+D5     2        e     d  [
 D5     2        e     d  =
 E5     2        e     d  ]
 measure 54

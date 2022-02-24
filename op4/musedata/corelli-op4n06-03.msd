@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 4: Sonata VI
 @@@OTL: Giga
-@@@SMS: Augener/Chrysander
+@@@OPS: 4
+@@@ONM: 6
+@@@OMV: 3
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op4-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op4/musedata/corelli-op4n06-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op4/musedata/corelli-op4n06-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -19,10 +27,10 @@ Violino 1
 3 9
 Group memberships: score
 score: part 1 of 3
-& 
-Q parameter changed from 2 to 3 for printing purposes.  -EC 
-& 
-$  K:3   Q:3   T:12/8  C:4  D:Allegro 
+&
+Q parameter changed from 2 to 3 for printing purposes.  -EC
+&
+$  K:3   Q:3   T:12/8  C:4  D:Allegro
 B5     3        q.    d
 rest   1        e
 rest   1        e
@@ -305,10 +313,10 @@ Violino 2
 3 9
 Group memberships: score
 score: part 2 of 3
-& 
-Q parameter changed from 2 to 3 for printing purposes.  -EC 
-& 
-$  K:3   Q:3   T:12/8  C:4  D:Allegro 
+&
+Q parameter changed from 2 to 3 for printing purposes.  -EC
+&
+$  K:3   Q:3   T:12/8  C:4  D:Allegro
 G#5    3        q.    d
 rest   1        e
 rest   1        e
@@ -520,7 +528,7 @@ Violone e Cembalo
 3 9
 Group memberships: score
 score: part 3 of 3
-$  K:3   Q:6   T:1/1  C:22  D:Allegro 
+$  K:3   Q:6   T:1/1  C:22  D:Allegro
 E3     6        q     d
 rest   3        e
 E3     3        e     d

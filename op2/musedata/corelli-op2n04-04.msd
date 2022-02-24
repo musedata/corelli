@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata IV
-@@@OTL: Giga 
+@@@OTL: Giga
+@@@OPS: 2
+@@@ONM: 4
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no04
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n04-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n04-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:24f3fdb7da851dde4ba336c12222960f]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Giga 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata IV
+Giga
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:6/8  C:4  D:Allegro 
+$  K:1   Q:2   T:6/8  C:4  D:Allegro
 B4     1        e     d
 measure 1
 G4     2        q     u
@@ -303,9 +311,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:95c0a30dd62f6b4d7fc291c27275b884]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Giga 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata IV
+Giga
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -313,7 +321,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:6/8  C:4  D:Allegro 
+$  K:1   Q:2   T:6/8  C:4  D:Allegro
 rest   1        e
 measure 1
 rest   2        q
@@ -579,16 +587,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:6517cf832b16dcce1856e9e1aa64f5d4]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Giga 
-Violone 
+Chamber Sonatas, Op. 2: Sonata IV
+Giga
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:6/8  C:22  D:Allegro 
+$  K:1   Q:2   T:6/8  C:22  D:Allegro
 rest   1        e
 measure 1
 rest   2        q
@@ -824,16 +832,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:a5c7278c8b6fa9b1dd1bc4d0c3489cdc]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Giga 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata IV
+Giga
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:6/8  C:22  D:Allegro 
+$  K:1   Q:2   T:6/8  C:22  D:Allegro
 rest   1        e
 measure 1
 rest   2        q
@@ -1198,8 +1206,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:e51a7bfc6c89fd4a6a6d2dbe99481a71]
 01/09/95 W. Hewlett
 WK#:2,4       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata IV 
-Giga 
+Chamber Sonatas, Op. 2: Sonata IV
+Giga
 Violone e Cembalo
 
 Group memberships: score
@@ -1207,7 +1215,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:1   Q:2   T:6/8  C:22  D:Allegro 
+$  K:1   Q:2   T:6/8  C:22  D:Allegro
 rest   1        e
 measure 1
 rest   2        q

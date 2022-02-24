@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 3: Sonata I
 @@@OTL: Vivace
+@@@OPS: 3
+@@@ONM: 1
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op3-no01
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op3/musedata/corelli-op3n01-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op3/musedata/corelli-op3n01-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -146,8 +154,8 @@ G5     4        h     d
 measure 31
 F5     6        h.    d
 mheavy4 32      :|:
-P  C1:] 
-C6     3        q.    d 
+P  C1:]
+C6     3        q.    d
 Bf5    1        e     d
 A5     2        q     d
 measure 33

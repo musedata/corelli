@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata VII
 @@@OTL: Allegro
+@@@OPS: 1
+@@@ONM: 7
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no07
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n07-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n07-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:ffc043f18de09c9de51e72f36fd2b832]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 3]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:6/8  C:4  D:Allegro 
+$  K:0   Q:4   T:6/8  C:4  D:Allegro
 C5     4        q     d
 G4     2        e     u
 C5     2        e     d  [
@@ -346,7 +354,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:1b2a0961166fbe6cdd32366ca8bde4e6]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 3]
 Violino 2
 
@@ -356,7 +364,7 @@ score: part 2 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:6/8  C:4  D:Allegro 
+$  K:0   Q:4   T:6/8  C:4  D:Allegro
 rest  12
 measure 2
 rest  12
@@ -639,7 +647,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:3d185b75c7317479ceed59885ae880a6]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 3]
 Violone (o Arcileuto)
 
@@ -649,7 +657,7 @@ score: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:6/8  C:22  D:Allegro 
+$  K:0   Q:4   T:6/8  C:22  D:Allegro
 rest  12
 measure 2
 rest  12
@@ -910,7 +918,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:987f5fbc0fd25b218449924e9de06d5c]
 08/31/93 S. Rasmussen
 WK#:1,7       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata VII 
+Church Sonatas, Op. 1: Sonata VII
 [Movement 3]
 Organo
 
@@ -920,7 +928,7 @@ score: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:0   Q:4   T:6/8  C:22  D:Allegro 
+$  K:0   Q:4   T:6/8  C:22  D:Allegro
 C4     4        q     d
 f1              6
 B3     2        e     d

@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas for Violin and Continuo, op. 5: Sonata III
 @@@OTL: Allegro
-@@@SMS: Augener/Chrysander
+@@@OPS: 5
+@@@ONM: 3
+@@@OMV: 5
+@@@
+@@@SMS: Gasparo Pietra Santa, Roma 1700/1979
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op5-no03
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op5/musedata/corelli-op5n03-05.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op5/musedata/corelli-op5n03-05.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -19,7 +27,7 @@ Violino solo
 1 49
 Group memberships: score
 score: part 1 of 2
-$  K:0   Q:2   T:12/8  C:4  D:Allegro 
+$  K:0   Q:2   T:12/8  C:4  D:Allegro
 G4     1        e     u
 measure 1
 C5     1        e     d  [     (
@@ -217,8 +225,8 @@ F#4    1        e     u  ]
 G3     3-       q.    u        -
 G3     1        e     u
 mheavy4         :|:
-P  C1:] 
-D5     1        e     d  [ 
+P  C1:]
+D5     1        e     d  [
 C5     1        e     d  ]
 measure 17
 B4     1        e     d  [
@@ -518,9 +526,9 @@ Violone e Cimbalo
 Group memberships: score
 score: part 2 of 2
 $  K:0   Q:4   T:1/1  C:22  D:Allegro
-rest   2        e 
+rest   2        e
 measure 1
-C4     6        q     d 
+C4     6        q     d
 f3              6 4 2
 B3     6        q     d
 A3     6        q     d

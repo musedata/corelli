@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Church Sonatas, Op. 1: Sonata II
 @@@OTL: Adagio
+@@@OPS: 1
+@@@ONM: 2
+@@@OMV: 3
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op1-no02
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op1/musedata/corelli-op1n02-03.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op1/musedata/corelli-op1n02-03.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,7 +21,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:722c3a40bed53d1f4542bde08e297007]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 3]
 Violino 1
 
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete.
 &
-$ K:1   Q:2   T:3/4   C:4   D:Adagio 
+$ K:1   Q:2   T:3/4   C:4   D:Adagio
 rest   2        q
 G5     2        q     d
 F#5    2        q     d
@@ -128,7 +136,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:94d048f6d0b7516e1d2aedcff2bbf245]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 3]
 Violino 2
 
@@ -138,7 +146,7 @@ score: part 2 of 3
 &
 Stage 2 complete.
 &
-$ K:1   Q:2   T:3/4   C:4   D:Adagio 
+$ K:1   Q:2   T:3/4   C:4   D:Adagio
 rest   2        q
 E5     2        q     d
 D#5    2        q #   d
@@ -244,7 +252,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:d30e5df532166c54d0316bf7f676e37a]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 3]
 Violone
 
@@ -550,7 +558,7 @@ TIMESTAMP: NOV/27/2005 [md5sum:819c0ce93b7203303cfd9ed7fc937a25]
 02/15/90 S. Rasmussen
 WK#:1,2       MV#:3
 Augener/Chrysander
-Church Sonatas, Op. 1: Sonata II 
+Church Sonatas, Op. 1: Sonata II
 [Movement 3]
 Violone e Organo
 
@@ -559,7 +567,7 @@ score: part 3 of 3
 &
 Stage 2 complete.
 &
-$ K:1   Q:2   T:3/4   C:22   D:Adagio 
+$ K:1   Q:2   T:3/4   C:22   D:Adagio
 rest   2        q
 E3     2        q     u
 B2     2        q     u

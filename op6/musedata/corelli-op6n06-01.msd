@@ -2,8 +2,16 @@
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: 12 concerti grossi, op. 6, Church Concerto VI
 @@@OTL: Adagio
-@@@SMS: Augener/Chrysander
+@@@OPS: 6
+@@@ONM: 6
+@@@OMV: 1
+@@@
+@@@SMS: Augener/Chrysander 1888-1891
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op6-no06
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op6/musedata/corelli-op6n06-01.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op6/musedata/corelli-op6n06-01.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -400,7 +408,7 @@ E3     2        q     d
 measure 25
 D3     2        q     d
 D3     2        q     d
-f1              (6) 
+f1              (6)
 C3     2        q     u
 measure 26
 Bf2    2        q     u

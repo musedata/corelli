@@ -1,9 +1,17 @@
 @@@COM: Corelli, Arcangelo
 @@@CDT: 1652/02/17-1713/01/08
 @@@OPR: Chamber Sonatas, Op. 2: Sonata VIII
-@@@OTL: Tempo di Gavotta 
+@@@OTL: Tempo di Gavotta
+@@@OPS: 2
+@@@ONM: 8
+@@@OMV: 4
+@@@
 @@@SMS: Augener/Chrysander
+@@@URL: http://corelli.ccarh.org
 @@@URL-pdf: https://pdf.musedata.org/?id=corelli-op2-no08
+@@@URL-github: https://github.com/musedata/corelli/blob/master/op2/musedata/corelli-op2n08-04.msd
+@@@URL-vhv: https://verovio.humdrum.org?file=github:musedata/corelli/op2/musedata/corelli-op2n08-04.msd
+@@@title: @{OPR}, @{ONM}. ${OTL}
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 FILENAME = 01
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -13,9 +21,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:12a7ec64050412419cb237554e9df109]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Gavotta 
-Violino 1 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Gavotta
+Violino 1
 
 Group memberships: sound score
 sound: part 1 of 4
@@ -23,7 +31,7 @@ score: part 1 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:0/0  C:4  D:Allegro 
+$  K:2   Q:2   T:0/0  C:4  D:Allegro
 F#4    1        e     u
 measure 1
 B4     2        q     d
@@ -57,8 +65,8 @@ F#5    2        q     d
 E5     2        q     d
 F#5    3        q.    d
 mheavy4                  :|:
-P C1:] 
-C#5    1        e     d 
+P C1:]
+C#5    1        e     d
 measure 8
 F#5    2        q     d
 G#5    2        q #   d
@@ -167,9 +175,9 @@ TIMESTAMP: NOV/27/2005 [md5sum:aff088dafcb5ad13371014d4e4391177]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Gavotta 
-Violino 2 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Gavotta
+Violino 2
 
 Group memberships: sound score
 sound: part 2 of 4
@@ -177,7 +185,7 @@ score: part 2 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:0/0  C:4  D:Allegro 
+$  K:2   Q:2   T:0/0  C:4  D:Allegro
 rest   1        e
 measure 1
 rest   4        h
@@ -327,16 +335,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:fe5d24813afa4143cf4c6682bc35e8f6]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Gavotta 
-Violone 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Gavotta
+Violone
 
 Group memberships: sound
 sound: part 3 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:0/0  C:22  D:Allegro 
+$  K:2   Q:2   T:0/0  C:22  D:Allegro
 rest   1        e
 measure 1
 rest   2        q
@@ -484,16 +492,16 @@ TIMESTAMP: NOV/27/2005 [md5sum:53be87ae17da4c71b355ca22f309f383]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Gavotta 
-Cembalo 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Gavotta
+Cembalo
 
 Group memberships: sound
 sound: part 4 of 4
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:0/0  C:22  D:Allegro 
+$  K:2   Q:2   T:0/0  C:22  D:Allegro
 rest   1        e
 measure 1
 rest   2        q
@@ -747,8 +755,8 @@ TIMESTAMP: NOV/27/2005 [md5sum:18eb02065ebaeadfdfe3b51fcaa8ad96]
 01/09/95 W. Hewlett
 WK#:2,8       MV#:4
 Augener/Chrysander
-Chamber Sonatas, Op. 2: Sonata VIII 
-Tempo di Gavotta 
+Chamber Sonatas, Op. 2: Sonata VIII
+Tempo di Gavotta
 Violone e Cembalo
 
 Group memberships: score
@@ -756,7 +764,7 @@ score: part 3 of 3
 &
 Stage 2 complete
 &
-$  K:2   Q:2   T:0/0  C:22  D:Allegro 
+$  K:2   Q:2   T:0/0  C:22  D:Allegro
 rest   1        e
 measure 1
 rest   2        q
