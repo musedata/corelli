@@ -89,59 +89,82 @@ op1/musedata/corelli-op1n12-04.msd	op1n12-04	4. <hlstart>Allegro<hlend>
 
 @dummy	op2n00	<h2>Sonate da camera, Op. 2</h2>
 
+@op2n01-01:op2n01-02:op2n01-03:op2n01-04	op2n01-00	Sonata no. 1 in D major, Op. 2
 
-op2/musedata/corelli-op2n01-01.msd	op2n01-01
-op2/musedata/corelli-op2n01-02.msd	op2n01-02
-op2/musedata/corelli-op2n01-03.msd	op2n01-03
-op2/musedata/corelli-op2n01-04.msd	op2n01-04
+op2/musedata/corelli-op2n01-01.msd	op2n01-01	1. <hlstart>Preludio: (Largo)<hlend>
+op2/musedata/corelli-op2n01-02.msd	op2n01-02	2. <hlstart>Allemanda: Largo<hlend>
+op2/musedata/corelli-op2n01-03.msd	op2n01-03	3. <hlstart>Corrente: Allegro<hlend>
+op2/musedata/corelli-op2n01-04.msd	op2n01-04	4. <hlstart>Gavotta: Allegro<hlend>
 
-op2/musedata/corelli-op2n02-01.msd	op2n02-01
-op2/musedata/corelli-op2n02-02.msd	op2n02-02
-op2/musedata/corelli-op2n02-03.msd	op2n02-03
+@op2n02-01:op2n02-02:op2n02-03:op2n02-04	op2n02-00	Sonata no. 2 in D minor, Op. 2
 
-op2/musedata/corelli-op2n03-01.msd	op2n03-01
-op2/musedata/corelli-op2n03-02.msd	op2n03-02
-op2/musedata/corelli-op2n03-03.msd	op2n03-03
-op2/musedata/corelli-op2n03-04.msd	op2n03-04
+op2/musedata/corelli-op2n02-01.msd	op2n02-01	1. <hlstart>Allemanda: Adagio<hlend>
+op2/musedata/corelli-op2n02-02.msd	op2n02-02	2. <hlstart>Corrente: Allegro<hlend>
+op2/musedata/corelli-op2n02-03.msd	op2n02-03	3. <hlstart>Giga: Allegro<hlend>
 
-op2/musedata/corelli-op2n04-01.msd	op2n04-01
-op2/musedata/corelli-op2n04-02.msd	op2n04-02
-op2/musedata/corelli-op2n04-03.msd	op2n04-03
-op2/musedata/corelli-op2n04-04.msd	op2n04-04
+@op2n03-01:op2n03-02:op2n03-03:op2n03-04	op2n03-00	Sonata no. 3 in C major, Op. 2
 
-op2/musedata/corelli-op2n05-01.msd	op2n05-01
-op2/musedata/corelli-op2n05-02.msd	op2n05-02
-op2/musedata/corelli-op2n05-03.msd	op2n05-03
-op2/musedata/corelli-op2n05-04.msd	op2n05-04
+op2/musedata/corelli-op2n03-01.msd	op2n03-01	1. <hlstart>Preludio: Largo<hlend>
+op2/musedata/corelli-op2n03-02.msd	op2n03-02	2. <hlstart>Allemanda: Allegro<hlend>
+op2/musedata/corelli-op2n03-03.msd	op2n03-03	3. <hlstart>Adagio<hlend>
+op2/musedata/corelli-op2n03-04.msd	op2n03-04	4. <hlstart>Allemanda: Presto<hlend>
 
-op2/musedata/corelli-op2n06-01.msd	op2n06-01
-op2/musedata/corelli-op2n06-02.msd	op2n06-02
-op2/musedata/corelli-op2n06-03.msd	op2n06-03
+@op2n04-01:op2n04-02:op2n04-03:op2n04-04	op2n04-00	Sonata no. 4 in E minor, Op. 2
 
-op2/musedata/corelli-op2n07-01.msd	op2n07-01
-op2/musedata/corelli-op2n07-02.msd	op2n07-02
-op2/musedata/corelli-op2n07-03.msd	op2n07-03
-op2/musedata/corelli-op2n07-04.msd	op2n07-04
+op2/musedata/corelli-op2n04-01.msd	op2n04-01	1. <hlstart>Preludio: Adagio<hlend>
+op2/musedata/corelli-op2n04-02.msd	op2n04-02	2. <hlstart>Allemanda: Presto<hlend>
+op2/musedata/corelli-op2n04-03.msd	op2n04-03	3. <hlstart>Grave&mdash;Adagio<hlend>
+op2/musedata/corelli-op2n04-04.msd	op2n04-04	4. <hlstart>Giga: Allegro<hlend>
 
-op2/musedata/corelli-op2n08-01.msd	op2n08-01
-op2/musedata/corelli-op2n08-02.msd	op2n08-02
-op2/musedata/corelli-op2n08-03.msd	op2n08-03
-op2/musedata/corelli-op2n08-04.msd	op2n08-04
+@op2n05-01:op2n05-02:op2n05-03:op2n05-04	op2n05-00	Sonata no. 5 in B-flat major, Op. 2
 
-op2/musedata/corelli-op2n09-01.msd	op2n09-01
-op2/musedata/corelli-op2n09-02.msd	op2n09-02
-op2/musedata/corelli-op2n09-03.msd	op2n09-03
+op2/musedata/corelli-op2n05-01.msd	op2n05-01	1. <hlstart>Preludio: Adagio<hlend>
+op2/musedata/corelli-op2n05-02.msd	op2n05-02	2. <hlstart>Allemanda: Allegro<hlend>
+op2/musedata/corelli-op2n05-03.msd	op2n05-03	3. <hlstart>Sarabanda: Adagio<hlend>
+op2/musedata/corelli-op2n05-04.msd	op2n05-04	4. <hlstart>Tempo di Gavotta: Allegro<hlend>
 
-op2/musedata/corelli-op2n10-01.msd	op2n10-01
-op2/musedata/corelli-op2n10-02.msd	op2n10-02
-op2/musedata/corelli-op2n10-03.msd	op2n10-03
-op2/musedata/corelli-op2n10-04.msd	op2n10-04
+@op2n06-01:op2n06-02:op2n06-03:op2n06-04	op2n06-00	Sonata no. 6 in G minor, Op. 2
 
-op2/musedata/corelli-op2n11-01.msd	op2n11-01
-op2/musedata/corelli-op2n11-02.msd	op2n11-02
-op2/musedata/corelli-op2n11-03.msd	op2n11-03
+op2/musedata/corelli-op2n06-01.msd	op2n06-01	1. <hlstart>Allemanda: Largo<hlend>
+op2/musedata/corelli-op2n06-02.msd	op2n06-02	2. <hlstart>Corrente: Allegro<hlend>
+op2/musedata/corelli-op2n06-03.msd	op2n06-03	3. <hlstart>Giga: Allegro<hlend>
 
-op2/musedata/corelli-op2n12-01.msd	op2n12-01
+@op2n07-01:op2n07-02:op2n07-03:op2n07-04	op2n07-00	Sonata no. 7 in F major, Op. 2
+
+op2/musedata/corelli-op2n07-01.msd	op2n07-01	1. <hlstart>Preludio: Adagio<hlend>
+op2/musedata/corelli-op2n07-02.msd	op2n07-02	2. <hlstart>Allemanda: Allegro<hlend>
+op2/musedata/corelli-op2n07-03.msd	op2n07-03	3. <hlstart>Corrente: Allegro<hlend>
+op2/musedata/corelli-op2n07-04.msd	op2n07-04	4. <hlstart>Giga: Allegro<hlend>
+
+@op2n08-01:op2n08-02:op2n08-03:op2n08-04	op2n08-00	Sonata no. 8 in B minor, Op. 2
+
+op2/musedata/corelli-op2n08-01.msd	op2n08-01	1. <hlstart>Preludio: Adagio<hlend>
+op2/musedata/corelli-op2n08-02.msd	op2n08-02	2. <hlstart>Allemanda: Largo<hlend>
+op2/musedata/corelli-op2n08-03.msd	op2n08-03	3. <hlstart>Tempo di Sarabanda: Adagio<hlend>
+op2/musedata/corelli-op2n08-04.msd	op2n08-04	4. <hlstart>Tempo di Gavotta: Allegro<hlend>
+
+@op2n09-01:op2n09-02:op2n09-03:op2n09-04	op2n09-00	Sonata no. 9 in F-sharp minor, Op. 2
+
+op2/musedata/corelli-op2n09-01.msd	op2n09-01	1. <hlstart>Allemanda: Largo<hlend>
+op2/musedata/corelli-op2n09-02.msd	op2n09-02	2. <hlstart>Tempo di Sarabanda: Largo<hlend>
+op2/musedata/corelli-op2n09-03.msd	op2n09-03	3. <hlstart>Giga: Allegro<hlend>
+
+@op2n10-01:op2n10-02:op2n10-03:op2n10-04	op2n10-00	Sonata no. 10 in E major, Op. 2
+
+op2/musedata/corelli-op2n10-01.msd	op2n10-01	1. <hlstart>Preludio: Adagio<hlend>
+op2/musedata/corelli-op2n10-02.msd	op2n10-02	2. <hlstart>Allemanda: Allegro<hlend>
+op2/musedata/corelli-op2n10-03.msd	op2n10-03	3. <hlstart>Sarabanda: Largo<hlend>
+op2/musedata/corelli-op2n10-04.msd	op2n10-04	4. <hlstart>Corrente: Allegro<hlend>
+
+@op2n11-01:op2n11-02:op2n11-03:op2n11-04	op2n11-00	Sonata no. 11 in E-flat major, Op. 2
+
+op2/musedata/corelli-op2n11-01.msd	op2n11-01	1. <hlstart>Preludio: Adagio<hlend>
+op2/musedata/corelli-op2n11-02.msd	op2n11-02	2. <hlstart>Allemanda: Presto<hlend>
+op2/musedata/corelli-op2n11-03.msd	op2n11-03	3. <hlstart>Giga: Allegro<hlend>
+
+@op2n12-01:op2n12-02:op2n12-03:op2n12-04	op2n12-00	Sonata no. 12 in G major, Op. 2
+
+op2/musedata/corelli-op2n12-01.msd	op2n12-01	Ciacona: Largo
 
 
 @dummy	op3n00	<h2>Sonate da chiesa, Op. 3</h2>
