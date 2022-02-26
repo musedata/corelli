@@ -1,4 +1,4 @@
-
+Vivace
 
 @dummy	op1n00	<h2>Sonate da chiesa, Op. 1</h2>
 
@@ -70,7 +70,7 @@ op1/musedata/corelli-op1n10-01.msd	op1n10-01	1. <hlstart>Grave<hlend>
 op1/musedata/corelli-op1n10-02.msd	op1n10-02	2. <hlstart>Allegro<hlend>
 op1/musedata/corelli-op1n10-03.msd	op1n10-03	3. <hlstart>Allegro<hlend>
 op1/musedata/corelli-op1n10-04.msd	op1n10-04	4. <hlstart>Adagio<hlend>
-op1/musedata/corelli-op1n10-05.msd	op1n10-05	5. <hlstart>???<hlend>
+op1/musedata/corelli-op1n10-05.msd	op1n10-05	5. <hlstart>Allegro<hlend>
 
 @op1n11-01:op1n11-02:op1n11-03:op1n11-04	op1n11-00	Sonata no. 11 in D minor, Op. 1
 
@@ -262,22 +262,22 @@ op3/musedata/corelli-op3n12-06.msd	op3n12-06	6. <hlstart>Allegro<hlend>
 
 op4/musedata/corelli-op4n01-01.msd	op4n01-01	1. <hlstart>Preludio: Largo<hlend>
 op4/musedata/corelli-op4n01-02.msd	op4n01-02	2. <hlstart>Corrente: Allegro<hlend>
-op4/musedata/corelli-op4n01-03.msd	op4n01-03	3. <hlstart>???<hlend>
-op4/musedata/corelli-op4n01-04.msd	op4n01-04	4. <hlstart>???<hlend>
+op4/musedata/corelli-op4n01-03.msd	op4n01-03	3. <hlstart>Adagio<hlend>
+op4/musedata/corelli-op4n01-04.msd	op4n01-04	4. <hlstart>Allegro<hlend>
 
 @op4n02-01:op4n02-02:op4n02-03:op4n02-04	op4n02-00	Sonata no. 2 in G minor, Op. 4
 
 op4/musedata/corelli-op4n02-01.msd	op4n02-01	1. <hlstart>Preludio: Grave<hlend>
 op4/musedata/corelli-op4n02-02.msd	op4n02-02	2. <hlstart>Allemanda: Allegro<hlend>
-op4/musedata/corelli-op4n02-03.msd	op4n02-03	3. <hlstart>???<hlend>
-op4/musedata/corelli-op4n02-04.msd	op4n02-04	4. <hlstart>???<hlend>
+op4/musedata/corelli-op4n02-03.msd	op4n02-03	3. <hlstart>Grave<hlend>
+op4/musedata/corelli-op4n02-04.msd	op4n02-04	4. <hlstart>Vivace<hlend>
 
 @op4n03-01:op4n03-02:op4n03-03:op4n03-04	op4n03-00	Sonata no. 3 in A major, Op. 4
 
 op4/musedata/corelli-op4n03-01.msd	op4n03-01	1. <hlstart>Preludio: Largo<hlend>
 op4/musedata/corelli-op4n03-02.msd	op4n03-02	2. <hlstart>Corrente: Allegro<hlend>
 op4/musedata/corelli-op4n03-03.msd	op4n03-03	3. <hlstart>Sarabanda: Largo<hlend>
-op4/musedata/corelli-op4n03-04.msd	op4n03-04	4. <hlstart>???<hlend>
+op4/musedata/corelli-op4n03-04.msd	op4n03-04	4. <hlstart>Allegro<hlend>
 
 @op4n04-01:op4n04-02:op4n04-03:op4n04-04	op4n04-00	Sonata no. 4 in D major, Op. 4
 
@@ -290,27 +290,27 @@ op4/musedata/corelli-op4n04-04.msd	op4n04-04	4. <hlstart>Giga: Allegro<hlend>
 
 op4/musedata/corelli-op4n05-01.msd	op4n05-01	1. <hlstart>Preludio: Adagio<hlend>
 op4/musedata/corelli-op4n05-02.msd	op4n05-02	2. <hlstart>Allemanda: Allegro<hlend>
-op4/musedata/corelli-op4n05-03.msd	op4n05-03	3. <hlstart>???<hlend>
-op4/musedata/corelli-op4n05-04.msd	op4n05-04	4. <hlstart>???<hlend>
+op4/musedata/corelli-op4n05-03.msd	op4n05-03	3. <hlstart>Corrente: Vivace<hlend>
+op4/musedata/corelli-op4n05-04.msd	op4n05-04	4. <hlstart>Gavotta: Allegro<hlend>
 
 @op4n06-01:op4n06-02:op4n06-03	op4n06-00	Sonata no. 6 in E major, Op. 4
 
 op4/musedata/corelli-op4n06-01.msd	op4n06-01	1. <hlstart>Preludio: Adagio<hlend>
 op4/musedata/corelli-op4n06-02.msd	op4n06-02	2. <hlstart>Allemanda: Allegro<hlend>
-op4/musedata/corelli-op4n06-03.msd	op4n06-03	3. <hlstart>???<hlend>
+op4/musedata/corelli-op4n06-03.msd	op4n06-03	3. <hlstart>Giga: Allegro<hlend>
 
 @op4n07-01:op4n07-02:op4n07-03:op4n07-04	op4n07-00	Sonata no. 7 in F major, Op. 4
 
 op4/musedata/corelli-op4n07-01.msd	op4n07-01	1. <hlstart>Preludio: Largo<hlend>
 op4/musedata/corelli-op4n07-02.msd	op4n07-02	2. <hlstart>Corrente: Allegro<hlend>
 op4/musedata/corelli-op4n07-03.msd	op4n07-03	3. <hlstart>Sarabanda: Vivace<hlend>
-op4/musedata/corelli-op4n07-04.msd	op4n07-04	4. <hlstart>???<hlend>
+op4/musedata/corelli-op4n07-04.msd	op4n07-04	4. <hlstart>Giga: Allegro<hlend>
 
 @op4n08-01:op4n08-02:op4n08-03	op4n08-00	Sonata no. 8 in D minor, Op. 4
 
 op4/musedata/corelli-op4n08-01.msd	op4n08-01	1. <hlstart>Preludio: Grave<hlend>
 op4/musedata/corelli-op4n08-02.msd	op4n08-02	2. <hlstart>Allemanda: Allegro<hlend>
-op4/musedata/corelli-op4n08-03.msd	op4n08-03	3. <hlstart>???<hlend>
+op4/musedata/corelli-op4n08-03.msd	op4n08-03	3. <hlstart>Sarabanda: Allegro<hlend>
 
 @op4n09-01:op4n09-02:op4n09-03	op4n09-00	Sonata no. 9 in B-flat major, Op. 4
 
@@ -323,19 +323,19 @@ op4/musedata/corelli-op4n09-04.msd	op4n09-04	4. <hlstart>Tempo di Gavotta: Alleg
 
 op4/musedata/corelli-op4n10-01.msd	op4n10-01	1. <hlstart>Preludio: Adagio<hlend>
 op4/musedata/corelli-op4n10-02.msd	op4n10-02	2. <hlstart>Grave<hlend>
-op4/musedata/corelli-op4n10-03.msd	op4n10-03	3. <hlstart>???<hlend>
+op4/musedata/corelli-op4n10-03.msd	op4n10-03	3. <hlstart>Tempo di Gavotta: Presto<hlend>
 
 @op4n11-01:op4n11-02:op4n11-03	op4n11-00	Sonata no. 11 in C minor, Op. 4
 
 op4/musedata/corelli-op4n11-01.msd	op4n11-01	1. <hlstart>Preludio: Largo<hlend>
 op4/musedata/corelli-op4n11-02.msd	op4n11-02	2. <hlstart>Corrente: Allegro<hlend>
-op4/musedata/corelli-op4n11-03.msd	op4n11-03	3. <hlstart>???<hlend>
+op4/musedata/corelli-op4n11-03.msd	op4n11-03	3. <hlstart>Allemanda: Allegro<hlend>
 
 @op4n12-01:op4n12-02:op4n12-03	op4n12-00	Sonata no. 12 in B minor, Op. 4
 
 op4/musedata/corelli-op4n12-01.msd	op4n12-01	1. <hlstart>Preludio: Largo<hlend>
 op4/musedata/corelli-op4n12-02.msd	op4n12-02	2. <hlstart>Allemanda: Presto<hlend>
-op4/musedata/corelli-op4n12-03.msd	op4n12-03	3. <hlstart>???<hlend>
+op4/musedata/corelli-op4n12-03.msd	op4n12-03	3. <hlstart>Giga: Allegro<hlend>
 
 
 @dummy	op5n00	<h2>Violin sonatas, Op. 5</h2>
@@ -493,7 +493,7 @@ op6/musedata/corelli-op6n08-03.msd	op6n08-03	3. <hlstart>Adagio&mdash;Allegro<hl
 op6/musedata/corelli-op6n08-04.msd	op6n08-04	4. <hlstart>Vivace<hlend>
 op6/musedata/corelli-op6n08-05.msd	op6n08-05	5. <hlstart>Allegro<hlend>
 op6/musedata/corelli-op6n08-06.msd	op6n08-06	6. <hlstart>Pastorale ad libitum: Largo<hlend>
-op6/musedata/corelli-op6n08-07.msd	op6n08-07	7. <hlstart>???<hlend>
+op6/musedata/corelli-op6n08-07.msd	op6n08-07	7. <hlstart>Largo<hlend>
 
 @op6n09-01:op6n09-02:op6n09-03:op6n09-04:op6n09-05:op6n09-06	op6n09-00	Concerto grosso no. 9 in F major, Op. 6
 
